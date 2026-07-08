@@ -602,11 +602,19 @@ details {
 
 .case-grid {
   grid-template-columns: repeat(2, 1fr);
-  margin-top: 34px;
+  margin-top: 30px;
 }
 
 .case-card {
   padding: clamp(28px, 4vw, 42px);
+}
+
+#case-studies {
+  padding-bottom: clamp(42px, 5vw, 64px);
+}
+
+.pricing-section {
+  padding-top: clamp(42px, 5vw, 64px);
 }
 
 .stat-line {
