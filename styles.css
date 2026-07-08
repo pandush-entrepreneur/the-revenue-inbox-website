@@ -579,8 +579,12 @@ details {
   overflow: hidden;
 }
 
-.video-card:nth-last-child(2) {
-  grid-column-start: 2;
+.video-card:nth-child(4) {
+  grid-column: 2 / span 2;
+}
+
+.video-card:nth-child(5) {
+  grid-column: 4 / span 2;
 }
 
 .video-wrap {
@@ -1054,7 +1058,8 @@ details p {
   }
 
   .video-card,
-  .video-card:nth-last-child(2) {
+  .video-card:nth-child(4),
+  .video-card:nth-child(5) {
     grid-column: auto;
   }
 
