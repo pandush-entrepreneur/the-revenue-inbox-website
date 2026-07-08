@@ -570,12 +570,17 @@ details {
 }
 
 .video-grid {
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   margin-top: 36px;
 }
 
 .video-card {
+  grid-column: span 2;
   overflow: hidden;
+}
+
+.video-card:nth-last-child(2) {
+  grid-column-start: 2;
 }
 
 .video-wrap {
@@ -1046,6 +1051,11 @@ details p {
   .proof-grid,
   .tools-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .video-card,
+  .video-card:nth-last-child(2) {
+    grid-column: auto;
   }
 
   .logo-row {
