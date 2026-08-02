@@ -135,22 +135,74 @@
         </div>
       </section>
 
-      <section class="section tools-section">
+      <section class="section pipeline-math-section scenario-expected" id="pipeline-math">
         <div class="container narrow reveal">
-          <p class="section-kicker">The stack behind the system</p>
-          <h2>Tools we use to fill your pipeline</h2>
-          <p class="lead">We combine proven outbound, data, enrichment, deliverability and CRM tools into one managed system. You get the outcome without managing the stack.</p>
+          <p class="section-kicker">Run the numbers</p>
+          <h2>What 60,000 emails actually produces</h2>
+          <p class="lead">Three scenarios. Same volume, different performance. Every assumption is on the table so you can swap in your own.</p>
         </div>
-        <div class="container tools-grid reveal">
-          <div class="tool-card"><img src="instantly.png" alt="Instantly logo" /><span>Instantly</span></div>
-          <div class="tool-card"><img src="clay%20logo.jfif" alt="Clay logo" /><span>Clay</span></div>
-          <div class="tool-card"><img src="apollo.png" alt="Apollo logo" /><span>Apollo</span></div>
-          <div class="tool-card"><img src="salesql.png" alt="SalesQL logo" /><span>SalesQL</span></div>
-          <div class="tool-card"><img src="prospeo.png" alt="Prospeo logo" /><span>Prospeo</span></div>
-          <div class="tool-card"><img src="hubsport%20logo.png" alt="HubSpot logo" /><span>HubSpot</span></div>
-          <div class="tool-card"><img src="blitz_api_logo.jfif" alt="Blitz API logo" /><span>Blitz API</span></div>
-          <div class="tool-card"><img src="aiark_logo.jfif" alt="Aiark logo" /><span>Aiark</span></div>
-          <div class="tool-card"><img src="claude%20code.jfif" alt="Claude Code logo" /><span>Claude Code</span></div>
+
+        <div class="container pipeline-model reveal">
+          <div class="assumptions-bar" aria-label="Model assumptions">
+            <span>90-day program</span>
+            <span>60,000 emails sent</span>
+            <span>80% show rate</span>
+            <span id="acv-assumption">$25,000 average contract value</span>
+          </div>
+
+          <div class="deal-size-control">
+            <span class="control-label" id="deal-size-label">Average contract value</span>
+            <div class="segmented-control" role="radiogroup" aria-labelledby="deal-size-label">
+              <button class="deal-size-option" type="button" role="radio" aria-checked="false" data-acv="15000">$15,000</button>
+              <button class="deal-size-option active" type="button" role="radio" aria-checked="true" data-acv="25000">$25,000</button>
+              <button class="deal-size-option" type="button" role="radio" aria-checked="false" data-acv="50000">$50,000</button>
+            </div>
+          </div>
+
+          <div class="scenario-switcher" role="tablist" aria-label="Choose a performance scenario">
+            <button type="button" role="tab" aria-selected="false" data-scenario="conservative">Conservative</button>
+            <button class="active" type="button" role="tab" aria-selected="true" data-scenario="expected">Expected</button>
+            <button type="button" role="tab" aria-selected="false" data-scenario="strong">Strong</button>
+          </div>
+
+          <div class="pipeline-table-wrap">
+            <table class="pipeline-table">
+              <thead>
+                <tr>
+                  <th scope="col">Stage</th>
+                  <th scope="col" class="scenario-column conservative-column">Conservative</th>
+                  <th scope="col" class="scenario-column expected-column"><span class="likely-tag">Most likely</span>Expected</th>
+                  <th scope="col" class="scenario-column strong-column">Strong</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><th scope="row">Emails sent</th><td class="conservative-column">60,000</td><td class="expected-column">60,000</td><td class="strong-column">60,000</td></tr>
+                <tr class="input-row"><th scope="row">Reply rate</th><td class="conservative-column">1.0%</td><td class="expected-column">1.25%</td><td class="strong-column">1.5%</td></tr>
+                <tr><th scope="row">Total replies</th><td class="conservative-column">600</td><td class="expected-column">750</td><td class="strong-column">900</td></tr>
+                <tr><th scope="row">Positive replies</th><td class="conservative-column">108</td><td class="expected-column">165</td><td class="strong-column">225</td></tr>
+                <tr><th scope="row">Meetings booked</th><td class="conservative-column">54</td><td class="expected-column">91</td><td class="strong-column">135</td></tr>
+                <tr><th scope="row">Meetings attended</th><td class="conservative-column">43</td><td class="expected-column">73</td><td class="strong-column">108</td></tr>
+                <tr class="input-row"><th scope="row">Meeting-to-close rate</th><td class="conservative-column">8%</td><td class="expected-column">10%</td><td class="strong-column">12%</td></tr>
+                <tr><th scope="row">Deals closed</th><td class="conservative-column">3</td><td class="expected-column">7</td><td class="strong-column">13</td></tr>
+                <tr class="revenue-row">
+                  <th scope="row">Revenue closed</th>
+                  <td class="conservative-column"><span class="revenue-value math-number" data-scenario="conservative" aria-live="polite">$75,000</span></td>
+                  <td class="expected-column"><span class="revenue-value math-number" data-scenario="expected" aria-live="polite">$175,000</span></td>
+                  <td class="strong-column"><span class="revenue-value math-number" data-scenario="strong" aria-live="polite">$325,000</span></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="break-even-callout">
+            <div class="break-even-stat">
+              <strong id="break-even-value" class="math-number" aria-live="polite">0.72</strong>
+              <span>Deals needed to break even</span>
+            </div>
+            <p id="break-even-copy" class="math-number" aria-live="polite">At a $25,000 contract value, less than one closed deal covers the full 90-day program. The conservative scenario returns three.</p>
+          </div>
+
+          <p class="model-footnote">Reply rates and close rates vary by market, offer and contract value. These are modeled outcomes based on live campaign benchmarks, not a guarantee. Revenue lands on your sales cycle, not ours. If you close in 60 days, expect revenue in month four.</p>
         </div>
       </section>
 
