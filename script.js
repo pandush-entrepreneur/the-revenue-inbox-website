@@ -56,16 +56,6 @@ const countObserver = new IntersectionObserver(
 
 document.querySelectorAll(".count").forEach((element) => countObserver.observe(element));
 
-document.querySelectorAll(".toggle-btn").forEach((button) => {
-  button.addEventListener("click", () => {
-    const mode = button.dataset.mode;
-    document.querySelectorAll(".toggle-btn").forEach((item) => item.classList.toggle("active", item === button));
-    document.querySelectorAll(".price").forEach((price) => {
-      price.textContent = mode === "inclusive" ? price.dataset.inclusive : price.dataset.service;
-    });
-  });
-});
-
 const menuToggle = document.querySelector(".menu-toggle");
 const siteNav = document.querySelector(".site-nav");
 
