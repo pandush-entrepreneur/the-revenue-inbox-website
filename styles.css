@@ -601,8 +601,12 @@ details {
 }
 
 .case-grid {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   margin-top: 30px;
+}
+
+.case-grid .stat-line {
+  font-size: clamp(25px, 3vw, 38px);
 }
 
 .case-card {
@@ -1059,6 +1063,7 @@ details p {
   .timeline,
   .pricing-grid,
   .video-grid,
+  .case-grid,
   .case-stat-grid,
   .proof-grid,
   .tools-grid {

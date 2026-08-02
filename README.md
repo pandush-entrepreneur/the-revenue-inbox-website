@@ -7,6 +7,7 @@ Static landing page and case study pages for The Revenue Inbox.
 - `index.html`
 - `case-study-investors.html`
 - `case-study-arr-growth.html`
+- `case-study-recruitment.html`
 
 ## Local Preview
 
