@@ -371,10 +371,7 @@ h3 {
   place-items: center;
   min-height: 96px;
   padding: 18px;
-  border: 1px solid rgba(138, 64, 234, 0.16);
-  border-radius: var(--radius);
-  background: linear-gradient(135deg, #f4edff 0%, #e9dcfb 100%);
-  box-shadow: 0 14px 36px rgba(75, 29, 143, 0.12);
+  background: transparent;
 }
 
 .logo-card img {
@@ -612,15 +609,14 @@ details {
 }
 
 .logo-card.networked-card {
-  border-color: rgba(138, 163, 255, 0.3);
-  background: linear-gradient(135deg, #15182b 0%, #262b46 100%);
+  background: transparent;
 }
 
 .logo-card.networked-card img {
   width: 100%;
   max-height: 48px;
-  filter: none;
-  opacity: 1;
+  filter: grayscale(1) brightness(0.45);
+  opacity: 0.82;
 }
 
 .case-grid .stat-line {
