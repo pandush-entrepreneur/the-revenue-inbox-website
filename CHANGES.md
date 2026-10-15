@@ -1,5 +1,20 @@
 # Redesign
 
+## Case-study and logo revision
+
+Completed the follow-up on the same `redesign` branch:
+
+- Replaced every case-study campaign screenshot with a shared native report: total sent, reply rate, opportunities and the exact source window. Final values are static HTML; metric groups enter once with reduced-motion support.
+- Removed all calendar/reply “Campaign evidence” sections. Retained useful campaign facts in the narratives. The investor case now has an original native conversion chart using its existing 470 replies,188 bookings,132 attended meetings and18 investors. No daily trend data was invented.
+- Added `case-study-parking.html`:148 opportunities from58.7K emails at7.35% in the latest four weeks. The PDF's earlier50-opportunity snapshot is clearly separate.
+- Added `case-study-spotlight.html`:159 qualified opportunities from221.4K emails at1.75% in under90days. The copy explains the free-article offer and labels $159K as pipeline, not closed revenue.
+- Added homepage filters for software, fundraising and recruitment. All five cases remain visible without JavaScript.
+- Added GRAIL, SMPL-C, EventRx and VTS Labs, using assets from their official sites. Cropped Networked to its original name without the symbol.
+- Following the latest spacing feedback, omitted SkyHigh, removed the pause button and autoplay, and used nine smaller wordmarks in one line with natural widths and even visible gaps. The row scrolls natively on narrower screens.
+- Archived old image derivatives under source-assets; no campaign screenshots or pasted reply quotations remain on the case-study pages.
+
+The source manifest, PDF transcriptions and visual-source contact sheets are in `source-assets/client-updates/`. Current captures and checks are in `evidence/revision-2/`. The previous section below records the first redesign for history; this revision supersedes its screenshot-evidence presentation.
+
 Implemented on `redesign`. No push or production deployment. Same static HTML, CSS and JavaScript; same Vercel configuration and case-study URLs.
 
 ## What changed and why
@@ -31,6 +46,7 @@ Implemented on `redesign`. No push or production deployment. Same static HTML, C
 | ARR case headline | Current HTML says 240 meetings/month; original PDF title says 81; Canva deck says 240 | Confirm the time period and correct figure. Published HTML facts preserved. Keep campaign dates available to explain the difference. |
 | ARR source-image mismatch | Old image alt said 110K sent / 195 opportunities; actual image shows 421.2K / 576 / 3.65% | Corrected inaccurate alt to a neutral description; native caption transcribes the real image. Existing 195 opportunities result snapshot remains. Confirm which month each result covers. |
 | ARR definition | “20% ARR growth month after month” and a 12-month chart with varying monthly growth | Confirm ARR versus MRR and whether 20% is an average, specific period or shorthand. Existing claim retained. |
+| Recruitment booking rate | Original HTML reused a40–50% booking-rate claim, but the supplied recruitment evidence establishes475 positive replies rather than a booking conversion | Removed that unsupported conversion claim from the revised copy. Reintroduce only with the campaign's booking records. The positive-reply and overall-reply figures remain unchanged. |
 | Proof attribution | Five videos and three case studies lack approved names, titles and company attribution | Supply consented identities and relevant dates. Nothing fabricated or inferred from uploader identity. |
 | Internal 80+ meetings | Existing Canva slide 2 says the agency generates 80+ qualified meetings/month | Confirm the claim is still current before launch. Preserved in the native process introduction as existing source content. |
 | Client logo resolution | Several originals are small raster assets; Networked wordmark is 300px wide | Obtain original vector artwork when available. Faithful raster contour/tone normalization used; no invented redraw. |

@@ -55,7 +55,7 @@
     <div class="nav-actions">
      <a class="button primary" href="https://calendly.com/therevenueinboxagency/discovery" rel="noopener" target="_blank">
       Book a call
-      <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+      <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
        <path d="M5 12h14m-6-6 6 6-6 6">
        </path>
       </svg>
@@ -65,7 +65,7 @@
        <span>
         Menu
        </span>
-       <svg aria-hidden="true" viewbox="0 0 24 24">
+       <svg aria-hidden="true" viewBox="0 0 24 24">
         <path d="M4 8h16M4 16h16">
         </path>
        </svg>
@@ -110,14 +110,14 @@
        <div class="actions">
         <a class="button primary" href="https://calendly.com/therevenueinboxagency/discovery" rel="noopener" target="_blank">
          Book a call
-         <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+         <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
           <path d="M5 12h14m-6-6 6 6-6 6">
           </path>
          </svg>
         </a>
         <a class="text-link" href="#case-studies">
          See results
-         <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+         <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
           <path d="M5 12h14m-6-6 6 6-6 6">
           </path>
          </svg>
@@ -165,15 +165,43 @@
    </section>
    <section class="clients" id="trusted-by">
     <div class="container">
-     <p>
-      Trusted by teams like
-     </p>
-     <div class="logo-strip">
-      <img alt="Networked" class="client-logo client-0" decoding="async" height="64" loading="lazy" src="assets/client-0.webp" width="300"/>
-      <img alt="Tecaudex" class="client-logo client-1" decoding="async" height="61" loading="lazy" src="assets/client-1.webp" width="285"/>
-      <img alt="Brysa" class="client-logo client-2" decoding="async" height="100" loading="lazy" src="assets/client-2.webp" width="278"/>
-      <img alt="Red Buffer" class="client-logo client-3" decoding="async" height="100" loading="lazy" src="assets/client-3.webp" width="275"/>
-      <img alt="Jaycon" class="client-logo client-4" decoding="async" height="100" loading="lazy" src="assets/client-4.webp" width="344"/>
+     <div class="logo-heading">
+      <p>
+       Trusted by teams like
+      </p>
+     </div>
+     <div aria-label="Client logos. Scroll horizontally to see all clients." class="logo-viewport" role="region" tabindex="0">
+      <div class="logo-track">
+       <div class="logo-strip">
+        <div class="logo-item">
+         <img alt="Networked" class="client-logo client-0" decoding="async" height="38" loading="lazy" src="assets/client-0.webp" width="224"/>
+        </div>
+        <div class="logo-item">
+         <img alt="Tecaudex" class="client-logo client-1" decoding="async" height="61" loading="lazy" src="assets/client-1.webp" width="285"/>
+        </div>
+        <div class="logo-item">
+         <img alt="Brysa" class="client-logo client-2" decoding="async" height="100" loading="lazy" src="assets/client-2.webp" width="278"/>
+        </div>
+        <div class="logo-item">
+         <img alt="Red Buffer" class="client-logo client-3" decoding="async" height="100" loading="lazy" src="assets/client-3.webp" width="275"/>
+        </div>
+        <div class="logo-item">
+         <img alt="Jaycon" class="client-logo client-4" decoding="async" height="100" loading="lazy" src="assets/client-4.webp" width="344"/>
+        </div>
+        <div class="logo-item">
+         <img alt="GRAIL" class="client-logo client-grail" decoding="async" height="60" loading="lazy" src="assets/client-grail.svg" width="300"/>
+        </div>
+        <div class="logo-item">
+         <img alt="SMPL-C" class="client-logo client-smpl-c" decoding="async" height="120" loading="lazy" src="assets/client-smpl-c.webp" width="474"/>
+        </div>
+        <div class="logo-item">
+         <img alt="EventRx" class="client-logo client-eventrx" decoding="async" height="180" loading="lazy" src="assets/client-eventrx.webp" width="437"/>
+        </div>
+        <div class="logo-item">
+         <img alt="VTS Labs" class="client-logo client-vtslabs" decoding="async" height="47" loading="lazy" src="assets/client-vtslabs.svg" width="262"/>
+        </div>
+       </div>
+      </div>
      </div>
     </div>
    </section>
@@ -189,8 +217,22 @@
        Campaign results, with the context behind the numbers.
       </p>
      </div>
+     <div aria-label="Filter case studies" class="case-filters" hidden="" role="group">
+      <button aria-pressed="true" data-case-filter="all" type="button">
+       All results
+      </button>
+      <button aria-pressed="false" data-case-filter="software" type="button">
+       Software
+      </button>
+      <button aria-pressed="false" data-case-filter="fundraising" type="button">
+       Fundraising
+      </button>
+      <button aria-pressed="false" data-case-filter="recruitment" type="button">
+       Recruitment
+      </button>
+     </div>
      <div class="case-list">
-      <article class="case-row">
+      <article class="case-row" data-case-type="fundraising">
        <div class="case-metric">
         <strong>
          $1.2M
@@ -211,14 +253,70 @@
         </p>
         <a class="text-link" href="case-study-investors.html">
          Read the case study
-         <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+         <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
           <path d="M5 12h14m-6-6 6 6-6 6">
           </path>
          </svg>
         </a>
        </div>
       </article>
-      <article class="case-row">
+      <article class="case-row" data-case-type="software">
+       <div class="case-metric">
+        <strong>
+         148
+        </strong>
+        <p>
+         opportunities in four weeks
+        </p>
+       </div>
+       <div class="case-description">
+        <p class="small">
+         Software
+        </p>
+        <h3>
+         Parking compliance software
+        </h3>
+        <p>
+         Outreach to US parking owners and operators. A researched prospect pool, segmented messaging and ongoing follow-up.
+        </p>
+        <a class="text-link" href="case-study-parking.html">
+         Read the case study
+         <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
+          <path d="M5 12h14m-6-6 6 6-6 6">
+          </path>
+         </svg>
+        </a>
+       </div>
+      </article>
+      <article class="case-row" data-case-type="software">
+       <div class="case-metric">
+        <strong>
+         159
+        </strong>
+        <p>
+         qualified opportunities
+        </p>
+       </div>
+       <div class="case-description">
+        <p class="small">
+         Software
+        </p>
+        <h3>
+         Spotlight · PR software
+        </h3>
+        <p>
+         A free, brand-specific article started conversations with aviation, hotel and luxury resort teams. Results in under 90 days.
+        </p>
+        <a class="text-link" href="case-study-spotlight.html">
+         Read the case study
+         <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
+          <path d="M5 12h14m-6-6 6 6-6 6">
+          </path>
+         </svg>
+        </a>
+       </div>
+      </article>
+      <article class="case-row" data-case-type="b2b">
        <div class="case-metric">
         <strong>
          240
@@ -239,14 +337,14 @@
         </p>
         <a class="text-link" href="case-study-arr-growth.html">
          Read the case study
-         <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+         <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
           <path d="M5 12h14m-6-6 6 6-6 6">
           </path>
          </svg>
         </a>
        </div>
       </article>
-      <article class="case-row">
+      <article class="case-row" data-case-type="recruitment">
        <div class="case-metric">
         <strong>
          475
@@ -267,7 +365,7 @@
         </p>
         <a class="text-link" href="case-study-recruitment.html">
          Read the case study
-         <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+         <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
           <path d="M5 12h14m-6-6 6 6-6 6">
           </path>
          </svg>
@@ -296,7 +394,7 @@
       </p>
       <a class="text-link" href="#process">
        See how we run it
-       <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+       <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
         <path d="M5 12h14m-6-6 6 6-6 6">
         </path>
        </svg>
@@ -372,7 +470,7 @@
        <a aria-label="Watch testimonial: 17 calls booked in two weeks and 2 leads closed" class="video-facade" data-video="1208088795" href="https://vimeo.com/1208088795">
         <img alt="Client video testimonial" class="" decoding="async" height="720" loading="lazy" src="assets/vimeo-1208088795.webp" width="960"/>
         <span class="play">
-         <svg aria-hidden="true" viewbox="0 0 24 24">
+         <svg aria-hidden="true" viewBox="0 0 24 24">
           <path d="m9 5 11 7-11 7Z">
           </path>
          </svg>
@@ -389,7 +487,7 @@
        <a aria-label="Watch testimonial: First month they booked me 21 calls, closed 5 deals" class="video-facade" data-video="1208088797" href="https://vimeo.com/1208088797">
         <img alt="Client video testimonial" class="" decoding="async" height="720" loading="lazy" src="assets/vimeo-1208088797.webp" width="960"/>
         <span class="play">
-         <svg aria-hidden="true" viewbox="0 0 24 24">
+         <svg aria-hidden="true" viewBox="0 0 24 24">
           <path d="m9 5 11 7-11 7Z">
           </path>
          </svg>
@@ -406,7 +504,7 @@
        <a aria-label="Watch testimonial: In 45 days, closed 6 new clients with Pandush" class="video-facade" data-video="1208088831" href="https://vimeo.com/1208088831">
         <img alt="Client video testimonial" class="" decoding="async" height="720" loading="lazy" src="assets/vimeo-1208088831.webp" width="960"/>
         <span class="play">
-         <svg aria-hidden="true" viewbox="0 0 24 24">
+         <svg aria-hidden="true" viewBox="0 0 24 24">
           <path d="m9 5 11 7-11 7Z">
           </path>
          </svg>
@@ -423,7 +521,7 @@
        <a aria-label="Watch testimonial: Scaled from 0 to $380K per month with his help" class="video-facade" data-video="1208088794" href="https://vimeo.com/1208088794">
         <img alt="Client video testimonial" class="" decoding="async" height="720" loading="lazy" src="assets/vimeo-1208088794.webp" width="960"/>
         <span class="play">
-         <svg aria-hidden="true" viewbox="0 0 24 24">
+         <svg aria-hidden="true" viewBox="0 0 24 24">
           <path d="m9 5 11 7-11 7Z">
           </path>
          </svg>
@@ -440,7 +538,7 @@
        <a aria-label="Watch testimonial: Booked 42 calls and closed our first enterprise client" class="video-facade" data-video="1208088839" href="https://vimeo.com/1208088839">
         <img alt="Client video testimonial" class="" decoding="async" height="720" loading="lazy" src="assets/vimeo-1208088839.webp" width="960"/>
         <span class="play">
-         <svg aria-hidden="true" viewbox="0 0 24 24">
+         <svg aria-hidden="true" viewBox="0 0 24 24">
           <path d="m9 5 11 7-11 7Z">
           </path>
          </svg>
@@ -711,7 +809,7 @@
         </h3>
         <a class="text-link" href="https://www.linkedin.com/in/pandush/" rel="noopener" target="_blank">
          LinkedIn
-         <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+         <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
           <path d="M5 12h14m-6-6 6 6-6 6">
           </path>
          </svg>
@@ -738,7 +836,7 @@
         </h3>
         <a class="text-link" href="https://www.linkedin.com/in/umair-murtaza/" rel="noopener" target="_blank">
          LinkedIn
-         <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+         <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
           <path d="M5 12h14m-6-6 6 6-6 6">
           </path>
          </svg>
@@ -787,7 +885,7 @@
        </p>
        <a class="button primary" href="https://calendly.com/therevenueinboxagency/discovery" rel="noopener" target="_blank">
         Book a call
-        <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+        <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
          <path d="M5 12h14m-6-6 6 6-6 6">
          </path>
         </svg>
@@ -838,7 +936,7 @@
       <details>
        <summary>
         How fast will I start seeing meetings?
-        <svg aria-hidden="true" viewbox="0 0 24 24">
+        <svg aria-hidden="true" viewBox="0 0 24 24">
          <path d="M5 12h14M12 5v14">
          </path>
         </svg>
@@ -852,7 +950,7 @@
       <details>
        <summary>
         What counts as a qualified meeting?
-        <svg aria-hidden="true" viewbox="0 0 24 24">
+        <svg aria-hidden="true" viewBox="0 0 24 24">
          <path d="M5 12h14M12 5v14">
          </path>
         </svg>
@@ -866,7 +964,7 @@
       <details>
        <summary>
         Do I need my own infrastructure?
-        <svg aria-hidden="true" viewbox="0 0 24 24">
+        <svg aria-hidden="true" viewBox="0 0 24 24">
          <path d="M5 12h14M12 5v14">
          </path>
         </svg>
@@ -880,7 +978,7 @@
       <details>
        <summary>
         What kind of companies do you work with?
-        <svg aria-hidden="true" viewbox="0 0 24 24">
+        <svg aria-hidden="true" viewBox="0 0 24 24">
          <path d="M5 12h14M12 5v14">
          </path>
         </svg>
@@ -894,7 +992,7 @@
       <details>
        <summary>
         How involved do I need to be?
-        <svg aria-hidden="true" viewbox="0 0 24 24">
+        <svg aria-hidden="true" viewBox="0 0 24 24">
          <path d="M5 12h14M12 5v14">
          </path>
         </svg>
@@ -908,7 +1006,7 @@
       <details>
        <summary>
         What if it doesn't work?
-        <svg aria-hidden="true" viewbox="0 0 24 24">
+        <svg aria-hidden="true" viewBox="0 0 24 24">
          <path d="M5 12h14M12 5v14">
          </path>
         </svg>
@@ -935,7 +1033,7 @@
       </p>
       <a class="button primary" href="https://calendly.com/therevenueinboxagency/discovery" rel="noopener" target="_blank">
        Book a call
-       <svg aria-hidden="true" fill="none" viewbox="0 0 24 24">
+       <svg aria-hidden="true" fill="none" viewBox="0 0 24 24">
         <path d="M5 12h14m-6-6 6 6-6 6">
         </path>
        </svg>

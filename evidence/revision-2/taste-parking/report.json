@@ -1,0 +1,1362 @@
+{
+ "url": "http://127.0.0.1:4173/case-study-parking.html",
+ "at": "2026-10-15T14:42:24.977Z",
+ "allow": [
+  "palette-purple",
+  "eyebrow",
+  "few-pictures"
+ ],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.43,
+    0.29,
+    0.48,
+    0.95
+   ],
+   "motion": {
+    "elements": 15,
+    "css": 3,
+    "transitions": 12,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3368,
+     "screens": 3.7,
+     "words": 410,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 3,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "148 opportunities.",
+     "words": 2,
+     "chars": 18,
+     "lines": 1,
+     "size": 96,
+     "vw": 6.7,
+     "font": "Manrope",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.83,
+     "top": 232,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "148 opportunities.",
+     "words": 2,
+     "lines": 1,
+     "size": 96,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "148 opportunities.",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 96,
+      "vw": 6.7,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 232,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "58.7K",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 787,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "7.35%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.24,
+      "top": 787,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "148",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.24,
+      "top": 787,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The context",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 1137,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let's build your pipeline.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 96,
+      "vw": 6.7,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 2522,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.94,
+       "mono": false
+      },
+      {
+       "family": "Manrope",
+       "share": 0.06,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      18,
+      20,
+      24,
+      48,
+      64,
+      96
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 18,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 18.5
+     },
+     "measureChars": 82,
+     "max": {
+      "size": 96,
+      "vw": 6.7,
+      "font": "Manrope",
+      "text": "148 opportunities."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "All case studies",
+      "above": "148 opportunities.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 152
+     },
+     {
+      "text": "Total sent",
+      "above": "58.7K",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 749
+     },
+     {
+      "text": "Reply rate",
+      "above": "7.35%",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 749
+     },
+     {
+      "text": "Opportunities",
+      "above": "148",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 749
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f7f5fa",
+       "top": 605,
+       "hsl": {
+        "h": 264,
+        "s": 0.33,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#161122",
+       "top": 2394,
+       "hsl": {
+        "h": 258,
+        "s": 0.33,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#161122",
+       "share": 0.81
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.17
+      },
+      {
+       "color": "#6b6577",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#8a40ea",
+      "hsl": {
+       "h": 266,
+       "s": 0.8,
+       "l": 0.58
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book a call"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 6,
+     "fixed": true,
+     "height": 88,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "dm sans",
+     "manrope"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.4,
+    0.34,
+    0.61,
+    0.97
+   ],
+   "motion": {
+    "elements": 15,
+    "css": 3,
+    "transitions": 12,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3659,
+     "screens": 3.6,
+     "words": 404,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 3,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "148 opportunities.",
+     "words": 2,
+     "chars": 18,
+     "lines": 1,
+     "size": 55.3,
+     "vw": 7.2,
+     "font": "Manrope",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.92,
+     "top": 232,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "148 opportunities.",
+     "words": 2,
+     "lines": 1,
+     "size": 55.3,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "148 opportunities.",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 55.3,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 232,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "58.7K",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 774,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "7.35%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.24,
+      "top": 774,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "148",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40,
+      "vw": 5.2,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.24,
+      "top": 774,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The context",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 32,
+      "vw": 4.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.59,
+      "top": 1097,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Let's build your pipeline.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 55.3,
+      "vw": 7.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 2781,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.94,
+       "mono": false
+      },
+      {
+       "family": "Manrope",
+       "share": 0.06,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      18,
+      20,
+      24,
+      32,
+      40,
+      55
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 18,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 18.5
+     },
+     "measureChars": 50,
+     "max": {
+      "size": 55.3,
+      "vw": 7.2,
+      "font": "Manrope",
+      "text": "148 opportunities."
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "All case studies",
+      "above": "148 opportunities.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 152
+     },
+     {
+      "text": "Total sent",
+      "above": "58.7K",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 735
+     },
+     {
+      "text": "Reply rate",
+      "above": "7.35%",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 735
+     },
+     {
+      "text": "Opportunities",
+      "above": "148",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 735
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f7f5fa",
+       "top": 592,
+       "hsl": {
+        "h": 264,
+        "s": 0.33,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#161122",
+       "top": 2653,
+       "hsl": {
+        "h": 258,
+        "s": 0.33,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#161122",
+       "share": 0.81
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.17
+      },
+      {
+       "color": "#6b6577",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#8a40ea",
+      "hsl": {
+       "h": 266,
+       "s": 0.8,
+       "l": 0.58
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book a call"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 88,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "dm sans",
+     "manrope"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.61,
+    0.69,
+    0.66,
+    0.8,
+    0.99,
+    0.99
+   ],
+   "motion": {
+    "elements": 15,
+    "css": 3,
+    "transitions": 12,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 4380,
+     "screens": 5.2,
+     "words": 400,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 3,
+     "sections": 4,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "58.7K",
+     "words": 1,
+     "chars": 5,
+     "lines": 1,
+     "size": 40,
+     "vw": 10.3,
+     "font": "Manrope",
+     "weight": 500,
+     "tracking": -0.04,
+     "leading": 1.12,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.71,
+     "top": 756,
+     "tag": "dd",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "148 opportunities.",
+     "words": 2,
+     "lines": 1,
+     "size": 32,
+     "font": "Manrope"
+    },
+    "headings": [
+     {
+      "text": "148 opportunities.",
+      "words": 2,
+      "chars": 18,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 224,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "58.7K",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 756,
+      "tag": "dd",
+      "kind": "heading"
+     },
+     {
+      "text": "7.35%",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 863,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "148",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.32,
+      "top": 863,
+      "tag": "dd",
+      "kind": "statement"
+     },
+     {
+      "text": "The context",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1147,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What we did",
+      "words": 3,
+      "chars": 11,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1625,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "How appointments were booked",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2081,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "The latest results",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2498,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Result snapshot",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.03,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.71,
+      "top": 2916,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Let's build your pipeline.",
+      "words": 4,
+      "chars": 26,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3404,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.94,
+       "mono": false
+      },
+      {
+       "family": "Manrope",
+       "share": 0.06,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      18,
+      20,
+      24,
+      32,
+      40
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "DM Sans",
+      "size": 18,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 18.5
+     },
+     "measureChars": 38,
+     "max": {
+      "size": 40,
+      "vw": 10.3,
+      "font": "Manrope",
+      "text": "58.7K"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [
+     {
+      "text": "All case studies",
+      "above": "148 opportunities.",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 144
+     },
+     {
+      "text": "Total sent",
+      "above": "58.7K",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 726
+     },
+     {
+      "text": "Reply rate",
+      "above": "7.35%",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 833
+     },
+     {
+      "text": "Opportunities",
+      "above": "148",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 14,
+      "top": 833
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f7f5fa",
+       "top": 585,
+       "hsl": {
+        "h": 264,
+        "s": 0.33,
+        "l": 0.97
+       }
+      },
+      {
+       "color": "#161122",
+       "top": 3340,
+       "hsl": {
+        "h": 258,
+        "s": 0.33,
+        "l": 0.1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#161122",
+       "share": 0.81
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.17
+      },
+      {
+       "color": "#6b6577",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#8a40ea",
+      "hsl": {
+       "h": 266,
+       "s": 0.8,
+       "l": 0.58
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 2,
+     "radius": 0,
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to content",
+      "Book a call"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 80,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "dm sans",
+     "manrope"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 15 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\evidence\\revision-2\\taste-parking\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\evidence\\revision-2\\taste-parking\\desktop-page-01.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\evidence\\revision-2\\taste-parking\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\evidence\\revision-2\\taste-parking\\tablet-page-01.jpg"
+   ]
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\evidence\\revision-2\\taste-parking\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\evidence\\revision-2\\taste-parking\\mobile-page-01.jpg"
+   ]
+  }
+ ]
+}

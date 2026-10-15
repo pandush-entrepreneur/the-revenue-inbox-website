@@ -10,6 +10,8 @@ The redesign lives on the `redesign` branch. There is no build step or runtime d
 - `case-study-investors.html`
 - `case-study-arr-growth.html`
 - `case-study-recruitment.html`
+- `case-study-parking.html`
+- `case-study-spotlight.html`
 
 ## Local Preview
 

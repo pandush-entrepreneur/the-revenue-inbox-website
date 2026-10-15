@@ -1,5 +1,32 @@
 /* The page is readable without script. JavaScript enhances existing controls. */
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+
+// The compact client row scrolls natively, with no autoplay or duplicate content.
+
+// Real campaign totals remain in HTML. Motion introduces the report, never changes its data.
+if ('IntersectionObserver' in window && !reducedMotion.matches) {
+  const reports = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      entry.target.classList.add('report-entered');
+      reports.unobserve(entry.target);
+    });
+  }, { threshold: 0.15 });
+  document.querySelectorAll('[data-campaign-report], .conversion-chart').forEach(report => reports.observe(report));
+}
+
+const filters = document.querySelector('.case-filters');
+if (filters) {
+  filters.hidden = false;
+  filters.querySelectorAll('[data-case-filter]').forEach(button => {
+    button.addEventListener('click', () => {
+      filters.querySelectorAll('button').forEach(option => option.setAttribute('aria-pressed', String(option === button)));
+      document.querySelectorAll('[data-case-type]').forEach(row => {
+        row.hidden = button.dataset.caseFilter !== 'all' && row.dataset.caseType !== button.dataset.caseFilter;
+      });
+    });
+  });
+}
 const menu = document.querySelector('.mobile-menu');
 if (menu) {
   const closeMenu = () => { menu.open = false; };

@@ -1,5 +1,17 @@
 # After audit
 
+## Follow-up revision
+
+The current site contains the homepage and five case-study pages. Every case now uses a native campaign report rather than screenshot evidence; all calendar and copied-reply evidence sections have been removed. Parking and Spotlight were checked against their supplied PDFs and the user's updated parking figures. Full metrics provenance is in `source-assets/client-updates/metrics.json`.
+
+Current Chromium matrix: six pages across 360, 390, 768, 1024, 1280, 1440 and 1920px, with no document overflow, console exceptions, broken same-page anchors or wrong booking destinations. Native report values are visible without script. Case filters were checked at 5 all / 2 confirmed software cases / 1 fundraising / 1 recruitment. The unidentified ARR client remains under All results without an inferred industry. Nine logos stay in one 32px-high row at every tested width; no pause control, autoplay or duplicate content remains. Native keyboard scrolling advances the mobile row.
+
+Mobile Lighthouse: homepage 98/100/100/100; representative native case page 99/100/100/100 (Performance/Accessibility/Best Practices/SEO). Taste source lint: 0 FAIL / 0 WARN. Native case browser inspection: 0 FAIL after documented contextual allowances; warnings for no footage and modest motion are intentional. The brief specifically requested native reports instead of pictures. Definition-list metric labels and the case-study back link are not decorative eyebrows; purple is the original brand.
+
+The independent finish reviewer returned **ship**, finding the native reports consistent, the supplied numbers correct, the compact client row restrained, and no old screenshot or pasted-reply sections. Latest logo spacing was subsequently simplified further at the user's request and verified across all seven widths.
+
+This section supersedes the original screenshot-evidence review below. Original commercial decisions and Vimeo playback caveats remain in CHANGES.md. Current screenshots and interaction evidence are under `evidence/revision-2/`.
+
 15 October 2026. Rebuilt homepage and all three case-study pages on `redesign`.
 
 ## Results

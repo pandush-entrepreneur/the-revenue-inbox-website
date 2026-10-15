@@ -1,0 +1,10 @@
+{
+  "grail": "https://grailai.io/ (original inline SVG wordmark)",
+  "smpl-c": "https://framerusercontent.com/images/wr7gmOEjfD3VugfgkroRuXyc.png",
+  "skyhigh": "https://www.skyhighcreatives.com/assets/home/sh-logo-black.svg",
+  "vtslabs": "https://vtslabs.com/canvas/logo.svg",
+  "eventrx": "https://6ff326aa66578a78e35a8f61cc7a0957.cdn.bubble.io/f1784901443894x241960107453955680/EventRx.svg",
+  "networked": "Original networked-horizontal-logo.png; crop x68\u2013300 excluding symbol.",
+  "smpl-c-normalization": "Original alpha contours recolored to existing ink, preserving white wordmark visibility.",
+  "eventrx-normalization": "Faithful browser-rendered derivative of current site SVG; monochrome in CSS."
+}

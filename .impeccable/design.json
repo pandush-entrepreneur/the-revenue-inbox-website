@@ -240,6 +240,23 @@
       "behavior": "Deliberate facade activation inserts iframe and a visible Open video on Vimeo text link after it.",
       "fallback": "Original Vimeo destination; target=_blank; rel=noopener. Available after embedding fails and as facade link without JavaScript.",
       "verification": "Local headless iframe returned 401; production-domain playback unverified."
+    },
+    "campaignReports": {
+      "figures": "Supplied aggregates only; no invented trend data",
+      "desktopColumns": 3,
+      "mobileColumns": 2,
+      "paddingDesktop": "48px",
+      "paddingMobile": "32px",
+      "sourceManifest": "source-assets/client-updates/metrics.json"
+    },
+    "logoCarousel": {
+      "clients": 9,
+      "animation": "none",
+      "behavior": "Native horizontal scrolling; all fit one row on wide screens",
+      "height": "20px, optically adjusted for Red Buffer and EventRx",
+      "spacing": "Natural wordmark widths, minimum32px gaps; space-between when the row fits",
+      "pauseControl": false,
+      "excluded": "SkyHigh per latest user request"
     }
   },
   "components": [

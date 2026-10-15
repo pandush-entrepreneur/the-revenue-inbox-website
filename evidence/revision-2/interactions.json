@@ -1,0 +1,77 @@
+{
+  "360": {
+    "logos": 9,
+    "height": 32,
+    "oneRow": true,
+    "documentOverflow": false,
+    "autoplay": "none",
+    "pauseButtons": 0
+  },
+  "390": {
+    "logos": 9,
+    "height": 32,
+    "oneRow": true,
+    "documentOverflow": false,
+    "autoplay": "none",
+    "pauseButtons": 0
+  },
+  "768": {
+    "logos": 9,
+    "height": 32,
+    "oneRow": true,
+    "documentOverflow": false,
+    "autoplay": "none",
+    "pauseButtons": 0
+  },
+  "1024": {
+    "logos": 9,
+    "height": 32,
+    "oneRow": true,
+    "documentOverflow": false,
+    "autoplay": "none",
+    "pauseButtons": 0
+  },
+  "1280": {
+    "logos": 9,
+    "height": 32,
+    "oneRow": true,
+    "documentOverflow": false,
+    "autoplay": "none",
+    "pauseButtons": 0
+  },
+  "1440": {
+    "logos": 9,
+    "height": 32,
+    "oneRow": true,
+    "documentOverflow": false,
+    "autoplay": "none",
+    "pauseButtons": 0
+  },
+  "1920": {
+    "logos": 9,
+    "height": 32,
+    "oneRow": true,
+    "documentOverflow": false,
+    "autoplay": "none",
+    "pauseButtons": 0
+  },
+  "filters": [
+    {
+      "type": "all",
+      "visible": 5
+    },
+    {
+      "type": "software",
+      "visible": 2
+    },
+    {
+      "type": "fundraising",
+      "visible": 1
+    },
+    {
+      "type": "recruitment",
+      "visible": 1
+    }
+  ],
+  "nativeKeyboardScroll": 144
+}

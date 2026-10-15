@@ -1,5 +1,7 @@
 # Asset provenance
 
+Current revision: campaign screenshot derivatives were moved to `source-assets/previous-case-images/` and are no longer rendered on case pages. Native reports use the exact metrics recorded in `source-assets/client-updates/metrics.json`. New client wordmarks come from their official sites; direct provenance URLs and original assets are in `source-assets/client-updates/`. Networked now uses its name only. SkyHigh is omitted from the visible row following the latest user request.
+
 All imagery comes from this repository or its existing public Vimeo videos. No generated imagery, stock photo or invented client logo is used.
 
 - `client-0.webp` through `client-4.webp`: original Networked, Tecaudex, Brysa, Red Buffer and Jaycon assets, cropped to content bounds and normalized to monochrome at render. Transparent Networked/Jaycon contours recolored to existing ink for light-canvas legibility.

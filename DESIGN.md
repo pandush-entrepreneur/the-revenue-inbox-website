@@ -206,7 +206,11 @@ Sequential white editorial rows pair a large metric with context and a case-stud
 
 ### Client logos and founders
 
-Five original client logos form a stationary monochrome strip; the mobile strip uses a centered six-track arrangement. Founder portraits use matching 4:5 frames, full-cover crop and grayscale treatment. Miniature portraits are round. Preserve the real names, biographies, locations and LinkedIn destinations.
+Nine client logos form one compact monochrome row. The original Networked asset is cropped to its name, excluding its symbol. Logo height is 20px, optically adjusted to24px for the two-line Red Buffer logo and32px for the EventRx badge. Natural wordmark widths and minimum32px gaps keep visible spacing even; space-between fills wide containers. The SkyHigh monogram is omitted at the user's request.
+
+The row stays still, with native horizontal scrolling when it exceeds the viewport. There is no autoplay, duplicate content or pause button. The focusable scroll region has a visible outline and works with touch or keyboard. Every displayed name appears once to assistive technology.
+
+Founder portraits use matching 4:5 frames, full-cover crop and grayscale treatment. Miniature portraits are round. Preserve the real names, biographies, locations and LinkedIn destinations.
 
 ### Testimonials and video facade
 
@@ -226,7 +230,19 @@ Native details/summary, soft fill, 24px summary padding, 48px minimum summary ta
 
 ### Closing CTA, footer and case-study pages
 
-The CTA and footer share the inverse field. The CTA pairs a display-scale heading with the original free 30-minute call offer. Footer navigation, legal identity and original destinations remain explicit. Case-study pages reuse the same tokens, navigation and footer with a metric-led introduction, static summary figures, campaign screenshots, story and CTA. Evidence image groups stack on mobile; screenshot content remains factual and locally supplied.
+The CTA and footer share the inverse field. The CTA pairs a display-scale heading with the original free 30-minute call offer. Footer navigation, legal identity and original destinations remain explicit. Five case-study pages reuse the same tokens, navigation and footer with a metric-led introduction, native campaign report, specific narrative and CTA. No campaign screenshots, pasted lead replies or calendar evidence appear on these pages.
+
+### Native campaign report and conversion chart
+
+A single flat soft-paper report contains a heading, exact campaign window, semantic definition list for total sent/reply rate/opportunities, and contextual notes. It uses 48px padding on desktop and 32px on mobile. Metrics use the existing stat face and size; three columns become a large total-sent row with two supporting metrics on mobile. New case heroes omit duplicate statistic grids because the report already contains those figures.
+
+Reports represent supplied aggregate results; they do not imitate an Instantly screenshot or invent daily time series. Final numbers are always in HTML. An observed entrance moves metric groups 12px over 600ms with 150/250ms stagger; reduced motion shows the final state immediately.
+
+The investor conversion chart uses four real counts: 470 positive replies, 188 bookings, 132 attended meetings and 18 investors. Bar lengths are explicitly relative to 470 positive replies. Scale-only animation introduces the bars once; no numbers count from zero.
+
+### Case-study filters
+
+All five case links remain in static HTML. JavaScript reveals four native filter buttons: All results, Software, Fundraising and Recruitment. Pressed state uses ink/paper and aria-pressed; hidden cards use the native hidden attribute. Controls have 48px minimum targets and normal focus styling.
 
 ## Do's and Don'ts
 
@@ -239,7 +255,7 @@ The CTA and footer share the inverse field. The CTA pairs a display-scale headin
 
 ### Don't:
 
-- **Don't** invent claims, identities, logos, dashboards or source evidence.
+- **Don't** invent claims, identities, logos, campaign figures or performance histories. Native reports may present the supplied facts in our own style.
 - **Don't** add decorative gradients, glass, stock imagery or icon feature grids.
 - **Don't** hide static content behind JavaScript or load a third-party player before intent.
 - **Don't** introduce horizontal document scrolling; keep model overflow scoped to its table.
