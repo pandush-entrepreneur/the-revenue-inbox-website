@@ -4,7 +4,7 @@ Written before implementation. This deck is the source for the homepage and the 
 
 ## Hero options
 
-1. **20 qualified meetings. 30 days. Or your money back.** Selected. Makes the outcome, deadline and recourse unmistakable, without implying that infrastructure is free. The launch qualifier sits directly below the headline.
+1. **20 qualified meetings. 30 days. Or we work for free.** Selected. Makes the outcome, deadline and free-work guarantee unmistakable. The launch qualifier sits directly below the headline.
 2. **Your next 20 meetings are our responsibility.** Makes ownership personal, but requires a second sentence to deliver the deadline and guarantee.
 3. **A full calendar. A clear guarantee.** A useful visual hook, but less specific than option 1.
 
@@ -26,7 +26,7 @@ Primary action everywhere: **Book my strategy call**. Mobile sticky action: **Bo
 
 ## 1. Hero
 
-**20 qualified meetings. 30 days. Or your money back.**
+**20 qualified meetings. 30 days. Or we work for free.**
 
 Within 30 days of your campaigns launching. For B2B founders and sales leaders. We run your outbound. You show up and close.
 
@@ -128,7 +128,7 @@ Read the campaign / Book my strategy call
 
 **We put the promise in writing.**
 
-20 qualified meetings with prospects inside your ICP within 30 days of your campaigns launching, or you get your money back.
+20 qualified meetings with prospects inside your ICP within 30 days of your campaigns launching, or we work for free.
 
 A qualified meeting is a booked call with a decision-maker who matches your ICP and has agreed to hear your offer.
 
@@ -186,7 +186,7 @@ No long contracts to start.
 
 **The questions worth asking.**
 
-**I've been burned by lead gen agencies before.** We own strategy, ICP, data, copy, infrastructure, email and LinkedIn outreach, and booking. The commitment is specific: 20 qualified meetings inside your ICP within 30 days of campaign launch, or your money back. No long contracts to start.
+**I've been burned by lead gen agencies before.** We own strategy, ICP, data, copy, infrastructure, email and LinkedIn outreach, and booking. The commitment is specific: 20 qualified meetings inside your ICP within 30 days of campaign launch, or we work for free. No long contracts to start.
 
 **What if the meetings are junk?** A qualified meeting means a booked call with a decision-maker who matches your ICP and has agreed to hear the offer. A name on a list or a positive reply does not meet that definition.
 
@@ -196,7 +196,7 @@ No long contracts to start.
 
 **What does this actually cost?** $100 per booked appointment, plus $1,500/month infrastructure for domains, mailboxes and databases. At 20 appointments in one month, that is $3,500. No long contracts to start.
 
-**When does the 30-day clock start?** When your campaigns launch. The guarantee is 20 qualified meetings with prospects inside your ICP within those 30 days, or you get your money back.
+**When does the 30-day clock start?** When your campaigns launch. The guarantee is 20 qualified meetings with prospects inside your ICP within those 30 days, or we work for free.
 
 **Are you guaranteeing sales?** We guarantee qualified meetings. You handle the sales conversations and closing. The ROI model is illustrative and uses an 80% show rate; revenue follows your own sales cycle.
 
@@ -204,11 +204,10 @@ No long contracts to start.
 
 **Your next 20 meetings.**
 
-20 qualified meetings inside your ICP within 30 days of campaign launch, or your money back. We run the outbound. You show up and close.
+20 qualified meetings inside your ICP within 30 days of campaign launch, or we work for free. We run the outbound. You show up and close.
 
 Book my strategy call
 
-$100 per booked appointment + $1,500/month infrastructure. No long contracts to start.
 
 ## Footer and metadata
 
@@ -218,7 +217,7 @@ The Revenue Inbox is a trading name of Meerion Ltd, registered in England and Wa
 
 Title: 20 Qualified Meetings in 30 Days | The Revenue Inbox
 
-Description: Done-for-you B2B outbound. 20 qualified meetings inside your ICP within 30 days of campaign launch, or your money back. $100 per appointment + $1,500/month infrastructure.
+Description: Done-for-you B2B outbound. 20 qualified meetings inside your ICP within 30 days of campaign launch, or we work for free. $100 per appointment + $1,500/month infrastructure.
 
 ## Case pages
 
@@ -234,7 +233,7 @@ Parking and Spotlight: **This case is being reviewed.** The campaign figures on 
 
 | Before | After | Why |
 |---|---|---|
-| Outbound that books meetings. | 20 qualified meetings. 30 days. Or your money back. | Defines the promise on arrival. |
+| Outbound that books meetings. | 20 qualified meetings. 30 days. Or we work for free. | Defines the promise on arrival. |
 | $2.5M+ Revenue generated for clients | Earlier in his copywriting career, his work generated $2.5M for clients. | Gives the figure its correct scope in the bio only. |
 | $1.2M raised through cold email | $1.2M in pipeline. 18 committed investors. | Uses the authorized financial status. |
 | Run the numbers. | Start at break-even. | Leads with the founder's buying decision. |

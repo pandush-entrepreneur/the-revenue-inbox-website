@@ -2,7 +2,7 @@
 
 Static landing page and case study pages for The Revenue Inbox.
 
-The current motion and conversion pass lives on the `alive` branch. There is no build step. GSAP and ScrollTrigger 3.13.0 are vendored under assets/vendor. Deploy the root folder with the existing Vercel setup. No production deployment is part of this pass.
+The current motion and conversion pass lives on the `alive` branch. There is no build step. GSAP and ScrollTrigger 3.13.0 are vendored under assets/vendor. Production is published from `alive` through the existing Vercel project; `main` remains untouched. .vercelignore excludes development artifacts from the production upload.
 
 ## Pages
 

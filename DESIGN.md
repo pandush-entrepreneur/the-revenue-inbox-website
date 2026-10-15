@@ -1,6 +1,6 @@
 ---
 name: The Revenue Inbox
-  description: A daylight editorial system for earned outbound evidence and clear commercial terms.
+description: A daylight editorial system for earned outbound evidence and clear commercial terms.
 colors:
   primary: "#8a40ea"
   deep: "#4b1d8f"
@@ -146,7 +146,7 @@ The static grid and faint tint are explicitly requested extensions. Never animat
 - **ROI flow:** three native contract-value radios, default $15,000. A fixed illustrative 90-day conservative cohort uses 60 booked meetings, 48 attendees at 80%, and 3 deals rounded down at 8%. Fees are 60 × $100 + 3 × $1,500 = $10,500. Whole-deal break-even is ceiling(fees / contract value). The assumption is a model, not another guarantee. Contract revenue is before delivery costs and margin. Native live-region copy announces the result; the funnel bars respond to input.
 - **Proof art:** 18 circles for the approved investor count; 24 squares each representing 10 of the approved 240 monthly qualified meetings; a 115-cell field with one positive reply. These are exact encodings, never invented trend series. Numbers and definitions stay in HTML. Artwork enters once and has a subtle scroll-depth move.
 - **Video cards:** original five stills, quotations and Vimeo destinations. Large result text is extracted directly from each allowed quote. Players load only on intent. The external fallback remains visible after activation.
-- **Guarantee:** a single tint field, with the exact 20-meeting/30-day-from-launch/money-back promise and the qualified-meeting definition beside the booking action.
+- **Guarantee:** a single tint field, with the exact 20-meeting/30-day-from-launch/work-for-free promise and the qualified-meeting definition beside the booking action.
 - **Pricing:** one offer. $100 per booked appointment plus $1,500/month infrastructure. No all-inclusive/service-only alternatives, invented CRM inclusions or invented support cadence.
 - **Booking:** “Book my strategy call” is the primary action. Links retain the supplied direct Calendly destination. Enhancement opens a native dialog containing a click-created Calendly iframe. Visible direct fallback, Escape, close button, focus return and body scroll lock. No Calendly request before intent.
 - **Mobile booking bar:** appears once the hero is out of view, hides when the final CTA enters. It uses the same action. Hidden by default without JavaScript.

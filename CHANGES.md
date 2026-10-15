@@ -1,5 +1,15 @@
 # Alive
 
+## Approved production revision
+
+- Replaced the money-back guarantee with “or we work for free” in the hero, guarantee, FAQs, final close, case pages, metadata and current copy deck. The user explicitly approved this offer change. The 20-qualified-meeting commitment and 30-day campaign-launch clock remain.
+- Removed the pricing/no-long-contract note beneath the final booking button on all six pages, as requested. Pricing stays visible in the hero and offer section.
+- Fixed the DESIGN.md frontmatter indentation and normalized SVG viewBox attributes while reviewing source validity.
+- Rechecked desktop/mobile rendering and the six-page/six-width interaction suite before release. Updated captures are in evidence/alive/.
+- Production publication is authorized from `alive` through the existing Vercel project. `main` remains untouched. Added .vercelignore to keep development evidence, source archives, tools and documents out of the production upload.
+
+The user's new free-work guarantee supersedes the earlier money-back wording in the historical audit and notes below. No unapproved free-work duration, refund entitlement or infrastructure-fee exclusion has been added.
+
 Current pass: `alive`, based on the clean local `redesign` checkout. No main push or production deployment. The earlier redesign notes below are historical and are superseded by the current offer facts supplied for this pass.
 
 ## What changed
@@ -35,7 +45,7 @@ Attach a consent-aware analytics adapter to this event later. No lead data is co
 
 The supplied offer facts resolve the old plan, pricing, guarantee wording, investor pipeline and headline questions. No further approval was needed to implement them. Remaining business/external checks:
 
-1. **Refund administration:** keep the exact supplied money-back promise. Confirm the contract's refund process and scope before publishing contractual terms elsewhere. No refund exclusions, setup deadline or processing window were invented on this site.
+1. **Free-work administration:** the user approved “or we work for free.” Align contractual billing details with that promise. The site does not invent a duration, refund entitlement or infrastructure-fee exclusion.
 2. **Parking and Spotlight:** approve these campaigns explicitly if you want their previous figures republished. Until then their existing URLs display a review notice.
 3. **Proof attribution and dates:** supply consented names, titles, companies and dates if you want them beside anonymized testimonials/cases. None were inferred or fabricated.
 4. **Vimeo permissions and captions:** verify all five videos can play on the production domain, and confirm approved captions/transcripts. Prior local embedding returned 401. Current code keeps direct Vimeo links available; a local technical check cannot certify production privacy settings or spoken-caption accuracy.
