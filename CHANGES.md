@@ -1,4 +1,56 @@
-# Redesign
+# Alive
+
+Current pass: `alive`, based on the clean local `redesign` checkout. No main push or production deployment. The earlier redesign notes below are historical and are superseded by the current offer facts supplied for this pass.
+
+## What changed
+
+- Verified the previous essentials before editing: no Canva embed, real nonzero HTML stats, five click-to-load video facades, and the exact Meerion Ltd legal sentence.
+- Wrote COPY.md before implementation. It includes all section copy, three hero options with rationale, the selected outcome/timeframe/recourse headline, case copy and before/after examples.
+- Rebuilt the page around the requested conversion sequence. Hard proof precedes explanation. Every primary action books the same strategy call. Current prices and the launch qualifier are visible in the hero.
+- Built an original illustrative inbox, interested reply and calendar in native HTML/CSS. Built a five-stage scroll story with a lead that arrives at each node before its explanation changes, then lands on the calendar. Booking status changes at the actual final arrival.
+- Added an infrastructure checklist with no invented health scores. Proof art encodes only the approved 18 investors, 240 meetings and 1-in-115 reply result. Original logo, client logos, founder portraits, video stills and destinations remain.
+- Added pinned GSAP/ScrollTrigger 3.13.0, hosted locally from pinned cdnjs distributions. Headline reveals, near-final count-up, card depth, fine-pointer button magnetism, graphic parallax, responsive marquee and a single coordinated inbox loop bring movement. The page does not intercept native scrolling.
+- Added motion pause/resume, off-screen/tab visibility pausing and complete reduced-motion cleanup. Mobile and shorter desktops never pin. The phone mechanism uses the explanatory route plus a compact calendar instead of repeating the route in another tall board.
+- Replaced the old unexplained $18,000 ROI basis. The conservative illustration is 60 meetings over 90 days, 48 attended at 80%, 3 deals rounded down at 8%, and $10,500 fees calculated directly from the published pricing. Defaults to $15,000 contract value. It leads with one whole deal to cover modeled fees. Sales-cycle and gross-revenue-before-delivery-cost caveats precede the result. These assumptions are labeled illustrative, not campaign results or a forecast.
+- Corrected investor proof to $1.2M in pipeline and 18 committed investors. Removed unapproved campaign details, invented trend implications, old service-only/all-inclusive plans and unsupported delivery cadence. Pandush's earlier $2.5M copywriting result appears in his bio only. His cold-email meeting count remains separately scoped to the last two years.
+- Restyled the three approved case-study pages with shared native metric graphics and current offer components. Parking and Spotlight URLs remain usable as transparent review notices pointing to approved results. Their prior figures are outside this pass's explicitly authorized proof set.
+- Added a native booking dialog with a click-created Calendly embed, visible direct-link fallback, keyboard close, focus return and scroll lock. Vimeo remains click-only with a direct fallback after activation. There are no third-party frames on initial load.
+- Added the mobile booking bar after the hero and hid it near the final action. Rewrote title, description, OG and Twitter metadata; kept existing social assets and added canonical URLs.
+- Extended DESIGN.md with tokens, component rules, choreography, responsive behavior and explicit exceptions to generic skill rules. No 3D was shipped: the native inbox communicates the service directly without a WebGL runtime.
+
+## Tracking
+
+No analytics provider existed in the repo. No provider, cookie or tracking network request was added. Static `data-event` and `data-location` hooks are present. JavaScript dispatches `revenue-inbox:event` on document, with detail:
+
+| Event | Extra detail |
+|---|---|
+| cta_click | location: navigation, hero, proof section, ROI, pricing, final, footer or mobile-sticky |
+| video_play | video: existing Vimeo ID |
+| roi_toggle | contract_value: 15000, 25000 or 50000 |
+| faq_open | question: visible question text |
+
+Attach a consent-aware analytics adapter to this event later. No lead data is collected by these hooks. Calendly and Vimeo operate only after visitor intent.
+
+## Needs Pandush's decision
+
+The supplied offer facts resolve the old plan, pricing, guarantee wording, investor pipeline and headline questions. No further approval was needed to implement them. Remaining business/external checks:
+
+1. **Refund administration:** keep the exact supplied money-back promise. Confirm the contract's refund process and scope before publishing contractual terms elsewhere. No refund exclusions, setup deadline or processing window were invented on this site.
+2. **Parking and Spotlight:** approve these campaigns explicitly if you want their previous figures republished. Until then their existing URLs display a review notice.
+3. **Proof attribution and dates:** supply consented names, titles, companies and dates if you want them beside anonymized testimonials/cases. None were inferred or fabricated.
+4. **Vimeo permissions and captions:** verify all five videos can play on the production domain, and confirm approved captions/transcripts. Prior local embedding returned 401. Current code keeps direct Vimeo links available; a local technical check cannot certify production privacy settings or spoken-caption accuracy.
+
+## Evidence and validation
+
+Review gallery: [evidence/alive/index.html](evidence/alive/index.html). It links desktop/mobile screenshots, four short hero/mechanism MP4 recordings, all six case/home page captures, interaction evidence, Lighthouse and audit notes. Recordings capture actual browser frames and are encoded with FFmpeg; they are not synthetic animation mockups. Raw frames are development artifacts excluded from Git.
+
+Six pages were checked at 360, 390, 768, 1024, 1440 and 1920px. Checks cover overflow, images, anchors, heading structure, 44px targets, deferred embeds, legal copy, ROI output, booking dialog/Escape/focus, FAQ and event hooks, sticky CTA, no-JavaScript and reduced motion. A separate motion check covers 1024×768, all five synchronized stages, calendar arrival, video pause/resume and live reduced-motion switching.
+
+Impeccable critique used two isolated assessments. Initial visual score: 7.8/10. Findings drove the shorter mobile hero, compact mobile mechanism, synchronized desktop state, short-viewport fallback, accessible video names and reliable Resume behavior. Technical and visual review details, measured Lighthouse scores and narrow detector exceptions are recorded in ALIVE-AUDIT.md. Emulated viewports and local headless Chromium do not certify physical-device 60fps or production caching.
+
+---
+
+# Redesign history
 
 ## Case-study and logo revision
 

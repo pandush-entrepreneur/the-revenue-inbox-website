@@ -1,6 +1,6 @@
 ---
 name: The Revenue Inbox
-description: A daylight editorial system for earned outbound evidence and clear commercial terms.
+  description: A daylight editorial system for earned outbound evidence and clear commercial terms.
 colors:
   primary: "#8a40ea"
   deep: "#4b1d8f"
@@ -108,6 +108,61 @@ components:
 ---
 
 # Design System: The Revenue Inbox
+
+## Alive extension, October 2026
+
+This extension is the current component and motion specification. It supersedes the older statements below about no loops, no shadows, static logos, four process stages, the old ROI table, generic booking text and five published campaign claims. The original palette, logo, faces, square geometry, spacing rhythm and native control principles remain binding.
+
+**Creative direction: The working proposal.** A calm software workspace makes the agency's name literal. An interested reply becomes a booked meeting. The buyer can inspect the commercial terms with the same clarity as the illustrative UI. Preserve the daylight editorial world. Do not copy Linear's dark palette, Clay's hues or Stripe's identity.
+
+### Reference principles
+
+Studied the local Linear, Clay, Stripe and Vercel DESIGN.md collection. Borrowed detailed UI as the primary graphic, software chrome that recedes, one action-led accent, alternating tonal fields and deliberate pauses between authored motion. The local collection does not establish a factual motion specification for every reference site; our motion timing is authored here.
+
+Taste direction: `borrowed-category`, seed 1737849463. The borrowed category is a software workspace. Brand palette and type are locked. Scene fragments replace the dealt atmospheric photography, as required by the user's native-graphics brief. One price replaces the dealt multi-plan comparison. The requested conversion sequence takes precedence over the direction's shorter page blueprint. The hero's complete outcome/timeframe/recourse takes precedence over the skill's two-line heading cap.
+
+### New tokens in alive.css
+
+| Token | Value / purpose |
+|---|---|
+| hero-display | clamp(2.5rem,4.4vw,4rem), with phone override clamp(2rem,8.9vw,3.5rem) |
+| hero-leading | 1.09 |
+| ui-text / ui-small | 1rem / .8125rem for illustrative UI, never primary body copy |
+| ui-line | line at 65% mixed with paper, internal software separators only |
+| scene-shadow | 0 24px 64px -32px, deep purple at 24% opacity; inbox and system UI only |
+| scene-grid | brand purple at 5% opacity; static hero workspace grid |
+| scene-glow | brand purple at 8% opacity; one static radial field behind the inbox |
+| stage-height | 560px minimum; viewport-aware pinning is an enhancement |
+| route-step | 68px; one lead travels four intervals to the calendar |
+| motion-medium / motion-long | .8s / 1.2s |
+
+The static grid and faint tint are explicitly requested extensions. Never animate backgrounds, filters, borders, shadows, dimensions or layout. No new hue is introduced. Shadow is reserved for an object above the page, never a general card treatment.
+
+### Current components
+
+- **Living inbox:** semantic figure with detailed header, tabs, generic decision-maker, interested reply and calendar slip. Every name and message is illustrative. No made-up percentage, date, company identity or outcome total. Caption says “Illustrative workflow. No live client data.” A pause/resume control stops the loop. The static composition is complete without JavaScript.
+- **Inbox-to-Meeting System:** five stages: ICP and data, copy, sending infrastructure, replies, booked meetings. All five explanations exist in HTML. Desktop motion crossfades the active explanation after the single lead reaches the corresponding route node. The calendar remains unbooked until the lead lands. Below 1024px, or when the viewport is shorter than 900px, the full list is in ordinary flow. Phones integrate the route dots with that list and show a compact final calendar, avoiding a second five-stage diagram. Reduced motion shows every explanation and the lead at its final destination.
+- **Infrastructure checklist:** domains, mailboxes, inbox placement, domain health and warmup are setup items. No inbox score, health percentage or invented performance result. It is explicitly illustrative.
+- **ROI flow:** three native contract-value radios, default $15,000. A fixed illustrative 90-day conservative cohort uses 60 booked meetings, 48 attendees at 80%, and 3 deals rounded down at 8%. Fees are 60 × $100 + 3 × $1,500 = $10,500. Whole-deal break-even is ceiling(fees / contract value). The assumption is a model, not another guarantee. Contract revenue is before delivery costs and margin. Native live-region copy announces the result; the funnel bars respond to input.
+- **Proof art:** 18 circles for the approved investor count; 24 squares each representing 10 of the approved 240 monthly qualified meetings; a 115-cell field with one positive reply. These are exact encodings, never invented trend series. Numbers and definitions stay in HTML. Artwork enters once and has a subtle scroll-depth move.
+- **Video cards:** original five stills, quotations and Vimeo destinations. Large result text is extracted directly from each allowed quote. Players load only on intent. The external fallback remains visible after activation.
+- **Guarantee:** a single tint field, with the exact 20-meeting/30-day-from-launch/money-back promise and the qualified-meeting definition beside the booking action.
+- **Pricing:** one offer. $100 per booked appointment plus $1,500/month infrastructure. No all-inclusive/service-only alternatives, invented CRM inclusions or invented support cadence.
+- **Booking:** “Book my strategy call” is the primary action. Links retain the supplied direct Calendly destination. Enhancement opens a native dialog containing a click-created Calendly iframe. Visible direct fallback, Escape, close button, focus return and body scroll lock. No Calendly request before intent.
+- **Mobile booking bar:** appears once the hero is out of view, hides when the final CTA enters. It uses the same action. Hidden by default without JavaScript.
+- **Case pages:** approved investor, ARR and recruitment pages share metric art, header, current offer sidebar, booking dialog and close. Parking and Spotlight URLs remain review notices with approved campaign links; unapproved campaign claims are not republished.
+
+### Motion choreography
+
+Pinned GSAP 3.13.0 and ScrollTrigger 3.13.0 are vendored locally from cdnjs. Native browser scrolling stays in control; no Lenis or scroll hijack. Defaults remain visible.
+
+Hero lines translate 14px over .8s with .1s stagger. They do not fade from zero. A brief 970-to-1,000 count-up finishes at the exact HTML value; JavaScript-disabled reading always sees 1,000+. The inbox loop starts after the load entrance: reply arrival, interested tag feedback, then calendar arrival, with pauses between each. One clear moving object at a time. No typing cursors, particle layers or independently orbiting objects.
+
+The loop pauses outside the scene, in a hidden tab, on visitor pause and when a testimonial starts. Explicit Resume clears video suppression. Desktop logos form a 32-second native-graphic marquee; a decorative duplicate is aria-hidden. A motion coordinator pauses the marquee whenever the inbox is visible, so only one ambient scene runs. Phone and reduced-motion logos wrap statically. Section headings move 12px once. Desktop system pin runs across 1,100px of native scroll at a 112px header offset, only at viewport heights of at least 900px; mobile never pins. Card hover depth stays below one degree. Magnetic buttons use small pointer-relative travel on fine pointers only. Press and focus remain native and visible. MatchMedia cleanup restores static reading immediately when reduced motion is enabled, including live preference changes.
+
+### Validation contract
+
+Check 360, 390, 768, 1024, 1440 and 1920px, plus keyboard, pointer, emulated touch, no-JavaScript, reduced motion and dialog Escape/focus return. All targets at least 44px. Preserve zero document overflow. Retain exact legal identity. Lighthouse and screenshots measure local Chromium, not real-device field performance. Evidence and recordings live in evidence/alive/.
 
 The directional DESIGN.md was established before implementation. This scan refresh reconciles that user-authorized, code-first editorial type statement with the shipping CSS and components; the project brief takes precedence over further concept-approval rounds.
 

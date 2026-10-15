@@ -1,0 +1,54 @@
+{
+  "shortDesktop": {
+    "pins": 0,
+    "steps": true
+  },
+  "stages": [
+    {
+      "heading": "Start with your buyer.",
+      "status": "Not booked yet",
+      "travelerY": 380,
+      "travelerVisible": "visible"
+    },
+    {
+      "heading": "Give them a reason to reply.",
+      "status": "Not booked yet",
+      "travelerY": 448,
+      "travelerVisible": "visible"
+    },
+    {
+      "heading": "Build the sending setup.",
+      "status": "Not booked yet",
+      "travelerY": 516,
+      "travelerVisible": "visible"
+    },
+    {
+      "heading": "Own the conversation.",
+      "status": "Not booked yet",
+      "travelerY": 584,
+      "travelerVisible": "visible"
+    },
+    {
+      "heading": "Put the meeting on your calendar.",
+      "status": "Not booked yet",
+      "travelerY": 652,
+      "travelerVisible": "visible"
+    },
+    {
+      "heading": "Put the meeting on your calendar.",
+      "status": "Booked",
+      "travelerY": 752,
+      "travelerVisible": "hidden"
+    }
+  ],
+  "videoPause": "true",
+  "explicitResume": {
+    "pressed": "false",
+    "text": "Pause motion"
+  },
+  "dynamicReduced": {
+    "pins": 0,
+    "visibleSteps": true,
+    "stat": "1,000+"
+  }
+}
