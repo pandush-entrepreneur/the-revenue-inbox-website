@@ -1,5 +1,13 @@
 # Alive
 
+## Production restore, 16 October 2026
+
+Production reverted because Vercel's production Git branch was still `main`, while the approved redesigned site was on `alive`. Later SEO commits and their reverts on `main` triggered automatic production deployments of the older design. The last overriding production commit was `7fe2fb3` at 22:10 UTC on 15 October.
+
+Restored the approved deployment `dpl_GimcRkJzND3skhyNkji31LgVEjSa`, sourced from `alive` commit `1d2df15`. Changed the existing Vercel project's production Git branch from `main` to `alive` and verified the setting through the project API. Future website changes must branch from and return to `alive`; pushes to `alive` now publish production automatically. No main-branch files or commits were overwritten.
+
+The approved free-work guarantee and removal of the pricing note beneath the final CTA remain intact. This incident changed deployment routing and documentation, not the site's design or offer.
+
 ## Approved production revision
 
 - Replaced the money-back guarantee with “or we work for free” in the hero, guarantee, FAQs, final close, case pages, metadata and current copy deck. The user explicitly approved this offer change. The 20-qualified-meeting commitment and 30-day campaign-launch clock remain.
