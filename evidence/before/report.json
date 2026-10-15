@@ -1,0 +1,2668 @@
+{
+ "url": "http://127.0.0.1:4173",
+ "at": "2026-10-15T12:57:26.823Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.7,
+    0.89,
+    0.39,
+    0.39,
+    0.57,
+    0.89,
+    0.81,
+    0.99,
+    0.62,
+    0.82,
+    0.99
+   ],
+   "motion": {
+    "elements": 25,
+    "css": 0,
+    "transitions": 25,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 10682,
+     "screens": 11.9,
+     "words": 1154,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 13,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "We Fill Your Calendar With 20+ Qualified Sales Meetings in 30 Days. Or You Don't Pay.",
+     "words": 16,
+     "chars": 85,
+     "lines": 6,
+     "size": 62,
+     "vw": 4.3,
+     "font": "Plus Jakarta Sans",
+     "weight": 700,
+     "tracking": 0,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.36,
+     "top": 186,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "We Fill Your Calendar With 20+ Qualified Sales Meetings in 30 Days. Or You Don't Pay.",
+     "words": 16,
+     "lines": 6,
+     "size": 62,
+     "font": "Plus Jakarta Sans"
+    },
+    "headings": [
+     {
+      "text": "We Fill Your Calendar With 20+ Qualified Sales Meetings in 30 Days. Or You Don't Pay.",
+      "words": 16,
+      "chars": 85,
+      "lines": 6,
+      "size": 62,
+      "vw": 4.3,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.36,
+      "top": 186,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Your revenue shouldn't depend on referrals and luck.",
+      "words": 8,
+      "chars": 52,
+      "lines": 2,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 1391,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Guessing is expensive. Every month without a predictable pipeline is revenue you never get back.",
+      "words": 15,
+      "chars": 96,
+      "lines": 2,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.35,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 1902,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "We don't just send you leads. We build the machine that fills your pipeline.",
+      "words": 14,
+      "chars": 76,
+      "lines": 5,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 2190,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Here's what our done-for-you GTM system actually produces",
+      "words": 8,
+      "chars": 57,
+      "lines": 2,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 2875,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "0.72",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 82,
+      "vw": 5.7,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.19,
+      "top": 4011,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "How we fill your pipeline in 4 steps",
+      "words": 8,
+      "chars": 36,
+      "lines": 2,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 4358,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real clients. Real numbers.",
+      "words": 4,
+      "chars": 27,
+      "lines": 1,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 5161,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Deep dives into real results",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 6133,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "18 investors",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 38,
+      "vw": 2.6,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 6263,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "240 meetings per month",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 38,
+      "vw": 2.6,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.2,
+      "top": 6263,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "475 interested leads",
+      "words": 3,
+      "chars": 20,
+      "lines": 2,
+      "size": 38,
+      "vw": 2.6,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 6263,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "$1.2M raised",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 38,
+      "vw": 2.6,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 6314,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "20% ARR growth",
+      "words": 3,
+      "chars": 14,
+      "lines": 2,
+      "size": 38,
+      "vw": 2.6,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.2,
+      "top": 6355,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "in just 30 days",
+      "words": 4,
+      "chars": 15,
+      "lines": 1,
+      "size": 38,
+      "vw": 2.6,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 6355,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "90 days",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 38,
+      "vw": 2.6,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 6365,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Pay for booked appointments.",
+      "words": 4,
+      "chars": 28,
+      "lines": 1,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 6867,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$100",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 84,
+      "vw": 5.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.26,
+      "top": 7109,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "20 qualified meetings in 30 days. Guaranteed.",
+      "words": 7,
+      "chars": 45,
+      "lines": 2,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 7640,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The two people running your pipeline",
+      "words": 6,
+      "chars": 36,
+      "lines": 2,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 8167,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Questions before you book",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 9236,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready to stop guessing where your next deal comes from?",
+      "words": 10,
+      "chars": 55,
+      "lines": 2,
+      "size": 54,
+      "vw": 3.8,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 10008,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 22,
+     "maxLines": 6,
+     "over2Lines": 2,
+     "statements": 2,
+     "centered": 11,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Poppins",
+       "share": 0.91,
+       "mono": false
+      },
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.09,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      11,
+      13,
+      14,
+      15,
+      16,
+      17,
+      20,
+      22,
+      24,
+      28,
+      32,
+      38,
+      54,
+      62,
+      82,
+      84
+     ],
+     "sizeCount": 17,
+     "notLoaded": [],
+     "body": {
+      "font": "Poppins",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.6
+     },
+     "measureChars": 61,
+     "max": {
+      "size": 84,
+      "vw": 5.8,
+      "font": "Plus Jakarta Sans",
+      "text": "$100"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 10,
+     "microLabelShare": 0.025,
+     "microSamples": [
+      "Done-for-you outbound. A fully managed g",
+      "Trusted by teams like",
+      "Run the numbers",
+      "Stage",
+      "Conservative",
+      "Expected"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0.29,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Run the numbers",
+      "above": "Here's what our done-for-you GTM system ",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 2839
+     },
+     {
+      "text": "Simple, performance-based pricing",
+      "above": "Pay for booked appointments.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 6831
+     },
+     {
+      "text": "Our promise to you",
+      "above": "20 qualified meetings in 30 days. Guaran",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 7604
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fbf9ff",
+       "top": 1285,
+       "hsl": {
+        "h": 260,
+        "s": 1,
+        "l": 0.99
+       }
+      },
+      {
+       "color": "#f4eefe",
+       "top": 2084,
+       "hsl": {
+        "h": 263,
+        "s": 0.89,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 2733,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#130b20",
+       "top": 10396,
+       "hsl": {
+        "h": 263,
+        "s": 0.49,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#6b6577",
+       "share": 0.52
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.21
+      },
+      {
+       "color": "#161122",
+       "share": 0.15
+      },
+      {
+       "color": "#595363",
+       "share": 0.04
+      },
+      {
+       "color": "#4b1d8f",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#8a40ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 12,
+     "inHero": 2,
+     "radius": 16,
+     "height": 59,
+     "withShadow": 11,
+     "withGradient": 3,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book a Call",
+      "Book Your Free Strategy Call"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 43,
+     "shadowOverlay": 3,
+     "shadowSamples": [
+      "a.btn.btn-primary → rgba(138, 64, 234, 0.3) 0px 16px 36px 0px",
+      "div.embed-frame.canva-frame → rgba(255, 255, 255, 0.18) 0px 0px 0px 1px, rgba(138, 64, 234, 0.38) 0px 30px 90p",
+      "article.pain-card → rgba(75, 29, 143, 0.14) 0px 22px 70px 0px",
+      "article.pain-card → rgba(75, 29, 143, 0.14) 0px 22px 70px 0px"
+     ],
+     "gradients": 6,
+     "scrims": 0,
+     "gradientSamples": [
+      "section.hero.section-dark → radial-gradient(circle at 10% 10%, rgba(180, 124, 240, 0.34), rgba(0, 0, 0, 0) 28%), linear-gradient(135deg, r",
+      "div.glow.glow-one → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)",
+      "div.glow.glow-two → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)",
+      "article.single-pricing-card → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "section#pricing.section.section-tint 1440px",
+      "div.container.copyright 1160px"
+     ],
+     "outlinedBoxes": 2,
+     "dashed": 0,
+     "blurred": 2,
+     "roundedBoxes": 26,
+     "boxRadius": 16,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 1672
+      },
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2533
+      },
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 4514
+      },
+      {
+       "count": 5,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 5307
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 6221
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "iframe",
+      "ratio": 0.16
+     }
+    ],
+    "nav": {
+     "links": 9,
+     "fixed": true,
+     "height": 86,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "plus jakarta sans",
+     "poppins"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    1,
+    0.54,
+    0.81,
+    0.52,
+    0.45,
+    0.76,
+    0.67,
+    0.96,
+    0.83,
+    0.71,
+    0.99
+   ],
+   "motion": {
+    "elements": 25,
+    "css": 0,
+    "transitions": 25,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 11040,
+     "screens": 10.8,
+     "words": 1146,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 13,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "We Fill Your Calendar With 20+ Qualified Sales Meetings in 30 Days. Or You Don't Pay.",
+     "words": 16,
+     "chars": 85,
+     "lines": 3,
+     "size": 38.4,
+     "vw": 5,
+     "font": "Plus Jakarta Sans",
+     "weight": 700,
+     "tracking": 0,
+     "leading": 1.04,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.95,
+     "top": 166,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "We Fill Your Calendar With 20+ Qualified Sales Meetings in 30 Days. Or You Don't Pay.",
+     "words": 16,
+     "lines": 3,
+     "size": 38.4,
+     "font": "Plus Jakarta Sans"
+    },
+    "headings": [
+     {
+      "text": "We Fill Your Calendar With 20+ Qualified Sales Meetings in 30 Days. Or You Don't Pay.",
+      "words": 16,
+      "chars": 85,
+      "lines": 3,
+      "size": 38.4,
+      "vw": 5,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.04,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 166,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Your revenue shouldn't depend on referrals and luck.",
+      "words": 8,
+      "chars": 52,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 1646,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "We don't just send you leads. We build the machine that fills your pipeline.",
+      "words": 14,
+      "chars": 76,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 2472,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Here's what our done-for-you GTM system actually produces",
+      "words": 8,
+      "chars": 57,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 3200,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "0.72",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 56,
+      "vw": 7.3,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.29,
+      "top": 4272,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "How we fill your pipeline in 4 steps",
+      "words": 8,
+      "chars": 36,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 4569,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Real clients. Real numbers.",
+      "words": 4,
+      "chars": 27,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 5480,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Deep dives into real results",
+      "words": 5,
+      "chars": 28,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 6645,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Pay for booked appointments.",
+      "words": 4,
+      "chars": 28,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 7591,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$100",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 56,
+      "vw": 7.3,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 7815,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "20 qualified meetings in 30 days. Guaranteed.",
+      "words": 7,
+      "chars": 45,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 8301,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The two people running your pipeline",
+      "words": 6,
+      "chars": 36,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 8699,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Questions before you book",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 9775,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready to stop guessing where your next deal comes from?",
+      "words": 10,
+      "chars": 55,
+      "lines": 2,
+      "size": 33.8,
+      "vw": 4.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 10457,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 14,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 1,
+     "centered": 10,
+     "medianWords": 6,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Poppins",
+       "share": 0.91,
+       "mono": false
+      },
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.09,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      11,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      22,
+      23,
+      25,
+      34,
+      38,
+      56
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Poppins",
+      "size": 16,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 5.6
+     },
+     "measureChars": 37,
+     "max": {
+      "size": 56,
+      "vw": 7.3,
+      "font": "Plus Jakarta Sans",
+      "text": "0.72"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 10,
+     "microLabelShare": 0.025,
+     "microSamples": [
+      "Done-for-you outbound. A fully managed g",
+      "Trusted by teams like",
+      "Run the numbers",
+      "Stage",
+      "Conservative",
+      "Expected"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0.29,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Run the numbers",
+      "above": "Here's what our done-for-you GTM system ",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 3164
+     },
+     {
+      "text": "Revenue closed",
+      "above": "0.72",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 18,
+      "top": 4140
+     },
+     {
+      "text": "Simple, performance-based pricing",
+      "above": "Pay for booked appointments.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 7555
+     },
+     {
+      "text": "Our promise to you",
+      "above": "20 qualified meetings in 30 days. Guaran",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 8265
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 575,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#fbf9ff",
+       "top": 1574,
+       "hsl": {
+        "h": 260,
+        "s": 1,
+        "l": 0.99
+       }
+      },
+      {
+       "color": "#f4eefe",
+       "top": 2400,
+       "hsl": {
+        "h": 263,
+        "s": 0.89,
+        "l": 0.96
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#6b6577",
+       "share": 0.52
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.21
+      },
+      {
+       "color": "#161122",
+       "share": 0.15
+      },
+      {
+       "color": "#595363",
+       "share": 0.04
+      },
+      {
+       "color": "#4b1d8f",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#8a40ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 12,
+     "inHero": 2,
+     "radius": 16,
+     "height": 59,
+     "withShadow": 11,
+     "withGradient": 3,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book a Call",
+      "Book Your Free Strategy Call"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 43,
+     "shadowOverlay": 3,
+     "shadowSamples": [
+      "a.btn.btn-primary → rgba(138, 64, 234, 0.3) 0px 16px 36px 0px",
+      "div.embed-frame.canva-frame → rgba(255, 255, 255, 0.18) 0px 0px 0px 1px, rgba(138, 64, 234, 0.38) 0px 30px 90p",
+      "article.pain-card → rgba(75, 29, 143, 0.14) 0px 22px 70px 0px",
+      "article.pain-card → rgba(75, 29, 143, 0.14) 0px 22px 70px 0px"
+     ],
+     "gradients": 8,
+     "scrims": 0,
+     "gradientSamples": [
+      "section.hero.section-dark → radial-gradient(circle at 10% 10%, rgba(180, 124, 240, 0.34), rgba(0, 0, 0, 0) 28%), linear-gradient(135deg, r",
+      "div.glow.glow-one → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)",
+      "div.glow.glow-two → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)",
+      "a.btn.btn-primary → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "section#pricing.section.section-tint 768px",
+      "div.container.copyright 732px"
+     ],
+     "outlinedBoxes": 2,
+     "dashed": 0,
+     "blurred": 2,
+     "roundedBoxes": 26,
+     "boxRadius": 16,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 4,
+       "iconTopped": true,
+       "rounded": true,
+       "top": 1871
+      },
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2810
+      },
+      {
+       "count": 4,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 4646
+      },
+      {
+       "count": 5,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 5599
+      },
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 6712
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "iframe",
+      "ratio": 0.42
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 86,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "plus jakarta sans",
+     "poppins"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.69,
+    0.53,
+    1,
+    0.74,
+    0.29,
+    0.69,
+    0.36,
+    0.8,
+    0.89,
+    0.82,
+    0.51
+   ],
+   "motion": {
+    "elements": 17,
+    "css": 0,
+    "transitions": 17,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 15119,
+     "screens": 17.9,
+     "words": 1147,
+     "img": 9,
+     "video": 0,
+     "canvas": 0,
+     "svg": 0,
+     "sections": 13,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "We Fill Your Calendar With 20+ Qualified Sales Meetings in 30 Days. Or You Don't Pay.",
+     "words": 16,
+     "chars": 85,
+     "lines": 4,
+     "size": 29,
+     "vw": 7.4,
+     "font": "Plus Jakarta Sans",
+     "weight": 700,
+     "tracking": 0,
+     "leading": 1.12,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.91,
+     "top": 168,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "We Fill Your Calendar With 20+ Qualified Sales Meetings in 30 Days. Or You Don't Pay.",
+     "words": 16,
+     "lines": 4,
+     "size": 29,
+     "font": "Plus Jakarta Sans"
+    },
+    "headings": [
+     {
+      "text": "We Fill Your Calendar With 20+ Qualified Sales Meetings in 30 Days. Or You Don't Pay.",
+      "words": 16,
+      "chars": 85,
+      "lines": 4,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 168,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Your revenue shouldn't depend on referrals and luck.",
+      "words": 8,
+      "chars": 52,
+      "lines": 3,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 1537,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "We don't just send you leads. We build the machine that fills your pipeline.",
+      "words": 14,
+      "chars": 76,
+      "lines": 4,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 2867,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Here's what our done-for-you GTM system actually produces",
+      "words": 8,
+      "chars": 57,
+      "lines": 3,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 3968,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "0.72",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 56,
+      "vw": 14.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 5161,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "How we fill your pipeline in 4 steps",
+      "words": 8,
+      "chars": 36,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 5656,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Strategy and positioning",
+      "words": 3,
+      "chars": 24,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.18,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 5855,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Infrastructure and data",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.18,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 6136,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Launch and optimize",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.18,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 6444,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Meetings booked",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.18,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 6751,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Real clients. Real numbers.",
+      "words": 4,
+      "chars": 27,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 7188,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Deep dives into real results",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 9025,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "18 investors",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 9152,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "$1.2M raised",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 9189,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "90 days",
+      "words": 2,
+      "chars": 7,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 9226,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "236 meetings per month",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 9550,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "20% ARR growth",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 9614,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "466 interested leads",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 9938,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "in just 29 days",
+      "words": 4,
+      "chars": 15,
+      "lines": 1,
+      "size": 25,
+      "vw": 6.4,
+      "font": "Poppins",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 9975,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Pay for booked appointments.",
+      "words": 4,
+      "chars": 28,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 10408,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$100",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 56,
+      "vw": 14.4,
+      "font": "Plus Jakarta Sans",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 0.98,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 10639,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "20 qualified meetings in 30 days. Guaranteed.",
+      "words": 7,
+      "chars": 45,
+      "lines": 3,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 11381,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The two people running your pipeline",
+      "words": 6,
+      "chars": 36,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 11885,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Pandush",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.18,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 12303,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Umair",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.18,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.76,
+      "top": 13104,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Questions before you book",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 13708,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Ready to stop guessing where your next deal comes from?",
+      "words": 10,
+      "chars": 55,
+      "lines": 3,
+      "size": 32,
+      "vw": 8.2,
+      "font": "Plus Jakarta Sans",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.08,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 14523,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 27,
+     "maxLines": 4,
+     "over2Lines": 6,
+     "statements": 1,
+     "centered": 10,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Poppins",
+       "share": 0.91,
+       "mono": false
+      },
+      {
+       "family": "Plus Jakarta Sans",
+       "share": 0.09,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      22,
+      25,
+      29,
+      32,
+      56
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Poppins",
+      "size": 16,
+      "leading": 1.7,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": null
+     },
+     "measureChars": 37,
+     "max": {
+      "size": 56,
+      "vw": 14.4,
+      "font": "Plus Jakarta Sans",
+      "text": "0.72"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 8,
+     "microLabelShare": 0.023,
+     "microSamples": [
+      "Done-for-you outbound. A fully managed g",
+      "Trusted by teams like",
+      "Run the numbers",
+      "Stage",
+      "Expected",
+      "Most likely"
+     ],
+     "upperShare": 0.02,
+     "centerShare": 0.26,
+     "smallText": 5
+    },
+    "eyebrows": [
+     {
+      "text": "Run the numbers",
+      "above": "Here's what our done-for-you GTM system ",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 3932
+     },
+     {
+      "text": "Revenue closed",
+      "above": "0.72",
+      "upper": false,
+      "tracked": false,
+      "mono": false,
+      "pill": false,
+      "size": 18,
+      "top": 5038
+     },
+     {
+      "text": "Simple, performance-based pricing",
+      "above": "Pay for booked appointments.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 10372
+     },
+     {
+      "text": "Our promise to you",
+      "above": "20 qualified meetings in 30 days. Guaran",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": false,
+      "size": 13,
+      "top": 11345
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fbf9ff",
+       "top": 1465,
+       "hsl": {
+        "h": 260,
+        "s": 1,
+        "l": 0.99
+       }
+      },
+      {
+       "color": "#f4eefe",
+       "top": 2795,
+       "hsl": {
+        "h": 263,
+        "s": 0.89,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 3860,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#4b1d8f",
+       "top": 5133,
+       "hsl": {
+        "h": 264,
+        "s": 0.66,
+        "l": 0.34
+       }
+      },
+      {
+       "color": "#130b20",
+       "top": 14845,
+       "hsl": {
+        "h": 263,
+        "s": 0.49,
+        "l": 0.08
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#6b6577",
+       "share": 0.52
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.21
+      },
+      {
+       "color": "#161122",
+       "share": 0.15
+      },
+      {
+       "color": "#595363",
+       "share": 0.04
+      },
+      {
+       "color": "#4b1d8f",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#8a40ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 12,
+     "inHero": 2,
+     "radius": 16,
+     "height": 53,
+     "withShadow": 10,
+     "withGradient": 2,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Book a Call",
+      "Book Your Free Strategy Call"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 42,
+     "shadowOverlay": 2,
+     "shadowSamples": [
+      "a.btn.btn-primary → rgba(138, 64, 234, 0.3) 0px 16px 36px 0px",
+      "div.embed-frame.canva-frame → rgba(255, 255, 255, 0.18) 0px 0px 0px 1px, rgba(138, 64, 234, 0.38) 0px 30px 90p",
+      "article.pain-card → rgba(75, 29, 143, 0.14) 0px 22px 70px 0px",
+      "article.pain-card → rgba(75, 29, 143, 0.14) 0px 22px 70px 0px"
+     ],
+     "gradients": 8,
+     "scrims": 0,
+     "gradientSamples": [
+      "section.hero.section-dark → radial-gradient(circle at 10% 10%, rgba(180, 124, 240, 0.34), rgba(0, 0, 0, 0) 28%), linear-gradient(135deg, r",
+      "div.glow.glow-one → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)",
+      "div.glow.glow-two → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)",
+      "a.btn.btn-primary → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "section#pricing.section.section-tint 390px",
+      "div.container.copyright 354px"
+     ],
+     "outlinedBoxes": 3,
+     "dashed": 0,
+     "blurred": 2,
+     "roundedBoxes": 31,
+     "boxRadius": 16,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "iframe",
+      "ratio": 0.21
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 66,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": [
+     "plus jakarta sans",
+     "poppins"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "2 headline(s) wrap past two lines at 1440px: \"We Fill Your Calendar With 20+ Qualified Sales M\" → 6 lines (16 words, 62px); \"We don't just send you leads. We build the machi\" → 5 lines (14 words, 54px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "hero-words",
+   "width": 1440,
+   "message": "Hero headline is 16 words (\"We Fill Your Calendar With 20+ Qualified Sales Meetings in 3\"). Gallery median is 5.",
+   "fix": "Say the one thing. Move the rest to the supporting line.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "3 eyebrow/kicker label(s) above headings: \"Run the numbers\" above \"Here's what our done-for-you GTM system \"; \"Simple, performance-based pricing\" above \"Pay for booked appointments.\"; \"Our promise to you\" above \"20 qualified meetings in 30 days. Guaran\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "10 tiny uppercase letter-spaced labels (e.g. \"Done-for-you outbound. A fully managed g\", \"Trusted by teams like\", \"Run the numbers\", \"Stage\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "6 gradient fill(s): section.hero.section-dark → radial-gradient(circle at 10% 10%, rgba(180, 124, 240, 0.34), rgba(0, 0, 0, 0) 28%), linear-gradient(135deg, r | div.glow.glow-one → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%) | div.glow.glow-two → linear-gradient(135deg, rgb(138, 64, 234) 0%, rgb(180, 124, 240) 100%)",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "43 box-shadow(s) on elements at rest: a.btn.btn-primary → rgba(138, 64, 234, 0.3) 0px 16px 36px 0px | div.embed-frame.canva-frame → rgba(255, 255, 255, 0.18) 0px 0px 0px 1px, rgba(138, 64, 234, 0.38) 0px 30px 90p | article.pain-card → rgba(75, 29, 143, 0.14) 0px 22px 70px 0px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "button-fx",
+   "width": 1440,
+   "message": "Buttons with gradient fill and shadow/glow.",
+   "fix": "Flat fill, one colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "2 thin rule(s)/divider line(s): section#pricing.section.section-tint 1440px | div.container.copyright 1160px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "2 box(es) drawn with a 1px outline.",
+   "fix": "Prefer a filled surface or no box.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "glass",
+   "width": 1440,
+   "message": "2 backdrop-blur surfaces.",
+   "fix": "One blurred sticky bar at most; glass cards are a tell.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "icon-cards",
+   "width": 1440,
+   "message": "1 row(s) of identical cards each topped with a small icon (4 cards).",
+   "fix": "Replace with one composed section from the direction: a narrative split, a list set in large type, or real imagery per item.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "palette-purple",
+   "width": 1440,
+   "message": "Indigo / violet (text #4b1d8f).",
+   "fix": "Use the accent from the drawn palette.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "17 different font sizes (9, 11, 13, 14, 15, 16, 17, 20, 22, 24, 28, 32, 38, 54, 62, 82, 84).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "grey-body",
+   "width": 1440,
+   "message": "The running text is a soft grey on its ground (5.6:1).",
+   "fix": "Set body copy in the full ink (7:1 or more). Keep the muted ink for secondary notes; pages read thin and unfinished when everything is grey.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "small-text",
+   "width": 1440,
+   "message": "1 text block(s) under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "focal-point",
+   "width": 1440,
+   "message": "The first screen has no dominant element: the largest type is 62px (4.3vw) and no single picture holds a third of the viewport.",
+   "fix": "Make one thing lead: the headline at display size, or one large picture. A grid of many small pictures is not one thing; in blind tests jurors marked a first screen without a headline down every time. On the strongest studied sites the largest type has a median of 8.4vw."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "1 headline(s) wrap past two lines at 768px: \"We Fill Your Calendar With 20+ Qualified Sales M\" → 3 lines (16 words, 38.4px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "6 headline(s) wrap past two lines at 390px: \"We Fill Your Calendar With 20+ Qualified Sales M\" → 4 lines (16 words, 29px); \"Your revenue shouldn't depend on referrals and l\" → 3 lines (8 words, 32px); \"We don't just send you leads. We build the machi\" → 4 lines (14 words, 32px); \"Here's what our done-for-you GTM system actually\" → 3 lines (8 words, 32px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 390,
+   "message": "3 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 390,
+   "message": "5 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\desktop-page-01.jpg",
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\desktop-page-02.jpg",
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\desktop-page-03.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\tablet-page-01.jpg",
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\tablet-page-02.jpg"
+   ]
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\mobile-page-01.jpg",
+    "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\.taste-skill\\inspect\\mobile-page-02.jpg"
+   ]
+  }
+ ]
+}

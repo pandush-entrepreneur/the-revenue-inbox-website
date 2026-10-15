@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-15T13:21:50.593979+00:00",
+  "title": "Design System: The Revenue Inbox",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "Brand purple",
+        "tonalRamp": [
+          "oklch(15% 0.23851 298.00)",
+          "oklch(26% 0.23851 298.00)",
+          "oklch(38% 0.23851 298.00)",
+          "oklch(49% 0.23851 298.00)",
+          "oklch(61% 0.23851 298.00)",
+          "oklch(72% 0.23851 298.00)",
+          "oklch(84% 0.23851 298.00)",
+          "oklch(95% 0.23851 298.00)"
+        ]
+      },
+      "deep": {
+        "role": "primary",
+        "displayName": "Deep purple",
+        "tonalRamp": [
+          "oklch(15% 0.17163 294.84)",
+          "oklch(26% 0.17163 294.84)",
+          "oklch(38% 0.17163 294.84)",
+          "oklch(49% 0.17163 294.84)",
+          "oklch(61% 0.17163 294.84)",
+          "oklch(72% 0.17163 294.84)",
+          "oklch(84% 0.17163 294.84)",
+          "oklch(95% 0.17163 294.84)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Reading ink",
+        "tonalRamp": [
+          "oklch(15% 0.03425 296.60)",
+          "oklch(26% 0.03425 296.60)",
+          "oklch(38% 0.03425 296.60)",
+          "oklch(49% 0.03425 296.60)",
+          "oklch(61% 0.03425 296.60)",
+          "oklch(72% 0.03425 296.60)",
+          "oklch(84% 0.03425 296.60)",
+          "oklch(95% 0.03425 296.60)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Secondary ink",
+        "tonalRamp": [
+          "oklch(15% 0.02886 300.59)",
+          "oklch(26% 0.02886 300.59)",
+          "oklch(38% 0.02886 300.59)",
+          "oklch(49% 0.02886 300.59)",
+          "oklch(61% 0.02886 300.59)",
+          "oklch(72% 0.02886 300.59)",
+          "oklch(84% 0.02886 300.59)",
+          "oklch(95% 0.02886 300.59)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Daylight paper",
+        "tonalRamp": [
+          "oklch(15% 0.00000 0.00)",
+          "oklch(26% 0.00000 0.00)",
+          "oklch(38% 0.00000 0.00)",
+          "oklch(49% 0.00000 0.00)",
+          "oklch(61% 0.00000 0.00)",
+          "oklch(72% 0.00000 0.00)",
+          "oklch(84% 0.00000 0.00)",
+          "oklch(95% 0.00000 0.00)"
+        ]
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Soft paper",
+        "tonalRamp": [
+          "oklch(15% 0.00693 304.24)",
+          "oklch(26% 0.00693 304.24)",
+          "oklch(38% 0.00693 304.24)",
+          "oklch(49% 0.00693 304.24)",
+          "oklch(61% 0.00693 304.24)",
+          "oklch(72% 0.00693 304.24)",
+          "oklch(84% 0.00693 304.24)",
+          "oklch(95% 0.00693 304.24)"
+        ]
+      },
+      "tint": {
+        "role": "primary",
+        "displayName": "Pale purple",
+        "tonalRamp": [
+          "oklch(15% 0.02216 302.94)",
+          "oklch(26% 0.02216 302.94)",
+          "oklch(38% 0.02216 302.94)",
+          "oklch(49% 0.02216 302.94)",
+          "oklch(61% 0.02216 302.94)",
+          "oklch(72% 0.02216 302.94)",
+          "oklch(84% 0.02216 302.94)",
+          "oklch(95% 0.02216 302.94)"
+        ]
+      },
+      "night": {
+        "role": "neutral",
+        "displayName": "Closing ink",
+        "tonalRamp": [
+          "oklch(15% 0.03425 296.60)",
+          "oklch(26% 0.03425 296.60)",
+          "oklch(38% 0.03425 296.60)",
+          "oklch(49% 0.03425 296.60)",
+          "oklch(61% 0.03425 296.60)",
+          "oklch(72% 0.03425 296.60)",
+          "oklch(84% 0.03425 296.60)",
+          "oklch(95% 0.03425 296.60)"
+        ]
+      },
+      "on-night": {
+        "role": "neutral",
+        "displayName": "Inverse paper",
+        "tonalRamp": [
+          "oklch(15% 0.00000 0.00)",
+          "oklch(26% 0.00000 0.00)",
+          "oklch(38% 0.00000 0.00)",
+          "oklch(49% 0.00000 0.00)",
+          "oklch(61% 0.00000 0.00)",
+          "oklch(72% 0.00000 0.00)",
+          "oklch(84% 0.00000 0.00)",
+          "oklch(95% 0.00000 0.00)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Table rule",
+        "tonalRamp": [
+          "oklch(15% 0.02012 305.23)",
+          "oklch(26% 0.02012 305.23)",
+          "oklch(38% 0.02012 305.23)",
+          "oklch(49% 0.02012 305.23)",
+          "oklch(61% 0.02012 305.23)",
+          "oklch(72% 0.02012 305.23)",
+          "oklch(84% 0.02012 305.23)",
+          "oklch(95% 0.02012 305.23)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero headline and closing CTA; mobile has a size override."
+      },
+      "stat": {
+        "displayName": "Evidence statistics",
+        "purpose": "Static final metrics, pricing and break-even figures."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "fast",
+        "value": "150ms",
+        "purpose": "Button and text-link travel; second hero-line delay."
+      },
+      {
+        "name": "base",
+        "value": "250ms",
+        "purpose": "Logo, FAQ and media state transitions."
+      },
+      {
+        "name": "slow",
+        "value": "600ms",
+        "purpose": "Hero and observed-content entrances; media scaling."
+      },
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "Shared easing."
+      },
+      {
+        "name": "reveal",
+        "value": "opacity:1; transform:translateY(12px) ? none",
+        "purpose": "One-time observed entrances preserve text contrast."
+      },
+      {
+        "name": "hero-in",
+        "value": "opacity:.65 ? 1; translateY(12px) ? none",
+        "purpose": "Hero lines only; disabled for reduced motion."
+      },
+      {
+        "name": "answer-in",
+        "value": "opacity:.65 ? 1; translateY(8px) ? none",
+        "purpose": "Open FAQ answer; disabled for reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "navigation-collapse",
+        "value": "1023px",
+        "query": "max-width"
+      },
+      {
+        "name": "mobile-layout",
+        "value": "767px",
+        "query": "max-width"
+      },
+      {
+        "name": "compact-header",
+        "value": "480px",
+        "query": "max-width"
+      }
+    ],
+    "focus": {
+      "value": "3px solid var(--primary); outline-offset:4px",
+      "purpose": "Shared visible keyboard focus."
+    },
+    "geometry": {
+      "containerMax": "1200px",
+      "gutter": "clamp(24px,4vw,64px)",
+      "header": "88px; 80px mobile",
+      "controlMinHeight": "48px",
+      "portraitAspectRatio": "4 / 5",
+      "videoAspectRatio": "4 / 3",
+      "tableMinWidth": "760px desktop; 608px at max-width:767px",
+      "stickyMobileStageMinWidth": "128px via var(--s10) at max-width:767px"
+    },
+    "contrast": {
+      "method": "WCAG relative luminance; solid-color states only",
+      "paper-on-primary": 5.25,
+      "paper-on-deep": 11.22,
+      "ink-on-paper": 18.46,
+      "muted-on-paper": 5.6,
+      "muted-on-soft": 5.17,
+      "ink-on-soft": 17.05,
+      "ink-on-tint": 16.27
+    },
+    "tonalRampNote": "Synthesized OKLCH lightness ramps for documentation previews only; they do not introduce implementation palette tokens.",
+    "videoActivation": {
+      "aspectRatio": "4 / 3",
+      "behavior": "Deliberate facade activation inserts iframe and a visible Open video on Vimeo text link after it.",
+      "fallback": "Original Vimeo destination; target=_blank; rel=noopener. Available after embedding fails and as facade link without JavaScript.",
+      "verification": "Local headless iframe returned 401; production-domain playback unverified."
+    }
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Booking/action treatment, 48px minimum height.",
+      "html": "<a class=\"ds-button-primary\" href=\"https://calendly.com/therevenueinboxagency/discovery\">Book a call</a>",
+      "css": ".ds-button-primary{display:inline-flex;align-items:center;justify-content:center;gap:var(--s5,24px);min-height:var(--control,48px);padding:var(--s3,12px) var(--s5,24px);border:0;border-radius:var(--radius,0);font:500 var(--small,.875rem)/1.5 var(--text-face,\"DM Sans\",sans-serif);text-decoration:none;transition:transform var(--fast,150ms) var(--ease,cubic-bezier(.16,1,.3,1));background:var(--primary,#8a40ea);color:var(--paper,#fff);}.ds-button-primary:hover{transform:translateY(-4px);background:var(--deep,#4b1d8f);}.ds-button-primary:active{transform:translateY(0)}.ds-button-primary:focus-visible{outline:var(--focus-width,3px) solid var(--primary,#8a40ea);outline-offset:var(--s1,4px)}@media(prefers-reduced-motion:reduce){.ds-button-primary{transition:none}.ds-button-primary:hover{transform:none}}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Booking/action treatment, 48px minimum height.",
+      "html": "<a class=\"ds-button-secondary\" href=\"https://calendly.com/therevenueinboxagency/discovery\">Book a call</a>",
+      "css": ".ds-button-secondary{display:inline-flex;align-items:center;justify-content:center;gap:var(--s5,24px);min-height:var(--control,48px);padding:var(--s3,12px) var(--s5,24px);border:0;border-radius:var(--radius,0);font:500 var(--small,.875rem)/1.5 var(--text-face,\"DM Sans\",sans-serif);text-decoration:none;transition:transform var(--fast,150ms) var(--ease,cubic-bezier(.16,1,.3,1));background:var(--soft,#f7f5fa);color:var(--ink,#161122);}.ds-button-secondary:hover{transform:translateY(-4px);}.ds-button-secondary:active{transform:translateY(0)}.ds-button-secondary:focus-visible{outline:var(--focus-width,3px) solid var(--primary,#8a40ea);outline-offset:var(--s1,4px)}@media(prefers-reduced-motion:reduce){.ds-button-secondary{transition:none}.ds-button-secondary:hover{transform:none}}"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Booking/action treatment, 48px minimum height.",
+      "html": "<a class=\"ds-button-ghost\" href=\"https://calendly.com/therevenueinboxagency/discovery\">Book a call</a>",
+      "css": ".ds-button-ghost{display:inline-flex;align-items:center;justify-content:center;gap:var(--s5,24px);min-height:var(--control,48px);padding:var(--s3,12px) var(--s5,24px);border:0;border-radius:var(--radius,0);font:500 var(--small,.875rem)/1.5 var(--text-face,\"DM Sans\",sans-serif);text-decoration:none;transition:transform var(--fast,150ms) var(--ease,cubic-bezier(.16,1,.3,1));background:transparent;color:var(--ink,#161122);}.ds-button-ghost:hover{transform:translateY(-4px);}.ds-button-ghost:active{transform:translateY(0)}.ds-button-ghost:focus-visible{outline:var(--focus-width,3px) solid var(--primary,#8a40ea);outline-offset:var(--s1,4px)}@media(prefers-reduced-motion:reduce){.ds-button-ghost{transition:none}.ds-button-ghost:hover{transform:none}}"
+    },
+    {
+      "name": "Plain Navigation",
+      "kind": "nav",
+      "description": "Small paper-surface navigation with underline hover.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Preview navigation\"><a href=\"#results\">Results</a><a href=\"#process\">How it works</a></nav>",
+      "css": ".ds-nav{display:flex;gap:var(--s6,32px);background:var(--paper,#fff);color:var(--ink,#161122);font:400 var(--small,.875rem)/1.6 var(--text-face,\"DM Sans\",sans-serif)}.ds-nav a{padding-block:var(--s3,12px);color:inherit;text-decoration:none}.ds-nav a:hover{text-decoration:underline}.ds-nav a:focus-visible{outline:var(--focus-width,3px) solid var(--primary,#8a40ea);outline-offset:var(--s1,4px)}"
+    },
+    {
+      "name": "Contract Value Radio",
+      "kind": "input",
+      "refersTo": "radio-option",
+      "description": "Native grouped option with deep selected state.",
+      "html": "<fieldset class=\"ds-control\"><legend>Average contract value</legend><label><input type=\"radio\" name=\"ds-acv\" value=\"15000\">$15K</label><label><input type=\"radio\" name=\"ds-acv\" value=\"25000\" checked>$25K</label></fieldset>",
+      "css": ".ds-control{border:0;padding:0;margin:0;display:flex;gap:var(--s2,8px);font:400 var(--small,.875rem)/1.6 var(--text-face,\"DM Sans\",sans-serif);color:var(--ink,#161122)}.ds-control legend{margin-bottom:var(--s4,16px)}.ds-control label{display:flex;align-items:center;gap:var(--s2,8px);padding:var(--s3,12px) var(--s4,16px);min-height:var(--control,48px);background:var(--paper,#fff);cursor:pointer}.ds-control label:has(input:checked){background:var(--deep,#4b1d8f);color:var(--paper,#fff)}.ds-control input{accent-color:var(--primary,#8a40ea);width:16px;height:16px;margin:0}.ds-control input:focus-visible{outline:var(--focus-width,3px) solid var(--primary,#8a40ea);outline-offset:var(--s1,4px)}"
+    },
+    {
+      "name": "Evidence Row",
+      "kind": "card",
+      "refersTo": "case-row",
+      "description": "Flat editorial evidence grouping with static metric.",
+      "html": "<article class=\"ds-evidence\"><div><strong>$1.2M</strong><p>raised through cold email</p></div><div><h3>Campaign evidence</h3><a href=\"#case-study\">Read case study</a></div></article>",
+      "css": ".ds-evidence{display:grid;grid-template-columns:1fr 1fr;gap:var(--s6,32px);padding:var(--s7,48px);background:var(--paper,#fff);color:var(--ink,#161122);font:400 var(--body,1.125rem)/1.6 var(--text-face,\"DM Sans\",sans-serif)}.ds-evidence strong{font:500 var(--stat,clamp(2.5rem,5vw,4rem))/1.12 var(--display-face,\"Manrope\",sans-serif);letter-spacing:-.04em}.ds-evidence h3{font:600 var(--title,1.5rem)/1.3 var(--display-face,\"Manrope\",sans-serif);margin:0 0 16px}.ds-evidence p{margin:8px 0 0}.ds-evidence a{display:inline-flex;align-items:center;min-height:48px;font-size:.875rem;color:inherit;text-decoration:none}.ds-evidence a:hover{text-decoration:underline}.ds-evidence a:focus-visible{outline:var(--focus-width,3px) solid var(--primary,#8a40ea);outline-offset:var(--s1,4px)}@media(max-width:767px){.ds-evidence{grid-template-columns:1fr;padding:32px}}"
+    },
+    {
+      "name": "Native FAQ",
+      "kind": "custom",
+      "refersTo": "faq",
+      "description": "Disclosure remains readable and operable without script.",
+      "html": "<details class=\"ds-faq\"><summary>How does pricing work?<svg aria-hidden=\"true\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M12 5v14M5 12h14\"/></svg></summary><div>Appointment pricing and monthly infrastructure are stated separately.</div></details>",
+      "css": ".ds-faq{background:var(--soft,#f7f5fa);color:var(--ink,#161122);font:400 var(--body,1.125rem)/1.6 var(--text-face,\"DM Sans\",sans-serif)}.ds-faq summary{display:flex;align-items:center;justify-content:space-between;gap:24px;padding:24px;min-height:48px;font-weight:500;list-style:none;cursor:pointer}.ds-faq summary::-webkit-details-marker{display:none}.ds-faq summary:hover{color:var(--deep,#4b1d8f)}.ds-faq summary:focus-visible{outline:var(--focus-width,3px) solid var(--primary,#8a40ea);outline-offset:var(--s1,4px)}.ds-faq svg{width:24px;height:24px;stroke:currentColor;stroke-width:1.5;flex-shrink:0;transition:transform var(--base,250ms) var(--ease,cubic-bezier(.16,1,.3,1))}.ds-faq[open] svg{transform:rotate(45deg)}.ds-faq>div{padding:0 24px 24px}@media(prefers-reduced-motion:reduce){.ds-faq svg{transition:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Considered Proposal",
+    "overview": "A partner's considered proposal: daylight reading, clear terms, earned evidence and real operators. Strong typography and broad whitespace carry the hierarchy; original campaign results provide the editorial record.\n\nThe original logo and purple identity remain binding. Manrope display type and DM Sans reading type bring a precise, approachable character. The static site stays useful without JavaScript; enhancement adds deliberate movement and native-control behavior.",
+    "keyCharacteristics": [
+      "Light editorial canvas with one inverse closing field.",
+      "Square, flat surfaces and a four-pixel spacing rhythm.",
+      "Real evidence, monochrome photography and static final metrics.",
+      "Native controls, visible content and reduced-motion support."
+    ],
+    "rules": [
+      {
+        "name": "The Brand Fidelity Rule",
+        "body": "Keep the original logo unmodified. Client logos, portraits and campaign imagery receive the implemented monochrome treatment; the brand logo does not.",
+        "section": "colors"
+      },
+      {
+        "name": "The Evidence Rule",
+        "body": "Metrics are final static values, never counters from zero. The ROI table uses tabular numerals.",
+        "section": "typography"
+      },
+      {
+        "name": "The Visible Content Rule",
+        "body": "Content is visible without script. Off-screen observed elements begin at full opacity with a 12px translation, then move into place once; failure to receive an observer event never hides their text.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preserve the original logo, brand purple and earned evidence.",
+      "Do use the existing spacing, typography and color tokens.",
+      "Do keep final metrics and readable content in static HTML.",
+      "Do preserve keyboard focus, native controls and reduced-motion behavior."
+    ],
+    "donts": [
+      "Don't invent claims, identities, logos, dashboards or source evidence.",
+      "Don't add decorative gradients, glass, stock imagery or icon feature grids.",
+      "Don't hide static content behind JavaScript or load a third-party player before intent.",
+      "Don't introduce horizontal document scrolling; keep model overflow scoped to its table."
+    ]
+  }
+}

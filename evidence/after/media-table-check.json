@@ -1,0 +1,16 @@
+{
+  "before": {
+    "table": {
+      "left": 24,
+      "right": 366
+    },
+    "revenue": {
+      "left": 191.078125,
+      "right": 286.625
+    },
+    "visible": true
+  },
+  "keyboardScroll": 240,
+  "touchScroll": 240,
+  "videoText": ""
+}

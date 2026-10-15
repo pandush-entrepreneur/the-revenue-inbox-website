@@ -1,0 +1,25 @@
+{
+  "investors390": {
+    "overflow": false,
+    "brokenImages": []
+  },
+  "investors1440": {
+    "overflow": false,
+    "brokenImages": []
+  },
+  "touchTable": {
+    "scrollLeft": 0,
+    "documentOverflow": false
+  },
+  "keyboardRadio": {
+    "selected": "50000",
+    "revenue": "$350,000"
+  },
+  "vimeoPlayerResponses": [
+    {
+      "url": "https://player.vimeo.com/video/1208088795?autoplay=1&title=0&byline=0&portrait=0&dnt=1&color=8A40EA",
+      "status": 401
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,23 @@
+{
+  "type": "video",
+  "version": "1.0",
+  "provider_name": "Vimeo",
+  "provider_url": "https://vimeo.com/",
+  "title": "\"FIRST MONTH THEY BOOKED ME 21 CALLS, CLOSED 5 DEALS\"",
+  "author_name": "Pandush Lice",
+  "author_url": "https://vimeo.com/user260828278",
+  "is_plus": "0",
+  "account_type": "free",
+  "html": "<iframe src=\"https://player.vimeo.com/video/1208088797?app_id=122963\" width=\"240\" height=\"426\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"&quot;FIRST MONTH THEY BOOKED ME 21 CALLS, CLOSED 5 DEALS&quot;\"></iframe>",
+  "width": 240,
+  "height": 426,
+  "duration": 24,
+  "description": "",
+  "thumbnail_url": "https://i.vimeocdn.com/video/2177320505-ea8c4121608453e819c53eadb181741fc57c0bb9fa75dab68da122b0aa2c0450-d_200x150?region=us",
+  "thumbnail_width": 200,
+  "thumbnail_height": 355,
+  "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F2177320505-ea8c4121608453e819c53eadb181741fc57c0bb9fa75dab68da122b0aa2c0450-d_200x150%3Fregion%3Dus&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+  "upload_date": "2026-07-08 08:49:10",
+  "video_id": 1208088797,
+  "uri": "/videos/1208088797"
+}

@@ -1,0 +1,183 @@
+[
+  {
+    "file": "index.html",
+    "width": 360,
+    "overflow": false,
+    "h1": 1,
+    "missingImages": [],
+    "lazyImagesPending": 8,
+    "initialPlayers": 0,
+    "anchors": [],
+    "booking": true,
+    "smallTargets": [],
+    "fonts": [
+      "DM Sans",
+      "DM Sans",
+      "DM Sans",
+      "Manrope",
+      "Manrope"
+    ],
+    "errors": []
+  },
+  {
+    "file": "index.html",
+    "width": 390,
+    "overflow": false,
+    "h1": 1,
+    "missingImages": [],
+    "lazyImagesPending": 8,
+    "initialPlayers": 0,
+    "anchors": [],
+    "booking": true,
+    "smallTargets": [],
+    "fonts": [
+      "DM Sans",
+      "DM Sans",
+      "DM Sans",
+      "Manrope",
+      "Manrope"
+    ],
+    "errors": []
+  },
+  {
+    "interaction": {
+      "high": [
+        "$150,000",
+        "$350,000",
+        "$650,000"
+      ],
+      "low": [
+        "$45,000",
+        "$105,000",
+        "$195,000"
+      ],
+      "be": "0.36",
+      "faqOpen": true,
+      "menuOpen": true,
+      "menuClosed": true,
+      "videoSources": [
+        "https://player.vimeo.com/video/1208088795?autoplay=1&title=0&byline=0&portrait=0&dnt=1&color=8A40EA",
+        "https://player.vimeo.com/video/1208088797?autoplay=1&title=0&byline=0&portrait=0&dnt=1&color=8A40EA",
+        "https://player.vimeo.com/video/1208088831?autoplay=1&title=0&byline=0&portrait=0&dnt=1&color=8A40EA",
+        "https://player.vimeo.com/video/1208088794?autoplay=1&title=0&byline=0&portrait=0&dnt=1&color=8A40EA",
+        "https://player.vimeo.com/video/1208088839?autoplay=1&title=0&byline=0&portrait=0&dnt=1&color=8A40EA"
+      ]
+    }
+  },
+  {
+    "file": "index.html",
+    "width": 768,
+    "overflow": false,
+    "h1": 1,
+    "missingImages": [],
+    "lazyImagesPending": 8,
+    "initialPlayers": 0,
+    "anchors": [],
+    "booking": true,
+    "smallTargets": [],
+    "fonts": [
+      "DM Sans",
+      "DM Sans",
+      "DM Sans",
+      "Manrope",
+      "Manrope"
+    ],
+    "errors": []
+  },
+  {
+    "file": "index.html",
+    "width": 1024,
+    "overflow": false,
+    "h1": 1,
+    "missingImages": [],
+    "lazyImagesPending": 8,
+    "initialPlayers": 0,
+    "anchors": [],
+    "booking": true,
+    "smallTargets": [],
+    "fonts": [
+      "DM Sans",
+      "DM Sans",
+      "DM Sans",
+      "Manrope",
+      "Manrope"
+    ],
+    "errors": []
+  },
+  {
+    "file": "index.html",
+    "width": 1280,
+    "overflow": false,
+    "h1": 1,
+    "missingImages": [],
+    "lazyImagesPending": 8,
+    "initialPlayers": 0,
+    "anchors": [],
+    "booking": true,
+    "smallTargets": [],
+    "fonts": [
+      "DM Sans",
+      "DM Sans",
+      "DM Sans",
+      "Manrope",
+      "Manrope"
+    ],
+    "errors": []
+  },
+  {
+    "file": "index.html",
+    "width": 1440,
+    "overflow": false,
+    "h1": 1,
+    "missingImages": [],
+    "lazyImagesPending": 8,
+    "initialPlayers": 0,
+    "anchors": [],
+    "booking": true,
+    "smallTargets": [],
+    "fonts": [
+      "DM Sans",
+      "DM Sans",
+      "DM Sans",
+      "Manrope",
+      "Manrope"
+    ],
+    "errors": []
+  },
+  {
+    "file": "index.html",
+    "width": 1920,
+    "overflow": false,
+    "h1": 1,
+    "missingImages": [],
+    "lazyImagesPending": 8,
+    "initialPlayers": 0,
+    "anchors": [],
+    "booking": true,
+    "smallTargets": [],
+    "fonts": [
+      "DM Sans",
+      "DM Sans",
+      "DM Sans",
+      "Manrope",
+      "Manrope"
+    ],
+    "errors": []
+  },
+  {
+    "noJS": {
+      "h1": "\n      \n       Outbound that\n      \n      \n       books meetings.\n      \n     ",
+      "proof": "\n       \n        \n         1,000+\n        \n        \n         Meetings booked\n         \n         through cold email\n        \n       \n       \n        \n         $2.5M+\n        \n        \n         Revenue generated\n         \n         for clients\n        \n       \n       \n        For founders, agencies and B2B teams.\n       \n      ",
+      "hidden": 0
+    }
+  },
+  {
+    "reducedMotion": {
+      "animations": 0,
+      "scrollBehavior": "auto"
+    }
+  },
+  {
+    "escapeClosesMenu": true
+  }
+]

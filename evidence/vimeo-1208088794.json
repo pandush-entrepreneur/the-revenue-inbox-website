@@ -1,0 +1,23 @@
+{
+  "type": "video",
+  "version": "1.0",
+  "provider_name": "Vimeo",
+  "provider_url": "https://vimeo.com/",
+  "title": "\"SCALED FROM 0 TO $380K PER MONTH WITH HIS HELP\"",
+  "author_name": "Pandush Lice",
+  "author_url": "https://vimeo.com/user260828278",
+  "is_plus": "0",
+  "account_type": "free",
+  "html": "<iframe src=\"https://player.vimeo.com/video/1208088794?app_id=122963\" width=\"240\" height=\"426\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"&quot;SCALED FROM 0 TO $380K PER MONTH WITH HIS HELP&quot;\"></iframe>",
+  "width": 240,
+  "height": 426,
+  "duration": 127,
+  "description": "",
+  "thumbnail_url": "https://i.vimeocdn.com/video/2177320533-2fcc0355c81373d091b05107dfda6f7dde60b0b0776981607a64314c0b4ae94f-d_200x150?region=us",
+  "thumbnail_width": 200,
+  "thumbnail_height": 356,
+  "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F2177320533-2fcc0355c81373d091b05107dfda6f7dde60b0b0776981607a64314c0b4ae94f-d_200x150%3Fregion%3Dus&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+  "upload_date": "2026-07-08 08:49:10",
+  "video_id": 1208088794,
+  "uri": "/videos/1208088794"
+}

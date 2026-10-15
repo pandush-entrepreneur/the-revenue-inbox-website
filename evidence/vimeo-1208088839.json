@@ -1,0 +1,23 @@
+{
+  "type": "video",
+  "version": "1.0",
+  "provider_name": "Vimeo",
+  "provider_url": "https://vimeo.com/",
+  "title": "\"BOOKED 42 CALLS AND CLOSED OUR FIRST ENTERPRISE CLIENT\"",
+  "author_name": "Pandush Lice",
+  "author_url": "https://vimeo.com/user260828278",
+  "is_plus": "0",
+  "account_type": "free",
+  "html": "<iframe src=\"https://player.vimeo.com/video/1208088839?app_id=122963\" width=\"240\" height=\"426\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" title=\"&quot;BOOKED 42 CALLS AND CLOSED OUR FIRST ENTERPRISE CLIENT&quot;\"></iframe>",
+  "width": 240,
+  "height": 426,
+  "duration": 23,
+  "description": "",
+  "thumbnail_url": "https://i.vimeocdn.com/video/2177320534-2177a2cd2a420a737dd5b2bf16ca95fb70ad892e514acf56baf584078eb78587-d_200x150?region=us",
+  "thumbnail_width": 200,
+  "thumbnail_height": 355,
+  "thumbnail_url_with_play_button": "https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F2177320534-2177a2cd2a420a737dd5b2bf16ca95fb70ad892e514acf56baf584078eb78587-d_200x150%3Fregion%3Dus&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png",
+  "upload_date": "2026-07-08 08:49:17",
+  "video_id": 1208088839,
+  "uri": "/videos/1208088839"
+}
