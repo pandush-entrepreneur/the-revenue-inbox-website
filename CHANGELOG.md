@@ -1,5 +1,7 @@
 ## Blog launch and homepage finish, 16 October 2026
 
+Live publication verified at https://www.therevenueinbox.com/blog. All six articles return HTTP 200 with index,follow and canonical URLs. RSS has six items and the sitemap has sixteen URLs. Live desktop/mobile browser checks confirm the corrected gap, removed tick and no overflow. Production code commit: 4943b05; its GitHub publication workflow passed.
+
 Pandush explicitly approved all six reviewed articles and requested publication. Recorded the actual approval reference and exact source hashes; generated public articles, founder-reviewed bylines, RSS entries, canonicals, social cards and sitemap entries. Blog index and published articles are indexable. Search Console, Analytics and keyword-data connections remain unset; indexable does not mean Google has indexed or ranked them.
 
 Removed the guarantee tick badge. Reduced the guarantee-to-team reading gap to 112px desktop/tablet and 80px mobile, verified at 360, 390, 768, 1024, 1440 and 1920px. Reply handling now has intentional two-line layout without breaking the final g. Updated 90-layout blog checks pass, as do approval, metadata, cover and link checks. Screenshots and measurements are in evidence/blog-launch.

@@ -1,0 +1,14 @@
+[
+  {
+    "width": 390,
+    "overflow": false,
+    "gap": 80,
+    "tickRemoved": true
+  },
+  {
+    "width": 1440,
+    "overflow": false,
+    "gap": 112,
+    "tickRemoved": true
+  }
+]

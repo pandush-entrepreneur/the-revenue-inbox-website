@@ -1,0 +1,98 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/",
+    "xRobots": null,
+    "h1": "20 qualified meetings. 30 days. Or we work for free.",
+    "robots": "index,follow",
+    "canonical": "https://www.therevenueinbox.com/",
+    "tickRemoved": true,
+    "replyLabel": "Reply handling"
+  },
+  {
+    "path": "/blog",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/blog",
+    "xRobots": null,
+    "h1": "The outbound blog.",
+    "robots": "index,follow",
+    "canonical": "https://www.therevenueinbox.com/blog",
+    "articles": 6
+  },
+  {
+    "path": "/blog/b2b-cold-email-templates",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/blog/b2b-cold-email-templates",
+    "xRobots": null,
+    "h1": "7 B2B cold email templates for your next campaign",
+    "robots": "index,follow",
+    "canonical": "https://www.therevenueinbox.com/blog/b2b-cold-email-templates"
+  },
+  {
+    "path": "/blog/clay-vs-instantly-vs-smartlead",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/blog/clay-vs-instantly-vs-smartlead",
+    "xRobots": null,
+    "h1": "Clay vs Instantly vs Smartlead: build the right stack",
+    "robots": "index,follow",
+    "canonical": "https://www.therevenueinbox.com/blog/clay-vs-instantly-vs-smartlead"
+  },
+  {
+    "path": "/blog/cold-email-agency-pricing",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/blog/cold-email-agency-pricing",
+    "xRobots": null,
+    "h1": "Cold email agency pricing: the full bill",
+    "robots": "index,follow",
+    "canonical": "https://www.therevenueinbox.com/blog/cold-email-agency-pricing"
+  },
+  {
+    "path": "/blog/cold-email-deliverability-checklist",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/blog/cold-email-deliverability-checklist",
+    "xRobots": null,
+    "h1": "Cold email deliverability: 7 checks before you send",
+    "robots": "index,follow",
+    "canonical": "https://www.therevenueinbox.com/blog/cold-email-deliverability-checklist"
+  },
+  {
+    "path": "/blog/cold-email-metrics",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/blog/cold-email-metrics",
+    "xRobots": null,
+    "h1": "Cold email metrics: the rates worth tracking",
+    "robots": "index,follow",
+    "canonical": "https://www.therevenueinbox.com/blog/cold-email-metrics"
+  },
+  {
+    "path": "/blog/pay-per-appointment-vs-retainer",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/blog/pay-per-appointment-vs-retainer",
+    "xRobots": null,
+    "h1": "Pay per appointment vs a monthly retainer",
+    "robots": "index,follow",
+    "canonical": "https://www.therevenueinbox.com/blog/pay-per-appointment-vs-retainer"
+  },
+  {
+    "path": "/blog/feed.xml",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/blog/feed.xml",
+    "xRobots": null,
+    "entries": 6
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/sitemap.xml",
+    "xRobots": null,
+    "entries": 16
+  },
+  {
+    "path": "/styles.css",
+    "status": 200,
+    "url": "https://www.therevenueinbox.com/styles.css",
+    "xRobots": null,
+    "spacingRulesPresent": true
+  }
+]
