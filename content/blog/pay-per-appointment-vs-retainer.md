@@ -10,11 +10,20 @@
   "created": "2026-10-16",
   "published": null,
   "updated": null,
-  "visual": "comparison",
+  "visual": "model",
   "summary": "The payment model tells you how the bill is calculated. The qualification rules tell you whether the appointment is worth buying.",
   "related_case": "networked-fundraise",
-  "related_posts": ["cold-email-agency-pricing"],
-  "sources": ["https://www.therevenueinbox.com/#pricing", "https://www.therevenueinbox.com/case-studies/networked-fundraise", "https://www.connectleadagency.com/services/sdr-appointment-setting/"]
+  "related_posts": [
+    "cold-email-agency-pricing"
+  ],
+  "sources": [
+    "https://www.therevenueinbox.com/#pricing",
+    "https://www.therevenueinbox.com/case-studies/networked-fundraise",
+    "https://www.connectleadagency.com/services/sdr-appointment-setting/"
+  ],
+  "image_alt": "Two calendar panels compare a fixed monthly commitment with an appointment-based model.",
+  "image_caption": "Different billing models. The same need for a clear meeting definition.",
+  "editorial_order": 2
 }
 ---
 
@@ -74,4 +83,4 @@ Our guarantee is **20 qualified meetings. 30 days. Or we work for free.** The 30
 
 You should be able to name the buyer, explain what makes a meeting qualified and calculate the complete bill. You should also know who handles the work between the first reply and the booked call.
 
-Bring the proposals and your contract value to a [strategy call](https://calendly.com/therevenueinboxagency/discovery). We can show you how our model works for the market you want to reach.
+{{article-cta}}

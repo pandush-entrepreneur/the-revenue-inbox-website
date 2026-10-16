@@ -6,7 +6,7 @@ Audience: US B2B founders buying managed outbound. The goal is qualified organic
 
 Markdown articles live in content/blog. Each file begins with JSON metadata between `---` lines. JSON is deliberately used so the static build needs no YAML dependency. Match the two pilot files when adding an article.
 
-Required fields: title, slug, description, category, keyword, status, author, created, published, updated, visual, summary, related_case, related_posts and sources. States are draft, review and published. Slugs contain lowercase letters, digits and single hyphens. Publication dates must be real; scheduled future dates do not appear early. Authors are team, pandush or umair. Named author credit requires their actual authorship/review.
+Required fields: title, slug, description, category, keyword, status, author, created, published, updated, visual, image_alt, image_caption, summary, related_case, related_posts and sources. Optional seo_title must remain under 60 characters. Optional format=templates enables copy buttons. source_note describes the actual evidence for that article. States are draft, review and published. Slugs contain lowercase letters, digits and single hyphens. Publication dates must be real; scheduled future dates do not appear early. Authors are team, pandush or umair. Named author credit requires their actual authorship/review.
 
 Raw exports, voice-note transcripts and unreleased screenshots belong in gitignored reference/content-inputs. Never commit private raw lead data or deploy it with the website. Approved, redacted assets can move to assets. content itself is excluded from Vercel uploads; only generated static pages are served.
 
@@ -44,5 +44,9 @@ Search is shown once at least five guides exist, an editorial UI choice rather t
 - Choose the keyword data connection and research budget.
 - Configure analytics after the actual measurement ID is provided.
 - Connect and verify completed-booking signals separately from CTA clicks.
-- Review the first two article drafts and any unresolved operational terms.
+- Review the six article drafts and any unresolved operational terms.
 - Approve the blog preview and article versions before the first production release.
+
+## Useful-content direction
+
+The first six drafts mix templates, deliverability, measurement, tool comparison and buying guides. Each must answer its query without booking a call. Use real industry names only when relevant to the comparison or attributed source. No borrowed authority, unsupported performance rankings or clickbait promises. See content/briefs/useful-content-expansion.md for the next queue and evidence requirements. A topic-specific CTA can follow substantial value; avoid replacing the article with a sales pitch.

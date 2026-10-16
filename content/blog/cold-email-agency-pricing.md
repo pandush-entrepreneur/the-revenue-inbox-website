@@ -13,8 +13,17 @@
   "visual": "cost",
   "summary": "The appointment fee is only part of the price. Compare the complete monthly bill and the meeting definition behind it.",
   "related_case": "networked-sales-meetings",
-  "related_posts": ["pay-per-appointment-vs-retainer"],
-  "sources": ["https://www.therevenueinbox.com/#pricing", "https://www.therevenueinbox.com/case-studies/networked-sales-meetings", "https://www.builtforb2b.com/pricing"]
+  "related_posts": [
+    "pay-per-appointment-vs-retainer"
+  ],
+  "sources": [
+    "https://www.therevenueinbox.com/#pricing",
+    "https://www.therevenueinbox.com/case-studies/networked-sales-meetings",
+    "https://www.builtforb2b.com/pricing"
+  ],
+  "image_alt": "Three cost components arranged beside a calculator: appointments, infrastructure and total.",
+  "image_caption": "Compare the whole cost, not just the appointment fee.",
+  "editorial_order": 1
 }
 ---
 
@@ -77,3 +86,5 @@ For a closer look at the trade-offs, read [pay per appointment versus a monthly 
 Ask for the total bill at the same appointment volume, against the same qualification criteria and scope. Then compare it with your own contract value and sales process.
 
 If you want to work through that calculation for your offer, [book your strategy call](https://calendly.com/therevenueinboxagency/discovery). Bring your contract value and the buyer you need to reach. We can start with the economics.
+
+{{article-cta}}

@@ -1,3 +1,17 @@
+# Editorial expansion review, 16 October 2026
+
+Current pass: six review articles, seven blog surfaces. 90 layouts across Chromium at 360, 390, 768, 1024, 1440 and 1920px and Firefox/WebKit at 390/1440px. No detected layout overflow, broken images, runtime errors, undersized controls or axe violations. Search, no-results recovery, calculator, mobile contents, booking dialog and real clipboard content were checked. See qa.json, qa-console.txt and copy-check.json.
+
+Mobile Lighthouse was rerun on the updated index: 100 Performance, 100 Accessibility, 100 Best Practices; LCP 1.8s. SEO category excluded because review output is noindex. This is local emulation, not production field data.
+
+Manual screenshot review covered desktop/mobile index and articles. Covers now use concrete article subjects, the index reads as a publication, and CTAs follow useful answers. Removed the founders module and index closing pitch. Navigation link centering removes uneven optical spacing around Blog. No new colors, logo changes or external image licenses. A missing comparison-cover filename was found by browser QA and fixed; the final complete matrix passed.
+
+Article checks: all four new drafts use current official product/policy sources or approved case numbers. Copy templates are original examples, not claimed campaign winners. Tool comparison is documentation-based, not a fabricated hands-on test. Measurement percentages preserve source denominators. Keyword volumes and US rankings remain unmeasured. Six draft versions require actual founder review before publication.
+
+The earlier independent review below applies to the initial two-draft foundation, not the new four articles. Current revision used direct screenshot review and the automated checks above.
+
+---
+
 # Blog review, 16 October 2026
 
 Scope: new editorial surfaces on the blog branch. Production remains on alive. Two unapproved articles exist only in the separate review output.

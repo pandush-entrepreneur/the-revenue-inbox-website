@@ -13,5 +13,6 @@ jobs:
           python-version: '3.12'
       - run: pip install -r requirements-build.txt
       - run: python tools/test-blog-publication.py
-      - run: python tools/build-site.py
+      - run: python tools/build-site.py --preview
       - run: python tools/check-blog-output.py
+      - run: python tools/check-blog-preview.py

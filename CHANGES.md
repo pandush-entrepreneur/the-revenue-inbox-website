@@ -1,3 +1,11 @@
+## Blog editorial expansion, 16 October 2026
+
+Reframed /blog as The outbound blog, removed its founders promotion and closing pitch, and corrected optical spacing around Blog in the header. Six original topic-specific SVG covers now replace the receipt/02 treatment on cards and article pages. The index has a featured article, a two-column reading grid and working search.
+
+Added four unpublished review drafts: 7 B2B cold email templates, a seven-check deliverability guide with a reusable evidence log, a documentation-based Clay/Instantly/Smartlead workflow comparison with a trial scorecard, and a metrics guide with explicit denominators and calculations from approved case counts. Seven template blocks have progressive copy buttons. CTAs follow useful content and match the topic. Added a source/research brief and a varied next-topic queue; measured keyword volume and rankings are still unavailable.
+
+QA: 90 responsive layouts across Chromium, Firefox and WebKit; no detected overflow, broken images, runtime errors, undersized controls or axe violations. Search/reset, calculator, mobile contents, booking and clipboard copying pass. All seven review pages pass metadata/link/cover checks. Mobile Lighthouse: Performance 100, Accessibility 100, Best Practices 100; LCP 1.8s. SEO scoring excluded on the noindex preview. These are local/emulated checks. Production remains unchanged; all six articles await founder review.
+
 ## Blog foundation and review drafts, 16 October 2026
 
 Built on the blog feature branch from alive. Production is unchanged. Added a matching static blog index, article template, author profiles, RSS, per-article social cards, native cost calculator and publication checks. Two buyer-intent articles are review drafts, not approved publications. Public builds exclude them; a separate noindex preview allows review.

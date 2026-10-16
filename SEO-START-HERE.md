@@ -1,6 +1,6 @@
 # Your next steps
 
-The blog foundation and first two drafts are ready for review on the blog branch. The live site remains on alive. No article has been published or approved on your behalf.
+The blog foundation and first six drafts are ready for review on the blog branch. The live site remains on alive. No article has been published or approved on your behalf.
 
 ## 1. Set up Google Search Console first
 
@@ -40,10 +40,14 @@ The supported OpenSEO setup is documented at https://openseo.so/docs/codex-plugi
 
 Until connected, the keyword queue records search volumes and difficulty as **not measured**. We can still draft from verified business facts and inspect public pages, but should not pretend that the publishing order is validated by demand data.
 
-## 4. Review the first two drafts
+## 4. Review the first six drafts
 
 - `content/blog/cold-email-agency-pricing.md`
 - `content/blog/pay-per-appointment-vs-retainer.md`
+- `content/blog/b2b-cold-email-templates.md`
+- `content/blog/cold-email-deliverability-checklist.md`
+- `content/blog/clay-vs-instantly-vs-smartlead.md`
+- `content/blog/cold-email-metrics.md`
 
 Check whether the voice sounds like you, the explanation matches how you sell, and every description of your operation is accurate. Names are not added as approved authors until the actual review happens. Your unresolved practical free-work terms are not filled with invented details.
 

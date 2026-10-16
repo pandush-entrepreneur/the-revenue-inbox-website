@@ -52,12 +52,6 @@ def load_posts():
     if len({p['slug'] for p in posts}) != len(posts): raise ValueError('Duplicate article slug')
     return posts
 
-def cost_visual():
-    return '''<div class="article-cost-visual" aria-label="Worked example: 20 appointments cost $3,500 including infrastructure"><div class="receipt-head"><span>THE MONTHLY BILL</span><span>20 appointments</span></div><div class="receipt-row"><span>Qualified appointments</span><b>$2,000</b></div><div class="receipt-row"><span>Infrastructure</span><b>$1,500</b></div><div class="receipt-total"><span>Full monthly cost</span><strong>$3,500</strong></div><p>$175 per qualified booked appointment.<br>Our published pricing. A billing example, not a forecast.</p></div>'''
-
-def model_visual():
-    return '''<figure class="model-visual"><div><span>Per qualified booked appointment</span><strong>$100</strong><span>Variable with appointment count</span></div><b aria-hidden="true">+</b><div><span>Monthly infrastructure</span><strong>$1,500</strong><span>Domains, mailboxes, data and tools</span></div><figcaption>Our model combines an appointment fee with a fixed monthly infrastructure charge.</figcaption></figure>'''
-
 def calculator():
     return '''<section class="article-calculator" aria-labelledby="cost-model-title"><h3 id="cost-model-title">See the full bill at your appointment volume.</h3><p>Our published pricing: $100 per qualified booked appointment plus $1,500 per month infrastructure.</p><label for="guide-volume">Qualified booked appointments <output id="guide-volume-label" for="guide-volume">20</output></label><input id="guide-volume" disabled type="range" min="10" max="60" value="20"><div class="guide-totals" aria-live="polite"><div><span>Monthly total</span><strong id="guide-total">$3,500</strong></div><div><span>Cost per appointment</span><strong id="guide-unit">$175</strong></div></div><p class="micro">Billing examples only. This control does not predict campaign results. Costs are in USD.</p></section>'''
 
@@ -67,7 +61,15 @@ def meta(post):
     return published + (' · Updated ' + post['updated'] if post.get('updated') and post['updated'] != post['published'] else '')
 
 def article_card(post, featured=False):
-    return f'''<article class="guide-card {'guide-featured' if featured else ''}" data-guide data-category="{e(post['category'])}"><a href="/blog/{post['slug']}"><div class="guide-card-copy"><div class="guide-meta"><span>{e(post['category'])}</span><span>{post['minutes']} min read</span></div><h2>{e(post['title'])}</h2><p>{e(post['summary'])}</p><span class="guide-read">Read the guide {site.icon()}</span></div>{cost_visual() if featured else '<span class="guide-number" aria-hidden="true">02</span>'}</a></article>'''
+    return f'''<article class="guide-card {'guide-featured' if featured else ''}" data-guide data-category="{e(post['category'])}"><a href="/blog/{post['slug']}">{cover(post, card=True)}<div class="guide-card-copy"><div class="guide-meta"><span>{e(post['category'])}</span><span>{post['minutes']} min read</span></div><h2>{e(post['title'])}</h2><p>{e(post['summary'])}</p><span class="guide-read">Read the article {site.icon()}</span></div></a></article>'''
+
+def cover(post, card=False):
+    if not (ROOT/'assets'/'blog'/(post['visual']+'.svg')).is_file():
+        raise ValueError(post['slug']+': missing editorial cover')
+    return f'''<figure class="editorial-cover{' card-cover' if card else ''}"><img src="/assets/blog/{e(post['visual'])}.svg" width="960" height="640" alt="{e(post['image_alt'])}" {'loading="lazy"' if card else 'fetchpriority="high"'} decoding="async">{'' if card else '<figcaption>'+e(post['image_caption'])+'</figcaption>'}</figure>'''
+
+def article_cta(post):
+    return '<aside class="article-next-step"><p class="eyebrow">Put it into practice</p><h3>'+e(post.get('cta_title','Build an outbound plan around your market.'))+'</h3><p>'+e(post.get('cta_text','Bring your ICP and current approach. We can map what the campaign needs before you commit.'))+'</p>'+site.cta('blog-'+post['slug'])+'<p class="micro">A conversation about your market, offer and next step.</p></aside>'
 
 def og(output, key, title, label='The Revenue Inbox · Field guides'):
     from fontTools.ttLib import TTFont
@@ -94,22 +96,21 @@ def build(output, include_review=False):
     site.ROOT = output
     all_posts = load_posts(); live = [p for p in all_posts if approved(p)]
     posts = [p for p in all_posts if p in live or (include_review and p['status']=='review')]
-    posts.sort(key=lambda p:p.get('published') or p['created'],reverse=True)
+    posts.sort(key=lambda p:(p.get('published') or p['created'],p.get('editorial_order',0)),reverse=True)
     extra = '<link rel="stylesheet" href="/blog.css"><link rel="alternate" type="application/rss+xml" title="The Revenue Inbox guides" href="/blog/feed.xml"><script src="/blog.js" defer></script>'
     def page(path,title,description,body,key='blog-index',schemas=None,noindex=False):
         return site.page(path,title,description,body,og=key,schemas=schemas,head_extra=extra,body_class='blog-surface',noindex=noindex or include_review)
     breadcrumb = '<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><span>Blog</span></nav>'
-    intro = site.section('blog-top',breadcrumb+'<h1>Before you hire<br>an outbound agency.</h1><p class="blog-lead">Read the costs and qualification rules before you put your pipeline in someone else\'s hands.</p>','blog-index-hero')
+    intro = site.section('blog-top',breadcrumb+'<p class="eyebrow">The Revenue Inbox journal</p><h1>The outbound blog.</h1><p class="blog-lead">Cold email templates, practical strategies and clear answers. For B2B teams building a better pipeline.</p>','blog-index-hero')
     if posts:
-        controls = '<div class="guide-controls" hidden><label for="guide-search">Find a guide<input id="guide-search" type="search" placeholder="Search pricing, qualification, outbound" autocomplete="off"></label><p id="guide-count" aria-live="polite">'+str(len(posts))+' guides</p></div>'
+        controls = '<div class="guide-controls" hidden><label for="guide-search">Find an article<input id="guide-search" type="search" placeholder="Search templates, deliverability, tools…" autocomplete="off"></label><p id="guide-count" aria-live="polite">'+str(len(posts))+' articles</p></div>'
         if len(posts)<5: controls='<p class="guide-collection-count">'+str(len(posts))+' guides</p>'
         cards = ''.join(article_card(p,i==0) for i,p in enumerate(posts))
         listing = site.section('guides','<h2 class="sr-only">Field guides</h2>'+controls+'<div class="guide-grid">'+cards+'</div><div class="guide-empty" hidden><h2>No matching guides.</h2><p>Try another topic, or browse the campaign evidence.</p><button type="button" class="button secondary" data-clear-search>Show all guides</button></div>','guide-list')
     else:
         listing = site.section('guides','<h2>Start with the campaign evidence.</h2><p class="blog-lead">Our first guides are being reviewed. You can already inspect the emails, costs and results in our six case studies.</p><a href="/case-studies" class="button secondary">Read the case studies '+site.icon()+'</a>','guide-list')
-    operators = site.section('guide-operators','<div class="blog-operators"><div><h2>Close to the work.</h2><p>Pandush and Umair run the outbound and qualification. Meet the people behind the campaigns.</p></div><div>'+''.join(f'<a href="/authors/{key}"><img src="/assets/{a["image"]}-mini.webp" width="48" height="60" alt=""><span>{a["name"]}<small>{a["role"]}</small></span>{site.icon()}</a>' for key,a in AUTHORS.items())+'</div></div>','tonal-section')
-    og(output,'blog-index','Before you hire an outbound agency.')
-    page('/blog','Outbound Guides for B2B Founders | The Revenue Inbox','Practical guides to cold email agency pricing, qualified meetings and choosing an outbound partner. Read the costs and evidence before you hire.',intro+listing+operators+site.closing(),noindex=not posts)
+    og(output,'blog-index','The outbound blog.')
+    page('/blog','Cold Email & Outbound Blog | The Revenue Inbox','Practical cold email templates, deliverability checklists, tool comparisons and campaign measurement guides for B2B founders and sales teams.',intro+listing,noindex=not posts)
     generated=['blog.html','assets/og/blog-index.png','blog/feed.xml']
     for post in posts:
         body=site.md(post['body']); soup=BeautifulSoup(body,'html.parser');toc=[]
@@ -118,7 +119,9 @@ def build(output, include_review=False):
         for table in soup.select('table'):
             hint=soup.new_tag('p',attrs={'class':'table-hint'});hint.string='Swipe to see all columns.';table.insert_before(hint)
             wrap=soup.new_tag('div',attrs={'class':'article-table','role':'region','aria-label':'Comparison table','tabindex':'0'});table.wrap(wrap)
-        body=str(soup).replace('<p>{{cost-calculator}}</p>',calculator())
+        if post.get('format')=='templates':
+            for quote in soup.select('blockquote'):quote['data-email-template']=''
+        body=str(soup).replace('<p>{{cost-calculator}}</p>',calculator()).replace('<p>{{article-cta}}</p>',article_cta(post))
         author=AUTHORS.get(post['author']); byline=(f'<a href="/authors/{post["author"]}">{author["name"]}</a>' if author else '<a href="/#team">The Revenue Inbox</a>')
         trail='<nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/blog">Blog</a><span>/</span><span>'+e(post['category'])+'</span></nav>'
         lead=site.section('article-top',trail+f'<div class="guide-meta"><span>{e(post["category"])}</span><span>{post["minutes"]} min read</span></div><h1>{e(post["title"])}</h1><p class="article-summary">{e(post["summary"])}</p><div class="article-byline">{byline}<span>{meta(post)}</span></div>','article-hero')
@@ -126,14 +129,15 @@ def build(output, include_review=False):
         case='/case-studies/'+post['related_case']
         links=''.join(f'<li><a href="{e(u)}" target="_blank" rel="noopener">{e(u.replace(BASE,"The Revenue Inbox").replace("https://www.","").replace("https://",""))}</a></li>' for u in post['sources'])
         related=''.join(article_card(p) for p in posts if p['slug'] in post.get('related_posts',[]))
-        layout=f'<div class="article-layout"><aside class="article-aside"><details><summary>In this guide</summary><nav aria-label="Article contents">{nav}</nav></details><a class="aside-case" href="{case}"><span>Inspect the evidence</span><b>Read the related campaign</b>{site.icon()}</a></aside><article class="article-prose">{body}<section class="article-sources"><h2>Sources and working</h2><p>Pricing examples use our published offer. Campaign results describe individual engagements and do not predict your results. External provider information was checked on 16 October 2026.</p><ul>{links}</ul></section><div class="article-author-note"><p>Prepared by The Revenue Inbox.{" Founder review is pending; this is an editorial preview." if post["status"]!="published" else ""}</p></div></article></div>'
-        visual=site.section('article-visual',cost_visual() if post['visual']=='cost' else model_visual(),'article-visual-section')
+        source_note=post.get('source_note','Pricing examples use our published offer. Campaign results describe individual engagements and do not predict your results. External provider information was checked on 16 October 2026.')
+        layout=f'<div class="article-layout"><aside class="article-aside"><details><summary>In this guide</summary><nav aria-label="Article contents">{nav}</nav></details><a class="aside-case" href="{case}"><span>Inspect the evidence</span><b>Read the related campaign</b>{site.icon()}</a></aside><article class="article-prose">{body}<section class="article-sources"><h2>Sources and working</h2><p>{e(source_note)}</p><ul>{links}</ul></section><div class="article-author-note"><p>Prepared by The Revenue Inbox.{" Founder review is pending; this is an editorial preview." if post["status"]!="published" else ""}</p></div></article></div>'
+        visual=site.section('article-visual',cover(post),'article-visual-section')
         schema={'@type':'BlogPosting','headline':post['title'],'description':post['description'],'image':BASE+'/assets/og/blog-'+post['slug']+'.png','mainEntityOfPage':BASE+'/blog/'+post['slug'],'publisher':{'@id':site.ORG['@id']},'author':({'@type':'Person','name':author['name'],'url':BASE+'/authors/'+post['author'],'sameAs':['https://www.linkedin.com/in/'+author['linkedin']+'/']} if author else {'@id':site.ORG['@id']}),'inLanguage':'en-US'}
         if post.get('published'):schema['datePublished']=post['published']
         if post.get('updated'):schema['dateModified']=post['updated']
         crumbs={'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':i+1,'name':name,'item':BASE+path} for i,(name,path) in enumerate([('Home','/'),('Blog','/blog'),(post['title'],'/blog/'+post['slug'])])]}
         og(output,'blog-'+post['slug'],post['title'])
-        page('/blog/'+post['slug'],post['title']+' | Revenue Inbox',post['description'],lead+visual+site.section('article-body',layout,'article-body-section')+(site.section('related-guides','<h2>Keep reading.</h2><div class="guide-grid related-guide-grid">'+related+'</div>','related-guides') if related else '')+site.closing('Put the numbers against your own offer.',True),'blog-'+post['slug'],[schema,crumbs])
+        page('/blog/'+post['slug'],post.get('seo_title',post['title']+' | Revenue Inbox'),post['description'],lead+visual+site.section('article-body',layout,'article-body-section')+(site.section('related-guides','<h2>Keep reading.</h2><div class="guide-grid related-guide-grid">'+related+'</div>','related-guides') if related else ''),'blog-'+post['slug'],[schema,crumbs])
         generated+=['blog/'+post['slug']+'.html','assets/og/blog-'+post['slug']+'.png']
     for key,a in AUTHORS.items():
         own=[p for p in posts if p['author']==key]

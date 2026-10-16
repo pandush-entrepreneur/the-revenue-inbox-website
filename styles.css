@@ -239,6 +239,7 @@ input[type=range]{width:100%;height:44px;accent-color:var(--primary);cursor:poin
 
 /* Final layout and interaction corrections from the cross-browser pass. */
 .desktop-nav a,.footer-top nav a,.breadcrumbs a{min-width:44px}
+.desktop-nav a{justify-content:center}.mobile-menu nav a{padding-inline:16px}.footer-top nav a{justify-content:flex-start}
 .case-filters button,.merge-pill{min-width:44px}
 .hero-layout>*,.roi-lab>*,.pricing-card>*{min-width:0}
 .case-identity{height:64px;display:flex;align-items:center;margin-bottom:32px}
