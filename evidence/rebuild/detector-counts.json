@@ -1,0 +1,24 @@
+{
+  "total": 447,
+  "nonAdvisory": 428,
+  "byRule": {
+    "dark-glow": 13,
+    "icon-tile-stack": 5,
+    "undersized-ui-text": 230,
+    "tiny-text": 115,
+    "cramped-padding": 57,
+    "design-system-color": 19,
+    "aphoristic-cadence": 1,
+    "skipped-heading": 7
+  },
+  "byFile": {
+    "index.html": 88,
+    "case-studies.html": 30,
+    "case-studies\\graiai.html": 52,
+    "case-studies\\networked-fundraise.html": 50,
+    "case-studies\\networked-sales-meetings.html": 70,
+    "case-studies\\parking-compliance-systems.html": 51,
+    "case-studies\\sales-recruitment.html": 54,
+    "case-studies\\spotlight-skyhigh-creatives.html": 52
+  }
+}

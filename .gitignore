@@ -7,3 +7,7 @@ qa-*.png
 .taste-skill/
 .impeccable/questions/
 evidence/alive/frames-*/
+reference/
+.agents/
+node_modules/
+evidence/rebuild/frames-*/

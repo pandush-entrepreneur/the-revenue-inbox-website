@@ -1,31 +1,32 @@
-# The Revenue Inbox Website
+# The Revenue Inbox website
 
-Static landing page and case study pages for The Revenue Inbox.
-
-The current motion and conversion pass lives on the `alive` branch. There is no build step. GSAP and ScrollTrigger 3.13.0 are vendored under assets/vendor. Vercel's production Git branch is `alive`, so pushes to `alive` publish production automatically. `main` is historical and must not be used as the base for new website work. Start feature branches from the latest `alive` and merge completed work back into `alive`. .vercelignore excludes development artifacts from the production upload.
+Static HTML, CSS and vanilla JavaScript on Vercel. No production build step. GSAP and ScrollTrigger 3.13.0 are vendored under assets/vendor. The rebuild work starts from alive on the rebuild branch. Vercel production tracks alive; main is historical. Do not deploy main over the current site.
 
 ## Pages
 
-- `index.html`
-- `case-study-investors.html`
-- `case-study-arr-growth.html`
-- `case-study-recruitment.html`
-- `case-study-parking.html`
-- `case-study-spotlight.html`
+- /: homepage
+- /case-studies: filterable index
+- /case-studies/parking-compliance-systems
+- /case-studies/spotlight-skyhigh-creatives
+- /case-studies/networked-sales-meetings
+- /case-studies/graiai
+- /case-studies/networked-fundraise
+- /case-studies/sales-recruitment
 
-## Local Preview
+Legacy case-study URLs redirect permanently to their replacement slugs through vercel.json. The 404 page is noindex.
 
-```bash
-python -m http.server 4173 --bind 127.0.0.1
-```
+## Development
 
-Open http://127.0.0.1:4173. Documentation: `DESIGN.md`, `AUDIT.md`, `AFTER-AUDIT.md`, `CHANGES.md`. Visual evidence is in `evidence/before/` and `evidence/after/`; `evidence/index.html` provides a review gallery.
+Run `python tools/serve-rebuild.py` and open http://127.0.0.1:4174. This server reproduces clean URLs and legacy redirect responses. Deployment serves the committed static files directly.
 
-The latest “Alive” section in CHANGES.md supersedes the earlier redesign notes. COPY.md contains the approved-source copy deck and hero alternatives. DESIGN.md documents components, motion and exceptions. Evidence, desktop/mobile recordings and local Lighthouse reports are linked from evidence/alive/index.html. Parking and Spotlight retain their URLs as review notices because their figures are outside this pass's authorized proof set.
+`tools/build-rebuild.py` is an authoring generator, not a production dependency. Install Python markdown 3.8.2 and beautifulsoup4 before running it. It reads the original case-studies-copy.md and generates static pages, routing, schema and sitemaps. The user-approved GraiAI guarantee correction is explicit in this generator. Brand assets are built separately by tools/build-brand.py using licensed glyph outlines and Pillow.
 
-## Checks for the alive pass
+The gitignored reference directory contains Copy Master, downloaded font sources and QA dependencies. OpenSEO skills are installed in .agents. Neither directory is deployed. DataForSEO keyword-volume access needs a key; no volume data is invented.
 
-With the preview server running, `node tools/qa-alive.mjs` checks every page at six widths and exercises booking, ROI, FAQ, video facades, reduced motion and no-JavaScript content. `node tools/capture-alive.mjs` captures storyboard frames; `node tools/record-alive.mjs` records Chrome compositor frames for short hero and mechanism clips. `node tools/check-alive-motion.mjs` verifies synchronized state and motion fallbacks. These tools use the adjacent local taste-skill CDP helper and are development-only; they are not required for deployment.
+## Verification
 
-Tracking hooks are static data-event/data-location attributes plus the revenue-inbox:event DOM CustomEvent. No analytics provider or tracking request is installed. See CHANGES.md for the event contract and known external-video limitations.
+`node tools/qa-rebuild.mjs` exercises eight pages at responsive widths, Chrome/Firefox/WebKit, static content, sliders, filters, tooltips, booking and no-JavaScript fallbacks. It uses Playwright and axe-core installed under reference/qa. Mobile sizes emulate devices; they do not establish physical iOS/Android certification.
 
+COPY.md contains the homepage copy deck. case-studies-copy.md is the supplied source. DESIGN.md is the current token/component/motion system. AUDIT.md records baseline and verification. CHANGELOG.md and CHANGES.md record current changes and open facts. Current screenshots, recordings and reports live in evidence/rebuild, excluded from deployment.
+
+Tracking uses data-event/data-location attributes and the revenue-inbox:event DOM CustomEvent. There is no analytics provider or tracking network request. Calendly/Vimeo are loaded on visitor action.

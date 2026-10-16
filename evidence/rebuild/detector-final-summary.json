@@ -1,0 +1,2684 @@
+[
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "icon-tile-stack",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "46x46px icon tile above h3 \"List built\""
+    },
+    {
+        "antipattern":  "icon-tile-stack",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "46x46px icon tile above h3 \"Email sent\""
+    },
+    {
+        "antipattern":  "icon-tile-stack",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "46x46px icon tile above h3 \"Reply handled\""
+    },
+    {
+        "antipattern":  "icon-tile-stack",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "46x46px icon tile above h3 \"Meeting booked\""
+    },
+    {
+        "antipattern":  "icon-tile-stack",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "46x46px icon tile above h3 \"You close\""
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Book your strategy call\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Done-for-you B2B outbound\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"One relevant first line\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Primary\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Opened\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Interested reply\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Discovery call\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Booked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"meetings booked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "8px functional text \"Networked � one month\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003csection\u003e \"section\": children flush against border-bottom on bottom (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"The Inbox-to-Meeting System\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Parking Compliance Systems\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Spotlight by SkyHigh Creatives\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Networked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Networked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003csection\u003e \"section\": children flush against bg on all sides (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Us: build the system\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Us: run the outbound\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"You: take the calls\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"90 days\" (below 10px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"1% of sent\" (below 10px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"18% of replies\" (below 10px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"50% of positive\" (below 10px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"80% show rate\" (below 10px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"10% close rate\" (below 10px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"scenario\": children flush against border-top/left on left (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"scenario\": children flush against border-top/left on left (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Hard markets\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"26 qualified leads / day\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"1 in ~100 emails\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"SaaS\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"159 opportunities\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"221,400 emails\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"SaaS\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"81 meetings / month\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"34 in one day\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"SaaS\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"12 meetings\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"21 days live\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Fundraising\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"$1.2M raised\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"132 investor meetings held\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Recruitment\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"475 interested\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "9px functional text \"1 in 115 emails\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "\u003csection\u003e \"section\": children flush against bg on all sides (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Monthly total\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Strategy and copy\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "text color rgb(202, 168, 246) on p \"Done-for-you B2B outbound\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "text color rgb(188, 182, 197) on p \"For B2B SaaS and service companies. Call\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "background rgb(27, 19, 42) on section \"Your offer.Our job to get it heard.From \" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "background rgb(25, 16, 41) on span \"26 qualified leads / day\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "aphoristic-cadence",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\index.html",
+        "line":  0,
+        "snippet":  "3 aphoristic constructions: \"Rolling monthly. No long contract.\""
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Book your strategy call\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Hard markets\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"26 qualified leads / day\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"1 in ~100 emails\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"SaaS\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"159 opportunities\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"221,400 emails\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"SaaS\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"81 meetings / month\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"34 in one day\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"SaaS\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"12 meetings\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"21 days live\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Fundraising\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"$1.2M raised\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"132 investor meetings held\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Recruitment\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"mini-dashboard\": children flush against border on bottom (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"475 interested\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "9px functional text \"1 in 115 emails\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "text color rgb(202, 168, 246) on p \"Case studies\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "text color rgb(188, 182, 197) on p \"Six engagements across SaaS, PR tech, pa\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "background rgb(25, 16, 41) on span \"26 qualified leads / day\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "skipped-heading",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "\u003ch1\u003e \"Real campaigns. Real clients. Every number from the sending \" followed by \u003ch3\u003e \"26 qualified leads a day from parking lot owners\" (missing h2)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Book your strategy call\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Home\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Case studies\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"GraiAI\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"GraiAI � AI research software � First 3 \" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Running\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"GraiAI\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"qualified meetings booked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"opportunities\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"emails sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"days live\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"First 21 days\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Day 1\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Day 21\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Emails sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Meetings booked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"dash-funnel\": children flush against border-top/left on left (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Client:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Sells:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Buyer:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Channel:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Status:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"From:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"To: {firstname}\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Subject: First touch\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "10px functional text \"The first email in the sequence, as sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"field-notes\": children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"definitions\": children flush against border+bg on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "text color rgb(188, 182, 197) on a \"Home\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "text color rgb(202, 168, 246) on p \"GraiAI � AI research software � First 3 \" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "skipped-heading",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "\u003ch1\u003e \"12 qualified meetings in GraiAI\u0027s first 3 weeks of outbound\" followed by \u003ch3\u003e \"Campaign volume\" (missing h2)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\graiai.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Book your strategy call\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Home\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Case studies\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Networked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Networked � Investor outreach � 90 days\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Completed\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Networked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"raised\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"investors closed\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"investor meetings held\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"days\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"90 days\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Week 1\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Week 12\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Positive replies\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Cumulative capital\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"dash-funnel\": children flush against border-top/left on left (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Angel investor\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Partner � Seed fund\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Family office\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Client:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Goal:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Audience:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Channel:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"From:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"To: {firstname}\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Subject: First touch\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "10px functional text \"The first email in the sequence, as sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"field-notes\": children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"definitions\": children flush against border+bg on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "text color rgb(188, 182, 197) on a \"Home\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "text color rgb(202, 168, 246) on p \"Networked � Investor outreach � 90 days\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "skipped-heading",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "\u003ch1\u003e \"$1.2M raised from 18 investors in 90 days, with cold email a\" followed by \u003ch3\u003e \"Campaign volume\" (missing h2)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-fundraise.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Book your strategy call\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Home\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Case studies\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Networked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Networked � Community platform SaaS � Mo\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Completed\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Networked\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"sales meetings in one month\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"meetings booked in a single day\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"new customers closed in one week\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"no-shows\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"1 month\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"10\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"11\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"12\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"13\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"14\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"15\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"16\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"17\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"34\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"18\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"19\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"20\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"21\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"22\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"23\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"24\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"25\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"26\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"27\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"28\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"29\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "8px functional text \"30\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"81 meetings total\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"dash-funnel\": children flush against border-top/left on left (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Client:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Sells:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Buyer:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Channel:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"From:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"To: {firstname}\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Subject: First touch\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "10px functional text \"The first email in the sequence, as sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"field-notes\": children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"definitions\": children flush against border+bg on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "text color rgb(188, 182, 197) on a \"Home\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "text color rgb(202, 168, 246) on p \"Networked � Community platform SaaS � Mo\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "skipped-heading",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "\u003ch1\u003e \"81 sales meetings in a single month for Networked, with a re\" followed by \u003ch3\u003e \"Meeting calendar\" (missing h2)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\networked-sales-meetings.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Book your strategy call\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Home\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Case studies\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Parking Compliance Systems\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Parking Compliance Systems � Parking com\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Running\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"qualified leads per day\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"emails sent per day\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"emails becomes a qualified lead\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"from qualified reply to a human phone ca\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Day 1\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Day 30\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Emails sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Qualified leads\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"dash-funnel\": children flush against border-top/left on left (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"GM � Parking garage\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Client:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Sells:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Buyer:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Channels:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Status:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"From:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"To: {firstname}\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Subject: First touch\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "10px functional text \"The first email in the sequence, as sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"field-notes\": children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"definitions\": children flush against border+bg on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "text color rgb(188, 182, 197) on a \"Home\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "text color rgb(202, 168, 246) on p \"Parking Compliance Systems � Parking com\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "skipped-heading",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "\u003ch1\u003e \"26 qualified leads a day from parking lot owners, a market m\" followed by \u003ch3\u003e \"Campaign volume\" (missing h2)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\parking-compliance-systems.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Book your strategy call\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Home\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Case studies\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Specialist sales recruitment firm\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Specialist sales recruitment firm � Recr\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Completed\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"interested candidates\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"days\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"emails produced an interested reply\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"reply rate\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"30 days\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Work email\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Personal email\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Day 1\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Day 30\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"dash-funnel\": children flush against border-top/left on left (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Client:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Goal:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Audience:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Channels:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"From:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"To: {firstname}\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Subject: First touch\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "10px functional text \"The first email in the sequence, as sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"field-notes\": children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"definitions\": children flush against border+bg on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "text color rgb(188, 182, 197) on a \"Home\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "text color rgb(202, 168, 246) on p \"Specialist sales recruitment firm � Recr\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "skipped-heading",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "\u003ch1\u003e \"475 senior sales professionals raised their hand in 30 days\" followed by \u003ch3\u003e \"Campaign volume\" (missing h2)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\sales-recruitment.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Book your strategy call\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Home\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Case studies\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Spotlight by SkyHigh Creatives\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Spotlight by SkyHigh Creatives � PR and \" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Completed\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"qualified opportunities\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"emails sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"opportunities per month\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"days\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"90 days\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Day 1\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Day 90\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Emails sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Opportunities\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "\u003cdiv\u003e \"dash-funnel\": children flush against border-top/left on left (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px body text"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "\u003cli\u003e: children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"CMO � Airline\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px body text"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Client:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Sells:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Buyer:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Verticals:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"Channels:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"From:\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"To: {firstname}\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "9px functional text \"Subject: First touch\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "undersized-ui-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "10px functional text \"The first email in the sequence, as sent\" (below 11px floor)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"field-notes\": children flush against border-top on top (no inset)"
+    },
+    {
+        "antipattern":  "cramped-padding",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "\u003cdetails\u003e \"definitions\": children flush against border+bg on top (no inset)"
+    },
+    {
+        "antipattern":  "tiny-text",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "11px body text"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "text color rgb(188, 182, 197) on a \"Home\" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "design-system-color",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "text color rgb(202, 168, 246) on p \"Spotlight by SkyHigh Creatives � PR and \" is outside DESIGN.md colors"
+    },
+    {
+        "antipattern":  "skipped-heading",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "\u003ch1\u003e \"159 qualified opportunities in 90 days for Spotlight, by giv\" followed by \u003ch3\u003e \"Campaign volume\" (missing h2)"
+    },
+    {
+        "antipattern":  "dark-glow",
+        "file":  "C:\\Users\\user\\Desktop\\Website Project\\the-revenue-inbox-website\\case-studies\\spotlight-skyhigh-creatives.html",
+        "line":  0,
+        "snippet":  "Zero-offset box-shadow glow (#8a40ea)"
+    }
+]

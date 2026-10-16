@@ -1,0 +1,26 @@
+[
+  {
+    "scene": "hero",
+    "width": 390,
+    "frames": 745,
+    "duration": 10.79524302482605
+  },
+  {
+    "scene": "mechanism",
+    "width": 390,
+    "frames": 23,
+    "duration": 0.2425398826599121
+  },
+  {
+    "scene": "hero",
+    "width": 1440,
+    "frames": 527,
+    "duration": 10.780368089675903
+  },
+  {
+    "scene": "mechanism",
+    "width": 1440,
+    "frames": 647,
+    "duration": 6.503512144088745
+  }
+]

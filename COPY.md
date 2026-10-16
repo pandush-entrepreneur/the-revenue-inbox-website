@@ -1,241 +1,240 @@
-# Alive copy deck
+# The Revenue Inbox rebuild copy
 
-Written before implementation. This deck is the source for the homepage and the revised case pages. Quoted testimonial words are preserved exactly. Illustrative software scenes are labeled and carry no client identities or performance claims.
+Written before markup. Case-study copy comes verbatim from case-studies-copy.md, with the explicit GraiAI correction approved in conversation: current guarantee is 20, and 12 meetings in 21 days does not mean that guarantee has already been met.
 
-## Hero options
+## Research and argument
 
-1. **20 qualified meetings. 30 days. Or we work for free.** Selected. Makes the outcome, deadline and free-work guarantee unmistakable. The launch qualifier sits directly below the headline.
-2. **Your next 20 meetings are our responsibility.** Makes ownership personal, but requires a second sentence to deliver the deadline and guarantee.
-3. **A full calendar. A clear guarantee.** A useful visual hook, but less specific than option 1.
+Audience: skeptical B2B SaaS and service founders, usually 2 to 50 people. Their contract value is $5k to $100k+. They know agencies exist. They need a reason to believe this one will produce qualified conversations without becoming another job to manage.
 
-## Argument and visual idea
+Mechanism: The Revenue Inbox owns the full handoff. A specific buyer list, dedicated sending infrastructure, offer-led copy, replies answered within 5 minutes, human follow-up where the campaign calls for it, and an agreed sales conversation. The source cases show why each handoff matters.
 
-Reader: a B2B founder or sales leader whose next deal still depends on referrals or personal prospecting. Next action: book the strategy call.
-
-On this page, The Revenue Inbox's name becomes a working inbox that turns an interested reply into a calendar appointment. The borrowed category is a software workspace: detailed, calm and inspectable. The live interaction is the founder's own contract value in a transparent break-even model.
-
-Subject inventory: Pandush; Umair; the inbox name; 20 qualified meetings; 30 days from launch; $100 per appointment; $1,500 infrastructure; 18 investors; 240 monthly meetings; 1 positive reply per 115 emails; five existing client videos; nine existing logos.
-
-The claim sequence: a defined outcome with recourse; earned campaign evidence; the cost of founder-dependent prospecting; one accountable operating system; transparent break-even; client words and campaign detail; the guarantee; exact pricing; the people responsible; a useful call; straight answers; booking.
+The single action is booking the strategy call. No manufactured urgency, bonus stacks, imaginary 10:1 value ratios or promises of revenue. Joanna Wiebe supplies the next-question structure. Schwartz supplies the offer-aware lead. Kennedy and Hormozi supply ownership and explicit terms. Bencivenga supplies claim-to-evidence discipline. Cialdini supplies honest authority, social proof and useful calculation before the ask.
 
 ## Navigation
 
-Results / The system / The numbers / Pricing
+The system / Case studies / The math / Pricing
 
-Primary action everywhere: **Book my strategy call**. Mobile sticky action: **Book my strategy call**.
+Primary action: **Book your strategy call**
 
 ## 1. Hero
 
 **20 qualified meetings. 30 days. Or we work for free.**
 
-Within 30 days of your campaigns launching. For B2B founders and sales leaders. We run your outbound. You show up and close.
+For B2B SaaS and service companies. Calls with decision-makers who fit your ideal customer profile and have agreed to hear your offer. We run the outbound. You show up and close.
 
-Book my strategy call
+Book your strategy call
 
-$100 per booked appointment + $1,500/month infrastructure. No long contracts to start.
+$100 per qualified booked appointment + $1,500/month infrastructure. Rolling monthly.
 
-**1,000+ meetings booked from cold email by Pandush in the last two years.**
+The 30-day clock starts when campaigns go live.
 
-Run by Pandush & Umair. Meet the people responsible.
+**1,000+ meetings booked from cold email in the last two years.**
 
-Illustrative UI: The Revenue Inbox / Illustrative workflow / Inbox / Interested / Calendar / Decision-maker / Example company / Re: your offer / Yes, I'd like to hear more. / Interested / ICP match / A real conversation starts here. / Thanks for reaching out. I'm the right person for this. Happy to hear the offer. / Agreed to hear your offer / On your calendar / Your next conversation / Booked / Offer introduction / You + decision-maker / Illustrative workflow. No live client data. / Pause motion / Resume motion.
+Trusted by teams including [existing real client wordmarks].
 
-Trusted by teams including [existing client logos].
+The hero graphic uses snippets from the supplied campaign emails, the requested interested-reply and Thursday-calendar sequence, and the reported 81-meeting Networked month. It has no invented person or company identity, no live badge and no zero-valued initial metric.
 
-## 2. Proof early
+## 2. Problem
 
-**The numbers have context.**
+**A full week should not leave an empty pipeline.**
 
-18 committed investors. $1.2M in pipeline. 90 days of cold email.
+You close a deal. Delivery takes over. Prospecting slips. A month later, you are back asking your network who needs what you sell.
 
-240 qualified meetings per month. 20% compounding ARR growth.
+That is too much of the pipeline resting on you. Give the outbound to a team that owns the work all the way to the calendar.
 
-1 positive reply per 115 emails. A recruitment campaign.
+## 3. The system
 
-Read the campaign / Book my strategy call
+**The handoff is where outbound breaks. We own it.**
 
-Past campaign results. Your results depend on your market, offer and sales process.
+A reply is not a meeting. A meeting with the wrong person is not a qualified opportunity. We run the work between the first email and the call you actually want to take.
 
-## 3. Problem
+List built: Buyers matched to your ICP. Data researched and verified.
 
-**Referrals leave gaps.**
+Email sent: Your offer, written for that buyer. Dedicated domains and mailboxes.
 
-When you stop prospecting to serve a client, the next month gets quieter. When you start again, you are building from scratch.
+Reply handled: Within 5 minutes. Human callbacks where the campaign calls for them.
 
-You need a way to keep meeting buyers while you run the business. Our commitment is 20 qualified meetings within 30 days of launch. The prospecting is ours to run.
+Meeting booked: A decision-maker who fits your ICP and has agreed to hear the offer.
 
-## 4. Mechanism
+You close: You run the sales conversation. We keep the next one moving.
 
-**The Inbox-to-Meeting System.**
+## 4. Proof strip
 
-One team owns the path from your ideal buyer to your calendar. Strategy, data, copy, infrastructure, email, LinkedIn and booking stay in the same hands.
+**Small markets. Busy inboxes. Real conversations.**
 
-1. **Start with your buyer.** We define your ideal customer profile (ICP) and build the data around it. A decision-maker who can buy your offer is the starting point.
-2. **Give them a reason to reply.** We write the outreach around your offer. The recruitment campaign produced 1 positive reply per 115 emails.
-3. **Build the sending setup.** We own the domains and mailboxes used for outreach. The $1,500/month infrastructure fee covers domains, mailboxes and databases.
-4. **Own the conversation.** We run email and LinkedIn outreach and handle replies. An interested reply still needs to become an agreed conversation.
-5. **Put the meeting on your calendar.** A qualified meeting is a booked call with a decision-maker inside your ICP who has agreed to hear your offer. You show up and close.
+26 qualified leads a day. Parking Compliance Systems.
 
-UI: One lead. One accountable team. / Illustrative workflow / ICP + data / ICP matched / Copy / Offer written / Infrastructure / Sending setup / Replies / Interested reply / Booked meetings / Meeting booked / Offer introduction / Decision-maker · Example company / Not booked yet / Booked / From the right decision-maker to a call on your calendar. The desktop booking status changes only after the lead reaches the calendar. Mobile shows a compact final calendar after the explanatory route.
+159 qualified opportunities in 90 days. Spotlight by SkyHigh Creatives.
 
-Deliverability card: **The sending setup has an owner.** Infrastructure is part of the job. The $1,500/month fee covers domains, mailboxes and databases. We manage the sending setup behind your outreach. Sending infrastructure / Setup review / Domains + mailboxes / Managed for your outreach / Inbox placement: Review / Domain health: Review / Warmup: Setup. Illustrative infrastructure checklist. No performance scores shown.
+81 sales meetings in one month. Networked.
 
-## 5. ROI
+$1.2M raised from 18 investors. Networked fundraising.
 
-**Start at break-even.**
+Each result links to its campaign. Every number keeps its definition and timeframe.
 
-Choose your average contract value. First see how many closed deals cover the cost. Then decide whether the model makes sense for your business.
+## 5. How it works
 
-Average contract value: $15,000 / $25,000 / $50,000. Default: $15,000.
+**Your offer. Our job to get it heard.**
 
-This is an illustration, not a forecast. We assume an 80% show rate and an 8% close rate on attended meetings. Your sales cycle determines when revenue arrives. A booked meeting is not closed revenue.
+1. **Get the buyer right.** You explain what you sell and who buys it. We own the strategy, ideal customer profile and prospect research.
+2. **Build the sending system.** We set up the domains, mailboxes, data and sending tools. You do not need to learn the infrastructure.
+3. **Run the conversations.** We write the copy, run email and LinkedIn outreach, handle replies and follow up. You stay out of the inbox work.
+4. **Show up and close.** We book qualified appointments. You take the sales calls and own the close.
 
-90-day conservative example: 60 meetings booked / 48 attend at 80% / 3 deals, rounded down at 8% / $45,000 contract revenue at the default value.
+Book your strategy call
 
-Cost: 60 appointments × $100 + 3 months × $1,500 = $10,500.
+## 6. The math
 
-**1 closed deal covers the modeled fees.** $10,500 ÷ $15,000 = 0.70 contracts. You need one whole deal. This compares contract revenue with fees, before your delivery costs and margin.
+**Start with the deal that pays for it.**
 
-Book my strategy call
+Set your contract value and close rate. See the fees, the attended meetings and the number of closed deals needed to cover them.
 
-## 6. Proof deep-dive
+Average contract value / Close rate / 90-day model
 
-**Hear what happened next.**
+**Revenue follows your sales cycle.** If you close in 60 days, revenue may arrive in month three or four. We assume an 80% show rate. These are scenarios, not promised results.
 
-Five clients. Their words. Watch the videos for the context behind each result.
+Deals needed to break even / Contract revenue before delivery costs / Conservative / Expected / Strong
 
-- **17 calls**: "17 calls booked in two weeks and 2 leads closed"
-- **21 calls**: "First month they booked me 21 calls, closed 5 deals"
-- **6 new clients**: "In 45 days, closed 6 new clients with Pandush"
-- **$380K/month**: "Scaled from 0 to $380K per month with his help"
-- **42 calls**: "Booked 42 calls and closed our first enterprise client"
+Model cost is $100 per booked appointment plus three months of $1,500 infrastructure. The funnel keeps the prior benchmark rates: 60,000 emails, 1% / 1.25% / 1.5% replies, 108 / 165 / 225 positive replies, and 54 / 91 / 135 booked meetings. Attended meetings are rounded down at 80%. Close rate is applied to attended meetings and rounded down. The break-even marker uses each scenario's actual fees.
 
-Watch client video / Open video on Vimeo
+Book your strategy call
 
-Individual client experiences. These are not promises of revenue or future results.
+## 7. Case studies
 
-**Read the work behind the result.**
+**Read the work. Check the numbers.**
 
-Investor outreach: **$1.2M in pipeline.** 18 committed investors in 90 days from cold email.
+Six engagements, from parking lot owners to academic researchers. Open a campaign to see the email, the funnel and what counted as a result.
 
-B2B outbound: **240 meetings per month.** Qualified meetings and 20% compounding ARR growth.
+Homepage cards use the exact headlines, stat chips and order in case-studies-copy.md. Index and individual pages use the supplied copy verbatim except for the approved GraiAI correction. Empty quote slots are omitted.
 
-Recruitment: **1 in 115.** One positive reply per 115 emails on a recruitment campaign.
+## 8. Video testimonials
 
-Read the campaign / Book my strategy call
+**The people behind the results. On camera.**
 
-## 7. Risk reversal
+Watch the client interviews. Hear how the work changed their sales conversations.
 
-**We put the promise in writing.**
+Caption topics, without recycling unapproved old result totals:
 
-20 qualified meetings with prospects inside your ICP within 30 days of your campaigns launching, or we work for free.
+- From booked calls to closed business.
+- The first month, in the client's words.
+- The conversations that became clients.
+- What changed as the business grew.
+- Closing a first enterprise client.
 
-A qualified meeting is a booked call with a decision-maker who matches your ICP and has agreed to hear your offer.
+Play client interview / Open video on Vimeo
 
-Book my strategy call
+Names, roles and companies are not supplied. No fabricated attribution is added. These remain a launch confirmation item.
 
-No long contracts to start.
+## 9. Pricing
 
-## 8. Offer and pricing
+**Pay for qualified appointments. Know the full cost.**
 
-**The whole job. Clear pricing.**
+**$100 per booked appointment**
 
-**$100 per booked appointment.**
+**+ $1,500/month infrastructure**
 
-**+ $1,500/month infrastructure.** Domains, mailboxes and databases.
+Domains, mailboxes, data and sending tools. Rolling monthly. No long contract.
 
-At 20 booked appointments in a month: $2,000 in appointment fees + $1,500 infrastructure = $3,500.
+**At 20 booked appointments in a month: $2,000 + $1,500 = $3,500.**
 
-Included: Outbound strategy and ICP / Data and copy / Sending infrastructure / Email and LinkedIn outreach / Reply handling and meeting booking.
+Appointments per month / Monthly total / Effective cost per appointment
 
-You own the sales conversation and the close. We own the work that gets it booked.
+Included:
+- A buyer list built around who can actually buy.
+- Copy that gives those buyers a reason to reply.
+- Sending infrastructure managed on your behalf.
+- Email and LinkedIn outreach with replies handled.
+- Qualified appointments booked onto your calendar.
 
-Book my strategy call
+Book your strategy call
 
-No long contracts to start. The 30-day guarantee starts when campaigns launch.
+## 10. Guarantee
 
-## 9. Founders
+**20 qualified meetings. 30 days. Or we work for free.**
 
-**Meet the people responsible.**
+Counted from the day campaigns go live. Qualified means a decision-maker inside your ICP who has agreed to hear your offer. We own strategy, data, copy, infrastructure, outreach and booking.
 
-Pandush and Umair own your outbound. Here is the experience they bring to it.
+Book your strategy call
 
-**Pandush. Outbound strategy and copy. Tirana, Albania.**
+Rolling monthly. No long contract.
 
-1,000+ meetings booked from cold email in the last two years. Pandush leads the strategy and messaging behind the outreach. Earlier in his copywriting career, his work generated $2.5M for clients.
+No unapproved duration or infrastructure-fee waiver is invented for the free-work remedy.
 
-**Umair. Sales perspective and meeting quality. London, UK.**
+## 11. Team
 
-$1M+ closed for B2B companies over four years in sales. Umair brings the buyer conversation into the work: who needs to be on the call and what they have agreed to discuss.
+**You know who owns the work.**
 
-Meet Pandush on LinkedIn / Meet Umair on LinkedIn
+Pandush and Umair. The people building the outreach are close to the conversations it produces.
 
-## 10. The call
+**Pandush / Strategy and copy**
 
-**A useful first conversation.**
+1,000+ meetings booked from cold email in the last two years. Pandush owns the buyer research and messaging behind the campaigns. Earlier, in direct response copywriting, his work generated $2.5M for clients.
 
-1. **Bring your offer.** Tell us what you sell and who buys it.
-2. **Look at the market.** We discuss your ICP and what it would take to reach those buyers.
-3. **Check the economics.** We walk through the $100 appointment fee, $1,500 monthly infrastructure and the 20-meeting guarantee. You decide whether to take the next step.
+**Umair / Sales and qualification**
 
-Book my strategy call
+Umair brings four years in B2B sales to the work. His focus is the person on the other side of the call: whether they fit, what they have agreed to hear and what makes the conversation worth your time.
 
-No long contracts to start.
+Pandush on LinkedIn / Umair on LinkedIn
 
-## 11. FAQ
+## 12. FAQ
 
-**The questions worth asking.**
+**Clear answers before the call.**
 
-**I've been burned by lead gen agencies before.** We own strategy, ICP, data, copy, infrastructure, email and LinkedIn outreach, and booking. The commitment is specific: 20 qualified meetings inside your ICP within 30 days of campaign launch, or we work for free. No long contracts to start.
+**What does The Revenue Inbox do?** We are a B2B appointment setting agency for SaaS and service companies. We own strategy, ideal customer profile, data, copy, sending infrastructure, email and LinkedIn outreach, reply handling and meeting booking. You show up and close.
 
-**What if the meetings are junk?** A qualified meeting means a booked call with a decision-maker who matches your ICP and has agreed to hear the offer. A name on a list or a positive reply does not meet that definition.
+**What counts as qualified?** A booked call with a decision-maker who matches your ideal customer profile and has agreed to hear the offer. A positive reply by itself is not a qualified meeting.
 
-**Will this burn my domain?** We manage the sending infrastructure, including domains and mailboxes, as part of the $1,500/month infrastructure fee. We cannot promise zero deliverability risk. We will discuss the sending setup on the strategy call.
+**I've been burned by an agency before.** Judge us by the work, the definitions and the terms. The case studies show the sending volume, replies and outcomes. The current promise is: 20 qualified meetings. 30 days. Or we work for free. The clock starts when campaigns go live.
 
-**How much of my time does this take?** We own strategy, ICP, data, copy, sending infrastructure, email and LinkedIn outreach, and meeting booking. You show up to the booked calls and close. We do not have a fixed weekly time requirement to promise you.
+**How much does it cost?** $100 per qualified booked appointment, plus $1,500 per month for domains, mailboxes, data and sending tools. At 20 booked appointments in a month: $2,000 + $1,500 = $3,500. Rolling monthly. No long contract.
 
-**What does this actually cost?** $100 per booked appointment, plus $1,500/month infrastructure for domains, mailboxes and databases. At 20 appointments in one month, that is $3,500. No long contracts to start.
+**What happens if you miss the guarantee?** 20 qualified meetings. 30 days. Or we work for free. Meetings are counted from the day campaigns go live, and they must meet the agreed ICP and qualification definition.
 
-**When does the 30-day clock start?** When your campaigns launch. The guarantee is 20 qualified meetings with prospects inside your ICP within those 30 days, or we work for free.
+**Will you use my main domain?** We set up and manage dedicated sending infrastructure. We will walk through the domains, mailboxes and sending setup on the strategy call. No agency can promise zero deliverability risk.
 
-**Are you guaranteeing sales?** We guarantee qualified meetings. You handle the sales conversations and closing. The ROI model is illustrative and uses an 80% show rate; revenue follows your own sales cycle.
+**How much of this do I have to manage?** You explain the offer and take the booked calls. We own the strategy and day-to-day outbound work. You do not need to build lists, write outreach or manage the sending infrastructure.
 
-## 12. Final CTA
+**Can this work in a small market?** Parking Compliance Systems reaches parking lot owners with a list built from physical locations. That campaign produces 26 qualified leads a day. Small markets need careful targeting and follow-up, not the same list everyone else buys.
 
-**Your next 20 meetings.**
+**Are you promising revenue?** No. We promise qualified meetings. Your close rate, contract value and sales cycle determine revenue. The calculator assumes an 80% show rate and shows its costs and conversion assumptions.
 
-20 qualified meetings inside your ICP within 30 days of campaign launch, or we work for free. We run the outbound. You show up and close.
+## 13. Final CTA
 
-Book my strategy call
+**Your next customer starts with a conversation.**
 
+Bring your offer. We will map the buyers, look at the economics and tell you where outbound fits.
 
-## Footer and metadata
+Book your strategy call
 
-Done-for-you B2B outbound. From first contact to booked meeting.
+30 minutes. A useful conversation about your market.
+
+## Footer
+
+The Revenue Inbox / Done-for-you B2B outbound. Owned from first contact to qualified call.
 
 The Revenue Inbox is a trading name of Meerion Ltd, registered in England and Wales, company number 16682944.
 
-Title: 20 Qualified Meetings in 30 Days | The Revenue Inbox
+## Copy Master quality gate
 
-Description: Done-for-you B2B outbound. 20 qualified meetings inside your ICP within 30 days of campaign launch, or we work for free. $100 per appointment + $1,500/month infrastructure.
+Each homepage section was checked against checklists/output-quality.md for specific headlines, a new-information subline, one action, proof, offer clarity, readability and unsupported claims. RMBC record per section: research is the user brief and six supplied campaigns; mechanism is the handoff owned end to end; brief is the role of the section above; copy is the final text above. All 13 sections pass these applicable checks.
 
-## Case pages
+Ethical persuasion: authority through specific operating detail, social proof through defined case outcomes and existing videos, reciprocity through the useful ROI model and strategy discussion, consistency through one action. The framework's manufactured urgency, bonus stacks and arbitrary 10:1 value requirement are not applicable to this brief.
 
-Investor: **$1.2M in pipeline.** 18 committed investors in 90 days from cold email. A warm network can only reach so far. This campaign used cold email to create investor conversations beyond it. The outcome: 18 committed investors and $1.2M in pipeline. Commitments and pipeline are not presented as cash raised. The mechanism: ICP and data, offer-led copy, sending infrastructure, replies and booking. The next step: review your own market on a strategy call.
+PANDUSH TO CONFIRM: practical free-work remedy details and testimonial identity/caption approval. Networked naming and Parking's 500+ monthly statement were approved in conversation. The guarantee is 20 throughout by explicit instruction.
 
-ARR: **240 qualified meetings. Every month.** The case records 240 qualified meetings per month with 20% compounding ARR growth. The point is a repeatable flow of buyer conversations. Revenue still depends on the client's offer, close rate and sales cycle. The mechanism and next step match the investor case.
 
-Recruitment: **One positive reply per 115 emails.** A recruitment campaign that gave the right prospects a reason to respond. A positive reply is a signal of interest. It is not a booked meeting or a closed deal. The mechanism and next step match the investor case.
+## Hero alternatives
 
-Parking and Spotlight: **This case is being reviewed.** The campaign figures on this page are not part of our current approved proof set. Read the approved investor, B2B outbound and recruitment campaigns below. Existing URLs remain usable without republishing unapproved claims.
+1. **20 qualified meetings. 30 days. Or we work for free.** Selected. The offer, timeframe and remedy are understood in one glance.
+2. **Your next 20 qualified sales conversations start here.** Leads with a concrete outcome, but needs supporting copy to explain timing and risk.
+3. **We run your outbound. You take the qualified calls.** Makes ownership clear, but the guarantee-led version answers more of the founder's first questions.
 
-## Before / after
+## Key copy changes
 
-| Before | After | Why |
+| Before | After | Reason |
 |---|---|---|
-| Outbound that books meetings. | 20 qualified meetings. 30 days. Or we work for free. | Defines the promise on arrival. |
-| $2.5M+ Revenue generated for clients | Earlier in his copywriting career, his work generated $2.5M for clients. | Gives the figure its correct scope in the bio only. |
-| $1.2M raised through cold email | $1.2M in pipeline. 18 committed investors. | Uses the authorized financial status. |
-| Run the numbers. | Start at break-even. | Leads with the founder's buying decision. |
-| All-inclusive / service-only plans | $100 per appointment + $1,500/month infrastructure | One offer across every section. |
-| Book a call | Book my strategy call | Names the action and its purpose. |
+| 240 qualified meetings every month | 81 sales meetings in one month | Replaces retired proof with the authoritative Networked case |
+| Money back | Or we work for free | Uses the user's approved remedy consistently |
+| Five clients. Their words. Watch the videos for the context behind each result. | The people behind the results. On camera. | A direct invitation without explaining the section |
+| All-inclusive / service-only plans | $100 per booked appointment + $1,500/month infrastructure | One honest offer with an explicit worked example |
+| Read the work behind the result. | Read the work. Check the numbers. | Sends skeptical readers to the source campaigns |

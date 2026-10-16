@@ -5,3 +5,7 @@ tools/
 .taste-skill/
 *.md
 *.pdf
+reference/
+.agents/
+node_modules/
+skills-lock.json

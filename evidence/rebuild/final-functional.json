@@ -1,0 +1,23 @@
+{
+  "filtered": {
+    "static": true,
+    "height": 66,
+    "rows": [
+      "Positive replyVP Marketing · Hotel group"
+    ],
+    "transform": "matrix(1, 0, 0, 1, 0, 0)"
+  },
+  "reduced": {
+    "wrappers": 0,
+    "kpis": [
+      "159",
+      "221,400",
+      "~53",
+      "Under 90"
+    ]
+  },
+  "video": {
+    "initial": 0,
+    "afterClick": 1
+  }
+}

@@ -1,4 +1,90 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/case-study-investors",
+      "destination": "/case-studies/networked-fundraise",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-study-investors.html",
+      "destination": "/case-studies/networked-fundraise",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-study-arr-growth",
+      "destination": "/case-studies/networked-sales-meetings",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-study-arr-growth.html",
+      "destination": "/case-studies/networked-sales-meetings",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-study-recruitment",
+      "destination": "/case-studies/sales-recruitment",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-study-recruitment.html",
+      "destination": "/case-studies/sales-recruitment",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-study-parking",
+      "destination": "/case-studies/parking-compliance-systems",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-study-parking.html",
+      "destination": "/case-studies/parking-compliance-systems",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-study-spotlight",
+      "destination": "/case-studies/spotlight-skyhigh-creatives",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-study-spotlight.html",
+      "destination": "/case-studies/spotlight-skyhigh-creatives",
+      "statusCode": 301
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, stale-while-revalidate=604800"
+        }
+      ]
+    },
+    {
+      "source": "/assets/vendor/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ]
 }

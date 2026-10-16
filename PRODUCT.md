@@ -5,22 +5,22 @@
 web
 
 ## Users
-B2B founders, agency owners and sales leaders evaluating a managed outbound partner. They are skeptical after poor experiences with lead generation agencies.
+Skeptical founders and revenue leaders at B2B SaaS and service companies, usually 2 to 50 employees. Their own prospecting and referrals drive pipeline.
 
 ## Product Purpose
-Build and run ICP research, data, copy, sending infrastructure, email and LinkedIn outreach, and meeting booking. The website must establish that the operators are real, senior and have earned results within five seconds.
+Own outbound strategy, ICP, data, copy, dedicated infrastructure, email and LinkedIn outreach, reply handling and qualified meeting booking. The client shows up and closes.
 
 ## Capabilities and Constraints
-Keep the static HTML/CSS/JavaScript stack and Vercel deployment. Preserve the three case study URLs, metadata, earned evidence and original logo. Every booking CTA uses https://calendly.com/therevenueinboxagency/discovery. No invented claims or identities. User explicitly delegates layout, typography, motion and architecture decisions; code-first execution follows their four-phase brief without additional design approval rounds.
+Static HTML, CSS and vanilla JavaScript, hosted on Vercel. The rebuild branch is based on alive. Production Git branch is alive; main is historical. Six source-authoritative case studies and a filterable index replace legacy pages, which permanently redirect. Calendly is the only primary action. No invented metrics, people, dates or testimonials.
 
 ## Brand Commitments
-Primary #8A40EA; existing deep #4B1D8F, tint #F4EEFE, ink #161122, muted #6B6577, white #FFFFFF. Purple is an accent. Plain, specific language. No em dashes or hype.
+Primary #8A40EA with existing purple shades, tints and neutrals only. Original stacked logo identity rebuilt in SVG. Dark-first product UI, real faces, real client marks and restrained motion. The user's explicit brief authorizes this dark purple visual world.
 
-## Evidence on Hand
-Five Vimeo testimonials, five displayed client logos, two founder portraits and LinkedIn profiles, three HTML case studies with campaign images, two PDF case studies, pricing PDF, ROI scenario model. Canva is linked but the promised source export is absent. Missing testimonial and case-study identities must remain unfilled.
+## Offer and Proof
+$100 per qualified booked appointment plus $1,500/month infrastructure. Rolling monthly. 20 qualified meetings in 30 days from campaign launch, or we work for free. Qualified means a decision-maker inside the agreed ICP who agreed to hear the offer. case-studies-copy.md supplies the six authoritative results. User approved Networked naming, Parking 500+ monthly and 20 throughout, including GraiAI. No revenue guarantee.
 
-## Open Decisions
-Guarantee/refund scope versus infrastructure fee; multiple plans in FAQ versus one pricing model; ROI break-even cost basis; attribution and permissions for anonymized proof. See CHANGES.md.
+## Open Details
+The free-work remedy's operational scope/duration and testimonial names/roles/companies have not been supplied. Preserve the approved public promise without inventing extra terms. No attribution placeholders ship.
 
-## Accessibility & Inclusion
-WCAG AA contrast, semantic HTML, keyboard controls, reduced motion, 44px touch targets and usable static content without JavaScript.
+## Accessibility and Inclusion
+Semantic initial HTML, correct source metrics without JavaScript, keyboard and touch controls, AA contrast, reduced motion and on-demand external embeds.

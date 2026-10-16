@@ -1,0 +1,224 @@
+{
+  "home": {
+    "preflight": true,
+    "console": [
+      "%c[impeccable] 67 anti-patterns found color: oklch(84% 0.19 80.46); font-weight: bold",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.eyebrow",
+      "%cundersized-ui-text%c 10px functional text \"Done-for-you B2B outbound\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.eyebrow",
+      "%ctiny-text%c 11px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.micro.hero-price",
+      "%ctiny-text%c 11px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.micro.launch-clock",
+      "%ctiny-text%c 11px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p",
+      "%ctiny-text%c 11px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 10px functional text \"One relevant first line\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 9px functional text \"Ready to send\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.compose-status",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.compose-field",
+      "%cundersized-ui-text%c 10px functional text \"Primary\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.mono",
+      "%clow-contrast%c 3.1:1 (need 4.5:1) — text #65616e on #140e21 color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 10px functional text \"meetings booked\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 9px functional text \"Networked · one month\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit a",
+      "%cundersized-ui-text%c 10px functional text \"Pause motion\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit button.motion-toggle",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.eyebrow",
+      "%cundersized-ui-text%c 10px functional text \"The Inbox-to-Meeting System\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.eyebrow",
+      "%cai-color-palette%c Purple/violet text (#caa8f6) on heading color: oklch(84% 0.19 80.46); font-weight: bold color: inherit b",
+      "%cundersized-ui-text%c 10px functional text \"Parking Compliance Systems\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%cundersized-ui-text%c 10px functional text \"Spotlight by SkyHigh Creatives\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%cundersized-ui-text%c 10px functional text \"Networked\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%cundersized-ui-text%c 10px functional text \"Networked\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.ownership",
+      "%cundersized-ui-text%c 10px functional text \"Us: build the system\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.ownership",
+      "%cundersized-ui-text%c 10px functional text \"Us: run the outbound\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.ownership",
+      "%cundersized-ui-text%c 10px functional text \"You: take the calls\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.ownership",
+      "%ctiny-text%c 11px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.mono",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 9px functional text \"90 days\" (below 10px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%cundersized-ui-text%c 9px functional text \"1% of sent\" (below 10px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%cundersized-ui-text%c 9px functional text \"18% of replies\" (below 10px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%cundersized-ui-text%c 9px functional text \"50% of positive\" (below 10px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%cundersized-ui-text%c 9px functional text \"80% show rate\" (below 10px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%cundersized-ui-text%c 9px functional text \"10% close rate\" (below 10px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.micro",
+      "%ctiny-text%c 11px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p",
+      "%ctiny-text%c 11px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p",
+      "%ctiny-text%c 11px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p",
+      "%cundersized-ui-text%c 9px functional text \"Hard markets\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"26 qualified leads / day\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"1 in ~100 emails\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"SaaS\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"159 opportunities\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"221,400 emails\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"SaaS\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"81 meetings / month\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"34 in one day\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"SaaS\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"12 meetings\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"21 days live\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"Fundraising\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"$1.2M raised\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"132 investor meetings held\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"Recruitment\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"475 interested\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"1 in 115 emails\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cdark-glow%c Zero-offset box-shadow glow (#8a40ea) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit svg",
+      "%cdark-glow%c Zero-offset box-shadow glow (#8a40ea) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit svg",
+      "%cdark-glow%c Zero-offset box-shadow glow (#8a40ea) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit svg",
+      "%cdark-glow%c Zero-offset box-shadow glow (#8a40ea) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit svg",
+      "%cdark-glow%c Zero-offset box-shadow glow (#8a40ea) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit svg",
+      "%cundersized-ui-text%c 10px functional text \"Monthly total\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 10px functional text \"Strategy and copy\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.mono",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.mono",
+      "%cnested-cards%c Card inside card color: oklch(84% 0.19 80.46); font-weight: bold color: inherit div.scene-compose",
+      "%cnested-cards%c Card inside card color: oklch(84% 0.19 80.46); font-weight: bold color: inherit div.inbox-target",
+      "%cnested-cards%c Card inside card color: oklch(84% 0.19 80.46); font-weight: bold color: inherit div.roi-visual",
+      "%cnested-cards%c Card inside card color: oklch(84% 0.19 80.46); font-weight: bold color: inherit div.mini-dashboard",
+      "%cnested-cards%c Card inside card color: oklch(84% 0.19 80.46); font-weight: bold color: inherit div.price-example",
+      "console.groupEnd"
+    ]
+  },
+  "case-studies.html": {
+    "preflight": true,
+    "console": [
+      "%c[impeccable] 19 anti-patterns found color: oklch(84% 0.19 80.46); font-weight: bold",
+      "%cundersized-ui-text%c 9px functional text \"Hard markets\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"26 qualified leads / day\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"1 in ~100 emails\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"SaaS\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"159 opportunities\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"221,400 emails\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"SaaS\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"81 meetings / month\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"34 in one day\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"SaaS\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"12 meetings\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"21 days live\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"Fundraising\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"$1.2M raised\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"132 investor meetings held\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"Recruitment\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.case-tag",
+      "%cundersized-ui-text%c 9px functional text \"475 interested\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cundersized-ui-text%c 9px functional text \"1 in 115 emails\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.stat-chip",
+      "%cnested-cards%c Card inside card color: oklch(84% 0.19 80.46); font-weight: bold color: inherit div.mini-dashboard",
+      "console.groupEnd"
+    ]
+  },
+  "case-studies/spotlight-skyhigh-creatives.html": {
+    "preflight": true,
+    "console": [
+      "%c[impeccable] 35 anti-patterns found color: oklch(84% 0.19 80.46); font-weight: bold",
+      "%cundersized-ui-text%c 10px functional text \"Home\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit a",
+      "%cundersized-ui-text%c 10px functional text \"Case studies\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit a",
+      "%cundersized-ui-text%c 10px functional text \"Spotlight by SkyHigh Creatives\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.eyebrow",
+      "%cundersized-ui-text%c 10px functional text \"Spotlight by SkyHigh Creatives · PR and \" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.eyebrow",
+      "%cundersized-ui-text%c 9px functional text \"Completed\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span.status-pill",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit dt",
+      "%cundersized-ui-text%c 9px functional text \"qualified opportunities\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit dt",
+      "%cundersized-ui-text%c 9px functional text \"emails sent\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit dt",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit dt",
+      "%cundersized-ui-text%c 9px functional text \"opportunities per month\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit dt",
+      "%cundersized-ui-text%c 9px functional text \"days\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit dt",
+      "%cundersized-ui-text%c 9px functional text \"90 days\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.micro.segment-note",
+      "%cundersized-ui-text%c 9px functional text \"Day 1\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 9px functional text \"Day 90\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 9px functional text \"Emails sent\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 9px functional text \"Opportunities\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%ctiny-text%c 11px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit small",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.micro",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 9px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%ctiny-text%c 10px body text color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.dashboard-proof",
+      "%cundersized-ui-text%c 10px functional text \"Client:\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit strong",
+      "%cundersized-ui-text%c 10px functional text \"Sells:\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit strong",
+      "%cundersized-ui-text%c 10px functional text \"Buyer:\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit strong",
+      "%cundersized-ui-text%c 10px functional text \"Verticals:\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit strong",
+      "%cundersized-ui-text%c 10px functional text \"Channels:\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit strong",
+      "%cundersized-ui-text%c 9px functional text \"From:\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 9px functional text \"To: {firstname}\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 9px functional text \"Subject: First touch\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit span",
+      "%cundersized-ui-text%c 10px functional text \"The first email in the sequence, as sent\" (below 11px floor) color: oklch(84% 0.19 80.46); font-weight: bold color: inherit p.email-caption",
+      "console.groupEnd"
+    ]
+  },
+  "feedBefore": {
+    "rows": [
+      {
+        "height": 232,
+        "text": "Positive reply\nVP Marketing · Hotel group\nPositive reply\nHead of Brand · Private aviation\nPositive reply\nCommunications Director · Luxury resort\nPositive reply\nCMO · Airline"
+      },
+      {
+        "height": 232,
+        "text": "Positive reply\nVP Marketing · Hotel group\nPositive reply\nHead of Brand · Private aviation\nPositive reply\nCommunications Director · Luxury resort\nPositive reply\nCMO · Airline"
+      }
+    ],
+    "tween": [
+      {
+        "y": "()=>-list.offsetHeight",
+        "progress": 0.008624999999999999
+      }
+    ]
+  },
+  "feedAfter": {
+    "rows": [
+      {
+        "height": 58,
+        "visible": 1
+      },
+      {
+        "height": 58,
+        "visible": 1
+      }
+    ],
+    "transform": "matrix(1, 0, 0, 1, 0, -197.2)",
+    "viewport": {
+      "x": 45,
+      "y": 550.421875,
+      "width": 300,
+      "height": 184,
+      "top": 550.421875,
+      "right": 345,
+      "bottom": 734.421875,
+      "left": 45
+    },
+    "wrapper": {
+      "x": 45,
+      "y": 353.22186279296875,
+      "width": 300,
+      "height": 116,
+      "top": 353.22186279296875,
+      "right": 345,
+      "bottom": 469.22186279296875,
+      "left": 45
+    }
+  },
+  "reduced": {
+    "wrappers": 0,
+    "clones": 0,
+    "kpis": [
+      {
+        "actual": "159",
+        "expected": "159"
+      },
+      {
+        "actual": "221,400",
+        "expected": "221,400"
+      },
+      {
+        "actual": "~53",
+        "expected": "~53"
+      },
+      {
+        "actual": "Under 90",
+        "expected": "Under 90"
+      }
+    ]
+  },
+  "errors": []
+}
