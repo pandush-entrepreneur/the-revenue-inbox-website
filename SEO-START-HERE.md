@@ -1,3 +1,5 @@
+Current update: Pandush supplied GA4 G-7B80MZJWGJ and confirmed the existing verified Search Console Domain property. Do not create another property or change DNS. See GOOGLE-SETUP.md for current implementation and the remaining account-side checklist; setup instructions below are retained for reference.
+
 # Your next steps
 
 The first six articles were explicitly approved for publication on 16 October 2026. Production uses alive. For future weekly batches, use WEEKLY-BLOG-PROMPT.md; new articles still require review before publication.

@@ -13,7 +13,22 @@
   document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu.open){menu.open=false;$('summary',menu).focus();}});
  }
  $$('details').forEach(d=>d.addEventListener('toggle',()=>{if(d.open&&d.dataset.event)track(d.dataset.event,{question:$('summary',d).textContent.trim()});}));
- const dialog=$('.booking-dialog');let trigger=null;
+ const dialog=$('.booking-dialog');let trigger=null,bookingLocation='unknown',calendlyLoader=null;
+ const loadCalendly=()=>calendlyLoader||(calendlyLoader=new Promise((resolve,reject)=>{
+  if(window.Calendly?.initInlineWidget){resolve();return;}
+  const tag=document.createElement('script');tag.src='https://assets.calendly.com/assets/external/widget.js';tag.async=true;
+  const timeout=setTimeout(()=>reject(new Error('Calendar load timed out')),8000);
+  tag.onload=()=>{clearTimeout(timeout);window.Calendly?.initInlineWidget?resolve():reject(new Error('Calendar unavailable'));};
+  tag.onerror=()=>{clearTimeout(timeout);reject(new Error('Calendar unavailable'));};document.head.append(tag);
+ }));
+ const bookedEvents=new Set();
+ window.addEventListener('message',e=>{
+  const frame=$('.booking-embed iframe');
+  if(e.origin!=='https://calendly.com'||!frame||e.source!==frame.contentWindow||e.data?.event!=='calendly.event_scheduled')return;
+  const uri=e.data.payload?.event?.uri;
+  if(typeof uri!=='string'||!uri.startsWith('https://api.calendly.com/scheduled_events/')||bookedEvents.has(uri))return;
+  bookedEvents.add(uri);track('strategy_call_booked',{location:bookingLocation});
+ });
  if(dialog){
   $('.dialog-close',dialog).addEventListener('click',()=>dialog.close());
   dialog.addEventListener('close',()=>{document.body.classList.remove('booking-open');trigger?.focus();});
@@ -22,11 +37,14 @@
  $$('a[href="https://calendly.com/therevenueinboxagency/discovery"]').forEach(a=>a.addEventListener('click',e=>{
   track('cta_click',{location:a.dataset.location||a.closest('section')?.id||'footer'});
   if(!dialog||a.closest('dialog')||!dialog.showModal||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;
-  e.preventDefault();trigger=a;
-  if(!$('iframe',dialog)){
-   const frame=document.createElement('iframe');frame.title='Choose a time for your strategy call';
-   frame.src='https://calendly.com/therevenueinboxagency/discovery?embed_domain='+encodeURIComponent(location.hostname)+'&embed_type=Inline&primary_color=8a40ea';
-   $('.booking-embed',dialog).append(frame);
+  e.preventDefault();trigger=a;bookingLocation=a.dataset.location||a.closest('section')?.id||'footer';
+  const embed=$('.booking-embed',dialog);
+  if(!embed.dataset.started){
+   embed.dataset.started='true';embed.textContent='Loading calendar…';
+   const url='https://calendly.com/therevenueinboxagency/discovery?primary_color=8a40ea';
+   loadCalendly().then(()=>{embed.replaceChildren();window.Calendly.initInlineWidget({url,parentElement:embed});const frame=$('iframe',embed);if(frame)frame.title='Choose a time for your strategy call';}).catch(()=>{
+    embed.replaceChildren();const frame=document.createElement('iframe');frame.title='Choose a time for your strategy call';frame.src=url+'&embed_domain='+encodeURIComponent(location.hostname)+'&embed_type=Inline';embed.append(frame);
+   });
   }
   document.body.classList.add('booking-open');dialog.showModal();$('.dialog-close',dialog).focus();
  }));

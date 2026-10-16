@@ -1,0 +1,21 @@
+{
+  "production": {
+    "tags": 1,
+    "widgets": 1,
+    "config": [
+      "config",
+      "G-7B80MZJWGJ"
+    ],
+    "bookingDeduplicated": true,
+    "untrustedSourceRejected": true,
+    "privatePayloadExcluded": true,
+    "errors": []
+  },
+  "preview": {
+    "tags": 0,
+    "trackingDisabled": true
+  },
+  "fallback": {
+    "directFrameAvailable": true
+  }
+}

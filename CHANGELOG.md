@@ -1,3 +1,11 @@
+## Google measurement setup, 16 October 2026
+
+Added supplied GA4 G-7B80MZJWGJ through the shared builder, production-host/noindex guards, one automatic page view and an allowlisted bridge for existing CTA, video, FAQ, calculator and content events. No invitee payload is forwarded. Added on-demand official Calendly embed support and a source/origin-validated, deduplicated strategy_call_booked signal, separate from cta_click. Direct iframe fallback and external bookings do not have verified completion tracking.
+
+Confirmed the exact supplied Search Console TXT record exists publicly. No DNS or Google account setting changed. GOOGLE-SETUP.md records the owner-reported verified property, public sitemap checks, measurement plan and the account-side steps still requiring authenticated Google access. Windsor.ai was offered as an optional reporting connection, not reported as connected. No sitemap submission, private index-status audit, GA4 key-event setting or Search Console association is claimed without account evidence.
+
+Tests cover one tag/config, preview exclusion, event mapping, public-field allowlisting, private-payload exclusion, scheduled-event deduplication, rejection of a message from the wrong window and calendar fallback. The genuine widget renders at mobile size; no test appointment is created. Publication checks still pass.
+
 ## Blog launch and homepage finish, 16 October 2026
 
 Live publication verified at https://www.therevenueinbox.com/blog. All six articles return HTTP 200 with index,follow and canonical URLs. RSS has six items and the sitemap has sixteen URLs. Live desktop/mobile browser checks confirm the corrected gap, removed tick and no overflow. Production code commit: 4943b05; its GitHub publication workflow passed.

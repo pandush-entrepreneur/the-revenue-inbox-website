@@ -1,0 +1,34 @@
+import {chromium} from '../reference/qa/node_modules/playwright/index.mjs';
+import {findChrome} from '../../taste-skill/skills/taste-skill/scripts/lib/cdp.mjs';
+import fs from 'node:fs';
+import path from 'node:path';
+import assert from 'node:assert/strict';
+const root=process.cwd(),out='evidence/google-setup';fs.mkdirSync(out,{recursive:true});
+const browser=await chromium.launch({headless:true,executablePath:findChrome()});
+const widget=`window.Calendly={initInlineWidget({parentElement}){const f=document.createElement('iframe');f.src='https://calendly.com/mock';parentElement.append(f)}};`;
+const report={};
+try{
+ const page=await browser.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'});let tags=0,widgets=0;const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.route('https://www.therevenueinbox.com/**',async route=>{let p=new URL(route.request().url()).pathname;if(p==='/')p='/index.html';else if(!path.extname(p))p+='.html';const file=path.join(root,p);assert(file.startsWith(root));const type={'.js':'application/javascript','.css':'text/css','.html':'text/html','.svg':'image/svg+xml','.woff2':'font/woff2','.webp':'image/webp'}[path.extname(p)]||'application/octet-stream';await route.fulfill({status:200,body:fs.readFileSync(file),contentType:type});});
+ await page.route('https://www.googletagmanager.com/**',route=>{tags++;return route.fulfill({contentType:'application/javascript',body:'window.googleTagLoaded=true;'});});
+ await page.route('https://assets.calendly.com/**',route=>{widgets++;return route.fulfill({contentType:'application/javascript',body:widget});});
+ await page.route('https://calendly.com/**',route=>route.fulfill({contentType:'text/html',body:'<!doctype html><html><body>Calendar test frame</body></html>'}));
+ await page.goto('https://www.therevenueinbox.com/?email=private@example.com&utm_source=qa');await page.waitForFunction(()=>window.googleTagLoaded);
+ assert.equal(widgets,0);assert.equal(tags,1);
+ const config=await page.evaluate(()=>Array.from(dataLayer.find(x=>x[0]==='config')));assert.equal(config[1],'G-7B80MZJWGJ');assert(!config[2].page_location.includes('email='));assert(config[2].page_location.includes('utm_source=qa'));
+ await page.locator('.hero-copy a[data-event="cta_click"]').click();await page.waitForSelector('.booking-embed iframe');assert.equal(widgets,1);
+ const handle=await page.locator('.booking-embed iframe').elementHandle();const frame=await handle.contentFrame();await frame.waitForURL('https://calendly.com/mock');assert(frame);
+ const message={event:'calendly.event_scheduled',payload:{event:{uri:'https://api.calendly.com/scheduled_events/test-only'},invitee:{email:'private@example.com'}}};
+ await page.evaluate(message=>window.dispatchEvent(new MessageEvent('message',{origin:'https://calendly.com',source:window,data:message})),message);
+ assert.equal(await page.evaluate(()=>dataLayer.filter(x=>x[1]==='strategy_call_booked').length),0);
+ await frame.evaluate(message=>{parent.postMessage(message,'https://www.therevenueinbox.com');parent.postMessage(message,'https://www.therevenueinbox.com')},message);
+ await page.waitForFunction(()=>dataLayer.some(x=>x[1]==='strategy_call_booked'));
+ const booked=await page.evaluate(()=>dataLayer.filter(x=>x[1]==='strategy_call_booked').map(x=>Array.from(x)));assert.equal(booked.length,1);assert(!JSON.stringify(booked).includes('private@example.com'));assert(!JSON.stringify(booked).includes('test-only'));
+ await page.keyboard.press('Escape');await page.locator('.hero-copy a[data-event="cta_click"]').click();assert.equal(widgets,1);await page.keyboard.press('Escape');
+ await page.evaluate(()=>document.dispatchEvent(new CustomEvent('revenue-inbox:event',{detail:{event:'roi_toggle',contract_value:25000,close_rate:10,email:'private@example.com'}})));
+ await page.waitForFunction(()=>dataLayer.some(x=>x[1]==='roi_toggle'));
+ assert.equal(errors.length,0);report.production={tags,widgets,config:config.slice(0,2),bookingDeduplicated:true,untrustedSourceRejected:true,privatePayloadExcluded:true,errors};
+ const local=await browser.newPage();let localTags=0;await local.route('https://www.googletagmanager.com/**',route=>{localTags++;return route.abort()});await local.goto('http://127.0.0.1:4180/blog');assert.equal(await local.evaluate(()=>window.revenueInboxAnalyticsReady===true),false);assert.equal(localTags,0);report.preview={tags:localTags,trackingDisabled:true};
+ const denied=await browser.newPage();let fallbackWidgets=0;await denied.route('https://assets.calendly.com/**',r=>{fallbackWidgets++;return r.abort()});await denied.goto('http://127.0.0.1:4180/');await denied.locator('.hero-copy a[data-event="cta_click"]').click();await denied.waitForSelector('.booking-embed iframe');assert.equal(fallbackWidgets,1);report.fallback={directFrameAvailable:true};
+ fs.writeFileSync(out+'/qa.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));
+}finally{await browser.close()}

@@ -26,4 +26,4 @@ The free-work remedy's operational scope/duration and testimonial names/roles/co
 Semantic initial HTML, correct source metrics without JavaScript, keyboard and touch controls, AA contrast, reduced motion and on-demand external embeds.
 
 ## Blog workflow
-US-first English buyer content. Six founder-approved articles are live at /blog, using the static authoring pipeline. Founder approval of the exact article is required before publication. Search Console, Analytics and keyword-data connections remain unset. Use SEO-START-HERE.md and EDITORIAL.md.
+US-first English buyer content. Six founder-approved articles are live at /blog, using the static authoring pipeline. Founder approval of the exact article is required before publication. GA4 G-7B80MZJWGJ is configured in the site. The user reports an existing verified Search Console Domain property; its supplied DNS token was checked publicly. Private Google account access, account-side linking and keyword-data connections remain pending. See GOOGLE-SETUP.md. Use SEO-START-HERE.md and EDITORIAL.md.
