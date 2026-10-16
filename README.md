@@ -19,7 +19,7 @@ Legacy case-study URLs redirect permanently to their replacement slugs through v
 
 Run `python tools/serve-rebuild.py` and open http://127.0.0.1:4174. This server reproduces extensionless URLs and legacy redirect responses. Deployment serves the committed static files directly.
 
-`tools/build-rebuild.py` is an authoring generator, not a production dependency. Install Python markdown 3.8.2 and beautifulsoup4 before running it. It reads the original case-studies-copy.md and generates static pages, routing, schema and sitemaps. The user-approved GraiAI guarantee correction is explicit in this generator. Brand assets are built separately by tools/build-brand.py using licensed glyph outlines and Pillow.
+`tools/build-rebuild.py` is an authoring generator, not a production dependency. Install Python markdown 3.8.2 and beautifulsoup4 before running it. It reads the original case-studies-copy.md and generates static pages, routing, schema and sitemaps. The user-approved GraiAI guarantee correction is explicit in this generator. Brand assets are built separately by tools/build-brand.py using Pillow and tools/build-wordmark.cjs. The wordmark traces the original artwork. Install its dev-only tracer with `npm install --prefix reference/qa potrace@2.1.8`.
 
 The gitignored reference directory contains Copy Master, downloaded font sources and QA dependencies. OpenSEO skills are installed in .agents. Neither directory is deployed. DataForSEO keyword-volume access needs a key; no volume data is invented.
 

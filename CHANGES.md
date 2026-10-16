@@ -1,3 +1,11 @@
+## Background-free original lettering and proof headline
+
+Replaced the gradient logo tile with a clean SVG wordmark traced directly from the original artwork. Letter shapes, spacing and stacked composition now follow the source rather than a guessed typeface. Header, footer, favicon and social cards use the matching lettering. New asset URLs refresh the browser's cached logo.
+
+Replaced the proof-strip headline with "The results. And the work behind them."
+
+Checked eight Chrome widths plus desktop/mobile Firefox and WebKit: no overflow, missing images or CTA placement issues. Reviewed desktop/mobile captures of the wordmark and new headline.
+
 ## Original logo and trust strip corrections
 
 Restored the exact supplied logo artwork instead of the redrawn wordmark and IN favicon. Optimized lossless WebP for the site; original PNG retained. CSS rounds the corners and crops unused gradient margins for legibility. Touch icons, favicons and OG badges now use the actual logo too.

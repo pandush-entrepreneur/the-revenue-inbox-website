@@ -60,7 +60,7 @@ You close: You run the sales conversation. We keep the next one moving.
 
 ## 4. Proof strip
 
-**Small markets. Busy inboxes. Real conversations.**
+**The results. And the work behind them.**
 
 26 qualified leads a day. Parking Compliance Systems.
 
