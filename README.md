@@ -17,7 +17,7 @@ Legacy case-study URLs redirect permanently to their replacement slugs through v
 
 ## Development
 
-Run `python tools/serve-rebuild.py` and open http://127.0.0.1:4174. This server reproduces clean URLs and legacy redirect responses. Deployment serves the committed static files directly.
+Run `python tools/serve-rebuild.py` and open http://127.0.0.1:4174. This server reproduces extensionless URLs and legacy redirect responses. Deployment serves the committed static files directly.
 
 `tools/build-rebuild.py` is an authoring generator, not a production dependency. Install Python markdown 3.8.2 and beautifulsoup4 before running it. It reads the original case-studies-copy.md and generates static pages, routing, schema and sitemaps. The user-approved GraiAI guarantee correction is explicit in this generator. Brand assets are built separately by tools/build-brand.py using licensed glyph outlines and Pillow.
 

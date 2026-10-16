@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "cleanUrls": true,
+  "cleanUrls": false,
   "trailingSlash": false,
   "redirects": [
     {
@@ -52,6 +52,55 @@
       "source": "/case-study-spotlight.html",
       "destination": "/case-studies/spotlight-skyhigh-creatives",
       "statusCode": 301
+    },
+    {
+      "source": "/case-studies/parking-compliance-systems.html",
+      "destination": "/case-studies/parking-compliance-systems",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-studies/spotlight-skyhigh-creatives.html",
+      "destination": "/case-studies/spotlight-skyhigh-creatives",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-studies/networked-sales-meetings.html",
+      "destination": "/case-studies/networked-sales-meetings",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-studies/graiai.html",
+      "destination": "/case-studies/graiai",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-studies/networked-fundraise.html",
+      "destination": "/case-studies/networked-fundraise",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-studies/sales-recruitment.html",
+      "destination": "/case-studies/sales-recruitment",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-studies.html",
+      "destination": "/case-studies",
+      "statusCode": 301
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/case-studies",
+      "destination": "/case-studies.html"
+    },
+    {
+      "source": "/case-studies/:slug",
+      "destination": "/case-studies/:slug.html"
+    },
+    {
+      "source": "/404",
+      "destination": "/404.html"
     }
   ],
   "headers": [

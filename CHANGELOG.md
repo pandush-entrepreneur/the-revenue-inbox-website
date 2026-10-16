@@ -24,3 +24,5 @@ No analytics provider was present. data-event/data-location and the revenue-inbo
 ## Publishing
 
 Work is preserved on rebuild and published through the production branch alive. main remains untouched. Vercel must continue tracking alive so an obsolete main deployment cannot replace the site again.
+
+Production verification caught Vercel cleanUrls emitting a preliminary 308 before custom old-URL redirects. Replaced cleanUrls with explicit extensionless rewrites and canonical .html redirects, so old URLs return a direct 301.

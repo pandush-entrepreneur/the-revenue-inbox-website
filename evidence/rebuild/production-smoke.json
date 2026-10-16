@@ -1,0 +1,60 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "location": null,
+    "bytes": 58196,
+    "title": "B2B Appointment Setting Agency | The Revenue Inbox",
+    "newHero": true,
+    "guarantee": "20 qualified meetings. 30 days. Or we work for free.",
+    "cases": 6
+  },
+  {
+    "path": "/case-studies",
+    "status": 200,
+    "location": null,
+    "bytes": 25703
+  },
+  {
+    "path": "/case-studies/graiai",
+    "status": 200,
+    "location": null,
+    "bytes": 19191
+  },
+  {
+    "path": "/case-study-investors.html",
+    "status": 308,
+    "location": "/case-study-investors",
+    "bytes": 15
+  },
+  {
+    "path": "/case-study-arr-growth.html",
+    "status": 308,
+    "location": "/case-study-arr-growth",
+    "bytes": 15
+  },
+  {
+    "path": "/case-study-recruitment.html",
+    "status": 308,
+    "location": "/case-study-recruitment",
+    "bytes": 15
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "location": null,
+    "bytes": 749
+  },
+  {
+    "path": "/robots.txt",
+    "status": 200,
+    "location": null,
+    "bytes": 137
+  },
+  {
+    "path": "/assets/og/home.png",
+    "status": 200,
+    "location": null,
+    "bytes": 54526
+  }
+]
