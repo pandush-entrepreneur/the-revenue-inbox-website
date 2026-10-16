@@ -1,0 +1,88 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "location": null,
+    "h1": "20 qualified meetings. 30 days. Or we work for free.",
+    "ogStatus": 200
+  },
+  {
+    "path": "/case-studies",
+    "status": 200,
+    "location": null,
+    "h1": "Real campaigns. Real clients. Every number from the sending account.",
+    "ogStatus": 200
+  },
+  {
+    "path": "/case-studies/parking-compliance-systems",
+    "status": 200,
+    "location": null,
+    "h1": "26 qualified leads a day from parking lot owners, a market most agencies won't touch",
+    "ogStatus": 200
+  },
+  {
+    "path": "/case-studies/spotlight-skyhigh-creatives",
+    "status": 200,
+    "location": null,
+    "h1": "159 qualified opportunities in 90 days for Spotlight, by giving the work away first",
+    "ogStatus": 200
+  },
+  {
+    "path": "/case-studies/networked-sales-meetings",
+    "status": 200,
+    "location": null,
+    "h1": "81 sales meetings in a single month for Networked, with a record 34 in one day",
+    "ogStatus": 200
+  },
+  {
+    "path": "/case-studies/graiai",
+    "status": 200,
+    "location": null,
+    "h1": "12 qualified meetings in GraiAI's first 3 weeks of outbound",
+    "ogStatus": 200
+  },
+  {
+    "path": "/case-studies/networked-fundraise",
+    "status": 200,
+    "location": null,
+    "h1": "$1.2M raised from 18 investors in 90 days, with cold email as the only channel",
+    "ogStatus": 200
+  },
+  {
+    "path": "/case-studies/sales-recruitment",
+    "status": 200,
+    "location": null,
+    "h1": "475 senior sales professionals raised their hand in 30 days",
+    "ogStatus": 200
+  },
+  {
+    "path": "/case-study-investors.html",
+    "status": 301,
+    "location": "/case-studies/networked-fundraise"
+  },
+  {
+    "path": "/case-study-arr-growth.html",
+    "status": 301,
+    "location": "/case-studies/networked-sales-meetings"
+  },
+  {
+    "path": "/case-study-recruitment.html",
+    "status": 301,
+    "location": "/case-studies/sales-recruitment"
+  },
+  {
+    "path": "/case-study-parking.html",
+    "status": 301,
+    "location": "/case-studies/parking-compliance-systems"
+  },
+  {
+    "path": "/case-study-spotlight.html",
+    "status": 301,
+    "location": "/case-studies/spotlight-skyhigh-creatives"
+  },
+  {
+    "path": "/this-page-does-not-exist",
+    "status": 404,
+    "location": null
+  }
+]

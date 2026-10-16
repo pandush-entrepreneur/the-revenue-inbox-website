@@ -26,3 +26,5 @@ No analytics provider was present. data-event/data-location and the revenue-inbo
 Work is preserved on rebuild and published through the production branch alive. main remains untouched. Vercel must continue tracking alive so an obsolete main deployment cannot replace the site again.
 
 Production verification caught Vercel cleanUrls emitting a preliminary 308 before custom old-URL redirects. Replaced cleanUrls with explicit extensionless rewrites and canonical .html redirects, so old URLs return a direct 301.
+
+Live verification: all eight pages and their absolute OG images return200; five old case URLs return direct301 and unknown routes404. Production mobile Lighthouse scored97/100/100/100, LCP1.6s, CLS0, TBT30ms. A non-scoring video accessible-name order warning was corrected to match its visible caption order.

@@ -1,3 +1,5 @@
+Production follow-up: direct301 routing verified; live mobile Lighthouse97/100/100/100. See CHANGELOG.md and evidence/rebuild/production-final.json.
+
 # Rebuild, 16 October 2026
 
 Rebuilt the homepage as a dark, native outbound workspace. Rewrote the copy, retained the brand palette and stacked logo identity, and used the approved promise: 20 qualified meetings in 30 days from campaign launch, or we work for free. The footer pricing microcopy remains removed.
