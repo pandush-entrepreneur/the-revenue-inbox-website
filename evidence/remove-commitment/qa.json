@@ -1,0 +1,50 @@
+[
+  {
+    "width": 360,
+    "removed": true,
+    "pricingNext": "team",
+    "overflow": false,
+    "brokenAnchors": [],
+    "gap": 89
+  },
+  {
+    "width": 390,
+    "removed": true,
+    "pricingNext": "team",
+    "overflow": false,
+    "brokenAnchors": [],
+    "gap": 89
+  },
+  {
+    "width": 768,
+    "removed": true,
+    "pricingNext": "team",
+    "overflow": false,
+    "brokenAnchors": [],
+    "gap": 129
+  },
+  {
+    "width": 1024,
+    "removed": true,
+    "pricingNext": "team",
+    "overflow": false,
+    "brokenAnchors": [],
+    "gap": 129
+  },
+  {
+    "width": 1440,
+    "removed": true,
+    "pricingNext": "team",
+    "overflow": false,
+    "brokenAnchors": [],
+    "gap": 129
+  },
+  {
+    "width": 1920,
+    "removed": true,
+    "pricingNext": "team",
+    "overflow": false,
+    "brokenAnchors": [],
+    "gap": 129
+  }
+]

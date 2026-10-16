@@ -1,3 +1,7 @@
+## Remove standalone commitment section, 16 October 2026
+
+Removed the homepage Our commitment block, its section markup and unused layout styles. Pricing now links to the FAQs and flows directly into the founders section with balanced desktop/mobile spacing. The approved offer and guarantee elsewhere remain intact. Regenerated the full site so the shared builder and live HTML agree.
+
 ## Google measurement setup, 16 October 2026
 
 Added supplied GA4 G-7B80MZJWGJ through the shared builder, production-host/noindex guards, one automatic page view and an allowlisted bridge for existing CTA, video, FAQ, calculator and content events. No invitee payload is forwarded. Added on-demand official Calendly embed support and a source/origin-validated, deduplicated strategy_call_booked signal, separate from cta_click. Direct iframe fallback and external bookings do not have verified completion tracking.

@@ -85,4 +85,4 @@ Template examples use native blockquotes with progressive Copy template buttons,
 
 The article calculator uses the same $100 appointment fee and $1,500 infrastructure cost; values are complete in HTML and controls are enabled only after enhancement. Author credit and real publication/update dates come from reviewed source metadata. Review pages never enter the public feed or sitemap. Desktop navigation centers each link in its target area so Blog has consistent optical spacing; mobile links share the same inset.
 
-The guarantee uses a text-led layout without a tick badge. Its bottom padding is 48px desktop and 32px mobile; the following team section uses 64px/48px top padding, for a deliberate shared transition. The response-clock label is two complete lines, Reply and handling, without character wrapping.
+The homepage has no standalone commitment section. Pricing flows directly into the founders: 64px bottom and top padding on desktop, 40px/48px on mobile. Its supporting link goes to the FAQs. The response-clock label remains two complete words on two lines.
