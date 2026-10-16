@@ -94,6 +94,36 @@
       "statusCode": 301
     },
     {
+      "source": "/blog/b2b-cold-email-templates.html",
+      "destination": "/blog/b2b-cold-email-templates",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/cold-email-deliverability-checklist.html",
+      "destination": "/blog/cold-email-deliverability-checklist",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/clay-vs-instantly-vs-smartlead.html",
+      "destination": "/blog/clay-vs-instantly-vs-smartlead",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/cold-email-metrics.html",
+      "destination": "/blog/cold-email-metrics",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/pay-per-appointment-vs-retainer.html",
+      "destination": "/blog/pay-per-appointment-vs-retainer",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/cold-email-agency-pricing.html",
+      "destination": "/blog/cold-email-agency-pricing",
+      "statusCode": 301
+    },
+    {
       "source": "/authors/pandush.html",
       "destination": "/authors/pandush",
       "statusCode": 301

@@ -1,3 +1,11 @@
+## Blog launch and homepage finish, 16 October 2026
+
+Pandush explicitly approved all six reviewed articles and requested publication. Recorded the actual approval reference and exact source hashes; generated public articles, founder-reviewed bylines, RSS entries, canonicals, social cards and sitemap entries. Blog index and published articles are indexable. Search Console, Analytics and keyword-data connections remain unset; indexable does not mean Google has indexed or ranked them.
+
+Removed the guarantee tick badge. Reduced the guarantee-to-team reading gap to 112px desktop/tablet and 80px mobile, verified at 360, 390, 768, 1024, 1440 and 1920px. Reply handling now has intentional two-line layout without breaking the final g. Updated 90-layout blog checks pass, as do approval, metadata, cover and link checks. Screenshots and measurements are in evidence/blog-launch.
+
+Added WEEKLY-BLOG-PROMPT.md: a reusable two-article research/draft/QA workflow with varied formats, substantial useful content, factual sourcing, original graphics, contextual CTAs and review before future publication. No automatic writing or publishing scheduler was installed.
+
 ## Blog editorial expansion, 16 October 2026
 
 Reframed /blog as The outbound blog, removed its founders promotion and closing pitch, and corrected optical spacing around Blog in the header. Six original topic-specific SVG covers now replace the receipt/02 treatment on cards and article pages. The index has a featured article, a two-column reading grid and working search.

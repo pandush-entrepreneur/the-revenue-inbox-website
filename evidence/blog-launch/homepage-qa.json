@@ -1,0 +1,50 @@
+[
+  {
+    "width": 360,
+    "gap": 80,
+    "tickRemoved": true,
+    "handlingLines": 1,
+    "handlingText": "handling",
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "gap": 80,
+    "tickRemoved": true,
+    "handlingLines": 1,
+    "handlingText": "handling",
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "gap": 112,
+    "tickRemoved": true,
+    "handlingLines": 1,
+    "handlingText": "handling",
+    "overflow": false
+  },
+  {
+    "width": 1024,
+    "gap": 112,
+    "tickRemoved": true,
+    "handlingLines": 1,
+    "handlingText": "handling",
+    "overflow": false
+  },
+  {
+    "width": 1440,
+    "gap": 112,
+    "tickRemoved": true,
+    "handlingLines": 1,
+    "handlingText": "handling",
+    "overflow": false
+  },
+  {
+    "width": 1920,
+    "gap": 112,
+    "tickRemoved": true,
+    "handlingLines": 1,
+    "handlingText": "handling",
+    "overflow": false
+  }
+]

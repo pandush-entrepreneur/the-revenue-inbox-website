@@ -44,8 +44,8 @@ Search is shown once at least five guides exist, an editorial UI choice rather t
 - Choose the keyword data connection and research budget.
 - Configure analytics after the actual measurement ID is provided.
 - Connect and verify completed-booking signals separately from CTA clicks.
-- Review the six article drafts and any unresolved operational terms.
-- Approve the blog preview and article versions before the first production release.
+- The initial six articles were explicitly approved on 16 October 2026; approval records are in content/reviews. Do not invent unresolved operational guarantee terms.
+- Future articles and changed versions need actual review before publication. Use WEEKLY-BLOG-PROMPT.md for the recurring workflow.
 
 ## Useful-content direction
 

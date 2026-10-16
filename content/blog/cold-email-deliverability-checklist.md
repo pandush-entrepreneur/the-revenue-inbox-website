@@ -6,10 +6,10 @@
   "description": "Check authentication, sending patterns, recipient fit and reply handling before a cold email launch. Includes a practical evidence log for each check.",
   "category": "Deliverability",
   "keyword": "cold email deliverability checklist",
-  "status": "review",
-  "author": "team",
+  "status": "published",
+  "author": "pandush",
   "created": "2026-10-16",
-  "published": null,
+  "published": "2026-10-16",
   "updated": null,
   "visual": "deliverability",
   "editorial_order": 5,
@@ -17,8 +17,14 @@
   "image_caption": "Authentication is one check. It does not guarantee inbox placement.",
   "summary": "A practical preflight checklist, with the evidence to save for each check. No magic daily send limit or promised inbox placement.",
   "related_case": "networked-sales-meetings",
-  "related_posts": ["b2b-cold-email-templates", "clay-vs-instantly-vs-smartlead"],
-  "sources": ["https://support.google.com/mail/answer/81126?hl=en", "https://www.therevenueinbox.com/case-studies/networked-sales-meetings"],
+  "related_posts": [
+    "b2b-cold-email-templates",
+    "clay-vs-instantly-vs-smartlead"
+  ],
+  "sources": [
+    "https://support.google.com/mail/answer/81126?hl=en",
+    "https://www.therevenueinbox.com/case-studies/networked-sales-meetings"
+  ],
   "source_note": "Google's linked guidance concerns personal Gmail recipients. It is not a universal specification for every mailbox provider. The checklist and evidence log are our suggested working method, not a certification or an inbox-placement guarantee. Checked on 16 October 2026.",
   "cta_title": "Make the sending setup part of the campaign plan.",
   "cta_text": "We own infrastructure alongside targeting, copy and booking. Bring your current setup and the market you want to reach."

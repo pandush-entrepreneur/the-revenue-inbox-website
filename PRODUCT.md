@@ -26,4 +26,4 @@ The free-work remedy's operational scope/duration and testimonial names/roles/co
 Semantic initial HTML, correct source metrics without JavaScript, keyboard and touch controls, AA contrast, reduced motion and on-demand external embeds.
 
 ## Blog workflow
-US-first English buyer content. The blog branch contains six unpublished review drafts and a static authoring pipeline. Founder approval of the exact article is required before publication. Search Console, Analytics and keyword-data connections remain unset. Use SEO-START-HERE.md and EDITORIAL.md.
+US-first English buyer content. Six founder-approved articles are prepared for the initial production launch, using the static authoring pipeline. Founder approval of the exact article is required before publication. Search Console, Analytics and keyword-data connections remain unset. Use SEO-START-HERE.md and EDITORIAL.md.

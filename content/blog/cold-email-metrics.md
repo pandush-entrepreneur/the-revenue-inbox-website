@@ -6,10 +6,10 @@
   "description": "Track replies, positive replies, booked meetings and held calls without mixing denominators. Includes formulas and a real campaign worked example.",
   "category": "Measurement",
   "keyword": "cold email metrics",
-  "status": "review",
-  "author": "team",
+  "status": "published",
+  "author": "pandush",
   "created": "2026-10-16",
-  "published": null,
+  "published": "2026-10-16",
   "updated": null,
   "visual": "metrics",
   "editorial_order": 3,
@@ -17,8 +17,14 @@
   "image_caption": "Networked fundraising campaign: 188 booked, 132 held. One engagement, not a universal benchmark.",
   "summary": "Replies, interested replies and held meetings tell different stories. Use a simple scorecard that preserves the definition behind each number.",
   "related_case": "networked-fundraise",
-  "related_posts": ["b2b-cold-email-templates", "pay-per-appointment-vs-retainer"],
-  "sources": ["https://www.therevenueinbox.com/case-studies/networked-fundraise", "https://www.therevenueinbox.com/case-studies/sales-recruitment"],
+  "related_posts": [
+    "b2b-cold-email-templates",
+    "pay-per-appointment-vs-retainer"
+  ],
+  "sources": [
+    "https://www.therevenueinbox.com/case-studies/networked-fundraise",
+    "https://www.therevenueinbox.com/case-studies/sales-recruitment"
+  ],
   "source_note": "The 188 booked and 132 held counts come from the Networked fundraising case. The 70.2% figure is calculated here as 132 divided by 188. The recruitment campaign's one positive reply per 115 emails uses emails, not unique prospects, as its denominator. Neither case is an industry benchmark.",
   "cta_title": "Define a qualified meeting before the first send.",
   "cta_text": "Bring your target customer and sales process. We can discuss the qualification rules and the campaign needed to reach them."

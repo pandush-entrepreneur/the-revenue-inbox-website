@@ -84,3 +84,5 @@ Article measure is 760px, body 18px desktop/16px mobile, H2 32px/27px. A 240px d
 Template examples use native blockquotes with progressive Copy template buttons, 44px controls and copy confirmation. Text remains selectable without JavaScript. One contextual next-step block follows useful material; it uses existing rules, type and CTA tokens and does not gate the answer. Related articles and a relevant campaign remain available.
 
 The article calculator uses the same $100 appointment fee and $1,500 infrastructure cost; values are complete in HTML and controls are enabled only after enhancement. Author credit and real publication/update dates come from reviewed source metadata. Review pages never enter the public feed or sitemap. Desktop navigation centers each link in its target area so Blog has consistent optical spacing; mobile links share the same inset.
+
+The guarantee uses a text-led layout without a tick badge. Its bottom padding is 48px desktop and 32px mobile; the following team section uses 64px/48px top padding, for a deliberate shared transition. The response-clock label is two complete lines, Reply and handling, without character wrapping.

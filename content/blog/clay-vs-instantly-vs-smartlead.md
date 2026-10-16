@@ -6,10 +6,10 @@
   "description": "Compare Clay, Instantly and Smartlead by workflow: research, enrichment, campaign sending and reply handling. Includes a practical trial scorecard.",
   "category": "Tools",
   "keyword": "Clay vs Instantly vs Smartlead",
-  "status": "review",
-  "author": "team",
+  "status": "published",
+  "author": "pandush",
   "created": "2026-10-16",
-  "published": null,
+  "published": "2026-10-16",
   "updated": null,
   "visual": "tools",
   "editorial_order": 4,
@@ -17,8 +17,17 @@
   "image_caption": "A possible workflow, not a ranking: enrich the account, then choose how to run outreach.",
   "summary": "Research, enrichment, sending and replies are different jobs. Choose the workflow before buying another subscription.",
   "related_case": "networked-sales-meetings",
-  "related_posts": ["cold-email-deliverability-checklist", "cold-email-agency-pricing"],
-  "sources": ["https://www.clay.com/", "https://instantly.ai/", "https://www.smartlead.ai/", "https://university.clay.com/docs/instantly-integration-overview", "https://university.clay.com/docs/smartlead-integration-overview"],
+  "related_posts": [
+    "cold-email-deliverability-checklist",
+    "cold-email-agency-pricing"
+  ],
+  "sources": [
+    "https://www.clay.com/",
+    "https://instantly.ai/",
+    "https://www.smartlead.ai/",
+    "https://university.clay.com/docs/instantly-integration-overview",
+    "https://university.clay.com/docs/smartlead-integration-overview"
+  ],
   "source_note": "This is a documentation-based workflow comparison, not a hands-on performance test or a universal ranking. Official product pages and Clay integration documentation were checked on 16 October 2026. Features, limits and plan packaging can change. No claim of partnership or endorsement is made.",
   "cta_title": "Work out the system before buying the stack.",
   "cta_text": "Bring your target market and current tools. We can discuss what the campaign needs and what we would own."

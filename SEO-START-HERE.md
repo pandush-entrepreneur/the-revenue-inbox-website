@@ -1,6 +1,6 @@
 # Your next steps
 
-The blog foundation and first six drafts are ready for review on the blog branch. The live site remains on alive. No article has been published or approved on your behalf.
+The first six articles were explicitly approved for publication on 16 October 2026. Production uses alive. For future weekly batches, use WEEKLY-BLOG-PROMPT.md; new articles still require review before publication.
 
 ## 1. Set up Google Search Console first
 
@@ -51,7 +51,7 @@ Until connected, the keyword queue records search volumes and difficulty as **no
 
 Check whether the voice sounds like you, the explanation matches how you sell, and every description of your operation is accurate. Names are not added as approved authors until the actual review happens. Your unresolved practical free-work terms are not filled with invented details.
 
-Approve, request changes, or give a short voice note with what you would say differently. Once approved, we can publish the blog and those exact article versions through alive. Future edits require renewed approval.
+Approve, request changes, or give a short voice note with what you would say differently. The initial six versions have been approved. Future new versions require actual approval before publication through alive.
 
 ## 5. Use a simple weekly rhythm
 

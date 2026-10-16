@@ -6,10 +6,10 @@
   "description": "Seven editable B2B cold email templates, with targeting notes, honest proof placeholders and follow-ups that give the reader something new.",
   "category": "Templates",
   "keyword": "B2B cold email templates",
-  "status": "review",
-  "author": "team",
+  "status": "published",
+  "author": "pandush",
   "created": "2026-10-16",
-  "published": null,
+  "published": "2026-10-16",
   "updated": null,
   "visual": "templates",
   "format": "templates",
@@ -18,8 +18,14 @@
   "image_caption": "Choose the reason for the email before choosing the words.",
   "summary": "From first touch to the final follow-up. Seven editable examples, with targeting notes and changes to make before you send.",
   "related_case": "sales-recruitment",
-  "related_posts": ["cold-email-deliverability-checklist", "cold-email-metrics"],
-  "sources": ["https://support.google.com/mail/answer/81126?hl=en", "https://www.therevenueinbox.com/case-studies/sales-recruitment"],
+  "related_posts": [
+    "cold-email-deliverability-checklist",
+    "cold-email-metrics"
+  ],
+  "sources": [
+    "https://support.google.com/mail/answer/81126?hl=en",
+    "https://www.therevenueinbox.com/case-studies/sales-recruitment"
+  ],
   "source_note": "These are original writing examples, not messages claimed to have produced campaign results. The linked recruitment case contains the actual campaign email and its reported result. Google guidance was checked on 16 October 2026.",
   "cta_title": "Build the message around a buyer worth reaching.",
   "cta_text": "Bring your offer and ideal customer. We can discuss the targeting and message before you build the campaign."
