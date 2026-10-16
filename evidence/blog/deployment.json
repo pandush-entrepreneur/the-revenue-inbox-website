@@ -1,0 +1,9 @@
+{
+  "reviewUrl": "https://the-revenue-inbox-website-b4lcybnnq.vercel.app/blog",
+  "target": "preview",
+  "state": "READY",
+  "anonymousAccess": "redirects to Vercel login",
+  "productionBranch": "alive",
+  "productionCommitObserved": "61a011ef64a29729839b0da40d89378184240853",
+  "articlesPublished": 0
+}

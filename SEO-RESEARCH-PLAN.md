@@ -2,7 +2,7 @@ Implementation note: foundation work has started on branch blog. See SEO-START-H
 
 # US-first SEO research and content plan
 
-Revision 2: combines the original research with the second agent brief supplied by Pandush. Research date: 16 October 2026. Target: United States, English, explicitly selected by Pandush. This phase is research only. No new skills installed, website code changed, articles published or production deployments performed.
+Revision 2: combines the original research with the second agent brief supplied by Pandush. Research date: 16 October 2026. Target: United States, English, explicitly selected by Pandush. This document records the research phase. Subsequent implementation is described in SEO-START-HERE.md, SKILLS.md and CHANGES.md; no article has been published and production is unchanged.
 
 ## Recommendation
 
@@ -23,8 +23,8 @@ The existing site's static HTML, sitemap, metadata, redirects and case studies a
 | Repository | Role | Decision |
 |---|---|---|
 | [every-app/open-seo](https://github.com/every-app/open-seo) | Keyword research, clustering, competitor investigation, link prospecting | Keep. Thirteen skills are already installed. Establish a working data connection before a formal data-backed audit. |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Content strategy, customer research, shared positioning context, architecture, copy editing | Primary content strategy and editing reference. Install a selected subset later. |
-| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | Briefs, evidence checks, editorial workflow and refresh | Add to the shortlist. Pilot selected modules before adopting; adapt Claude-specific paths and helpers. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Content strategy, customer research, shared positioning context, architecture, copy editing | Primary content strategy and editing reference. Seven selected skills are now installed. |
+| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | Briefs, evidence checks, editorial workflow and refresh | Six selected modules are now installed as reference workflows; Claude-specific paths and helpers are not native commands here. |
 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Technical and schema review | Use selected checks as a second opinion. Avoid a second full orchestration stack for the same jobs. |
 | [blader/humanizer](https://github.com/blader/humanizer) | Final prose editing while preserving facts | Optional. It cannot supply experience or guarantee an AI-detector result. |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills/blob/master/content-research-writer/SKILL.md) | Content Research Writer: research, cited outlines, drafting and revision | Useful optional reference. Overlaps with the selected writing stack. |
