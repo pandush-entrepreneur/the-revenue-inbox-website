@@ -1,3 +1,9 @@
+## Site-wide spacing audit, 16 October 2026
+
+Audited all 18 rendered pages. Replaced independent section/heading/divider gaps with shared responsive tokens. Section insets are 80px desktop and 56px mobile; plain adjacent sections share one interval. Heading-to-subtitle gaps are 24/16px and intro-to-content gaps 48/32px. Removed competing pipeline margins, fixed author collection heading spacing, normalized footer/source dividers, aligned blog covers to their reading columns and aligned paired founder/article links. Existing copy, logo, colors, assets, offer, tracking and animation behavior are preserved.
+
+Before/after evidence: 54 baseline measurements and 180 post-change layouts across Chromium, Firefox and WebKit. No detected overflow, broken anchors, missing images, runtime errors or axe violations. All measured section heading gaps and article cover edges match the new rules. Existing 90-layout blog interaction checks pass. This is browser emulation, not physical device certification. Impeccable's detector reported only three existing black/white neutral-color advisories; no new palette was introduced. See SPACING-AUDIT.md and evidence/spacing.
+
 ## Remove standalone commitment section, 16 October 2026
 
 Removed the homepage Our commitment block, its section markup and unused layout styles. Pricing now links to the FAQs and flows directly into the founders section with balanced desktop/mobile spacing. The approved offer and guarantee elsewhere remain intact. Regenerated the full site so the shared builder and live HTML agree.

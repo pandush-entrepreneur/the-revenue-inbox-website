@@ -1,0 +1,3941 @@
+{
+  "layouts": [
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [
+        {
+          "heading": "The handoff is where outbound breaks.We own it.",
+          "subtitleGap": 20,
+          "bodyGap": 36,
+          "bottomMargin": 36,
+          "alignment": "start",
+          "x": 24
+        },
+        {
+          "heading": "The results.And the work behind them.",
+          "subtitleGap": null,
+          "bodyGap": 36,
+          "bottomMargin": 36,
+          "alignment": "start",
+          "x": 24
+        },
+        {
+          "heading": "Your offer.Our job to get it heard.",
+          "subtitleGap": 20,
+          "bodyGap": 36,
+          "bottomMargin": 36,
+          "alignment": "start",
+          "x": 24
+        },
+        {
+          "heading": "Start with the dealthat pays for it.",
+          "subtitleGap": 20,
+          "bodyGap": 36,
+          "bottomMargin": 36,
+          "alignment": "start",
+          "x": 24
+        },
+        {
+          "heading": "Read the work.Check the numbers.",
+          "subtitleGap": 20,
+          "bodyGap": 36,
+          "bottomMargin": 36,
+          "alignment": "start",
+          "x": 24
+        },
+        {
+          "heading": "The people behind the results.On camera.",
+          "subtitleGap": 20,
+          "bodyGap": 36,
+          "bottomMargin": 36,
+          "alignment": "start",
+          "x": 24
+        },
+        {
+          "heading": "Pay for qualified appointments.Know the full cost.",
+          "subtitleGap": null,
+          "bodyGap": 36,
+          "bottomMargin": 36,
+          "alignment": "start",
+          "x": 24
+        },
+        {
+          "heading": "You know who owns the work.",
+          "subtitleGap": 20,
+          "bodyGap": 36,
+          "bottomMargin": 36,
+          "alignment": "start",
+          "x": 24
+        },
+        {
+          "heading": "Clear answersbefore the call.",
+          "subtitleGap": null,
+          "bodyGap": null,
+          "bottomMargin": 12,
+          "alignment": "start",
+          "x": 24
+        }
+      ],
+      "sections": [
+        {
+          "id": "top",
+          "top": 40,
+          "bottom": 32,
+          "contentHeight": 1300,
+          "heading": "20 qualifiedmeetings. 30 days.Or we work for free."
+        },
+        {
+          "id": "trusted-by",
+          "top": 32,
+          "bottom": 48,
+          "contentHeight": 168
+        },
+        {
+          "id": "problem",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 316,
+          "heading": "A full week should not leave an empty pipeline."
+        },
+        {
+          "id": "system",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 1059,
+          "heading": "The handoff is where outbound breaks.We own it."
+        },
+        {
+          "id": "proof-strip",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 450,
+          "heading": "The results.And the work behind them."
+        },
+        {
+          "id": "how-it-works",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 1038,
+          "heading": "Your offer.Our job to get it heard."
+        },
+        {
+          "id": "math",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 2032,
+          "heading": "Start with the dealthat pays for it."
+        },
+        {
+          "id": "case-studies",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 3310,
+          "heading": "Read the work.Check the numbers."
+        },
+        {
+          "id": "testimonials",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 2064,
+          "heading": "The people behind the results.On camera."
+        },
+        {
+          "id": "pricing",
+          "top": 80,
+          "bottom": 40,
+          "contentHeight": 1297,
+          "heading": "Pay for qualified appointments.Know the full cost."
+        },
+        {
+          "id": "team",
+          "top": 48,
+          "bottom": 80,
+          "contentHeight": 1381,
+          "heading": "You know who owns the work."
+        },
+        {
+          "id": "faq",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 768,
+          "heading": "Clear answersbefore the call."
+        },
+        {
+          "id": "contact",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 427,
+          "heading": "Your next customer starts with a conversation."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-index-top",
+          "top": 48,
+          "bottom": 32,
+          "contentHeight": 377,
+          "heading": "Real campaigns. Real clients. Every number from the sending account."
+        },
+        {
+          "id": "all-cases",
+          "top": 16,
+          "bottom": 80,
+          "contentHeight": 3115,
+          "heading": "Six campaigns"
+        },
+        {
+          "id": "contact",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 427,
+          "heading": "Your next customer starts with a conversation."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/graiai",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 24,
+          "bottom": 48,
+          "contentHeight": 666,
+          "heading": "12 qualified meetings in GraiAI's first 3 weeks of outbound"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 0,
+          "contentHeight": 1457,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 3282,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 367,
+          "heading": "Want to see what your first 3 weeks could look like? Book a call."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Why we're showing a 3-week result",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 20
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/networked-fundraise",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 24,
+          "bottom": 48,
+          "contentHeight": 680,
+          "heading": "$1.2M raised from 18 investors in 90 days, with cold email as the only channel"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 0,
+          "contentHeight": 1622,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 3424,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 325,
+          "heading": "Raising a round without the warm intros? Let's talk."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 20
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/networked-sales-meetings",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 24,
+          "bottom": 48,
+          "contentHeight": 709,
+          "heading": "81 sales meetings in a single month for Networked, with a record 34 in one day"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 0,
+          "contentHeight": 1392,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 3401,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 367,
+          "heading": "Want a calendar your sales team has to reorganize around? Let's talk."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 20
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/parking-compliance-systems",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 24,
+          "bottom": 48,
+          "contentHeight": 827,
+          "heading": "26 qualified leads a day from parking lot owners, a market most agencies won't t"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 0,
+          "contentHeight": 1425,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 4218,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 367,
+          "heading": "Selling into a small or hard-to-reach market? Let's map yours."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 20
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/sales-recruitment",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 24,
+          "bottom": 48,
+          "contentHeight": 637,
+          "heading": "475 senior sales professionals raised their hand in 30 days"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 0,
+          "contentHeight": 1475,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 3271,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 325,
+          "heading": "Recruiting people who never answer recruiters? Let's talk."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 20
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/spotlight-skyhigh-creatives",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 24,
+          "bottom": 48,
+          "contentHeight": 798,
+          "heading": "159 qualified opportunities in 90 days for Spotlight, by giving the work away fi"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 0,
+          "contentHeight": 1503,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 4011,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 409,
+          "heading": "Selling into inboxes everyone else is pitching? Let's build you an offer they ca"
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Why the meetings were different",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 20
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 20
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "blog-top",
+          "top": 24,
+          "bottom": 40,
+          "contentHeight": 311,
+          "heading": "The outbound blog."
+        },
+        {
+          "id": "guides",
+          "top": 0,
+          "bottom": 80,
+          "contentHeight": 3845,
+          "heading": "Field guides"
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/b2b-cold-email-templates",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 24,
+          "bottom": 40,
+          "contentHeight": 482,
+          "heading": "7 B2B cold email templates for your next campaign"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 40,
+          "contentHeight": 291
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 80,
+          "contentHeight": 8612,
+          "heading": "1. A hiring signal tied to a problem you solve"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 80,
+          "contentHeight": 1302,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "1. A hiring signal tied to a problem you solve",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "2. A narrow observation with a useful next step",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "3. A relevant result, with its limits intact",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "4. A useful resource for a visible project",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "5. A referral request when ownership is unclear",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "6. A follow-up that adds evidence",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "7. A final message that leaves the choice with them",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Make the template yours before sending",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 44,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 24,
+        "bodyLeft": 24,
+        "coverRight": 366,
+        "bodyRight": 366
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/clay-vs-instantly-vs-smartlead",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 24,
+          "bottom": 40,
+          "contentHeight": 453,
+          "heading": "Clay vs Instantly vs Smartlead: build the right stack"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 40,
+          "contentHeight": 291
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 80,
+          "contentHeight": 6680,
+          "heading": "The short answer: start with the missing job"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 80,
+          "contentHeight": 1275,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The short answer: start with the missing job",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Clay: turn account research into usable fields",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Instantly: evaluate the campaign and reply workflow",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Smartlead: evaluate sending and shared reply operations",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Use one trial scorecard for the shortlist",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Price the workflow, not a headline subscription",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Keep the work outside the tool visible",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 44,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 24,
+        "bodyLeft": 24,
+        "coverRight": 366,
+        "bodyRight": 366
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/cold-email-agency-pricing",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 24,
+          "bottom": 40,
+          "contentHeight": 409,
+          "heading": "Cold email agency pricing: the full bill"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 40,
+          "contentHeight": 267
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 80,
+          "contentHeight": 6507,
+          "heading": "Start with the full monthly bill"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 80,
+          "contentHeight": 657,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "Start with the full monthly bill",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Compare quotes using the same scope",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Agree on what the appointment fee buys",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Check the economics against your own sales process",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Ask for the terms behind the guarantee",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Bring one comparable number to the call",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 44,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 24,
+        "bodyLeft": 24,
+        "coverRight": 366,
+        "bodyRight": 366
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/cold-email-deliverability-checklist",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 24,
+          "bottom": 40,
+          "contentHeight": 526,
+          "heading": "Cold email deliverability: 7 checks before you send"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 40,
+          "contentHeight": 291
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 80,
+          "contentHeight": 7208,
+          "heading": "1. Verify the domain on a message that was actually sent"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 80,
+          "contentHeight": 1334,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "1. Verify the domain on a message that was actually sent",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "2. Confirm the sender identity and message match",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "3. Check recipient fit before checking volume",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "4. Make opting out work across the campaign",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "5. Choose a monitored rollout, not a magic daily limit",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "6. Look for failure signals beyond opens",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "7. Test the reply-to-booking handoff",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Keep a launch record you can use later",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 44,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 24,
+        "bodyLeft": 24,
+        "coverRight": 366,
+        "bodyRight": 366
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/cold-email-metrics",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 24,
+          "bottom": 40,
+          "contentHeight": 482,
+          "heading": "Cold email metrics: the rates worth tracking"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 40,
+          "contentHeight": 291
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 80,
+          "contentHeight": 6827,
+          "heading": "Choose the unit before calculating the rate"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 80,
+          "contentHeight": 1302,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "Choose the unit before calculating the rate",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "A scorecard with explicit formulas",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "A real example: 188 booked is not 188 held",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "A denominator can change the apparent benchmark",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Keep time windows aligned",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Use the scorecard to choose the next investigation",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "End the weekly review with a decision",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 44,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 24,
+        "bodyLeft": 24,
+        "coverRight": 366,
+        "bodyRight": 366
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/pay-per-appointment-vs-retainer",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 24,
+          "bottom": 40,
+          "contentHeight": 453,
+          "heading": "Pay per appointment vs a monthly retainer"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 40,
+          "contentHeight": 291
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 80,
+          "contentHeight": 5658,
+          "heading": "Compare what triggers the invoice"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 80,
+          "contentHeight": 630,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "Compare what triggers the invoice",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Put the payment models side by side",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Calculate the same volume before comparing price",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Keep replies, bookings and held meetings separate",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Match the commitment to the way you buy",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Choose the proposal you can inspect",
+          "top": 44,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 44,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 24,
+        "bodyLeft": 24,
+        "coverRight": 366,
+        "bodyRight": 366
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/authors/pandush",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "author-top",
+          "top": 40,
+          "bottom": 80,
+          "contentHeight": 600,
+          "heading": "Pandush"
+        },
+        {
+          "id": "author-guides",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 3755,
+          "heading": "Guides from Pandush."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/authors/umair",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "author-top",
+          "top": 40,
+          "bottom": 80,
+          "contentHeight": 600,
+          "heading": "Umair"
+        },
+        {
+          "id": "author-campaigns",
+          "top": 80,
+          "bottom": 80,
+          "contentHeight": 203,
+          "heading": "See the work behind the advice."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/404",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "not-found",
+          "top": 24,
+          "bottom": 48,
+          "contentHeight": 328,
+          "heading": "This page is off the list."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [
+        {
+          "heading": "The handoff is where outbound breaks.We own it.",
+          "subtitleGap": 24,
+          "bodyGap": 64,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 35
+        },
+        {
+          "heading": "The results.And the work behind them.",
+          "subtitleGap": null,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 35
+        },
+        {
+          "heading": "Your offer.Our job to get it heard.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 35
+        },
+        {
+          "heading": "Start with the dealthat pays for it.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 35
+        },
+        {
+          "heading": "Read the work.Check the numbers.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 35
+        },
+        {
+          "heading": "The people behind the results.On camera.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 35
+        },
+        {
+          "heading": "Pay for qualified appointments.Know the full cost.",
+          "subtitleGap": null,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 35
+        },
+        {
+          "heading": "You know who owns the work.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 35
+        },
+        {
+          "heading": "Clear answersbefore the call.",
+          "subtitleGap": null,
+          "bodyGap": null,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 35
+        }
+      ],
+      "sections": [
+        {
+          "id": "top",
+          "top": 64,
+          "bottom": 64,
+          "contentHeight": 1474,
+          "heading": "20 qualifiedmeetings. 30 days.Or we work for free."
+        },
+        {
+          "id": "trusted-by",
+          "top": 32,
+          "bottom": 64,
+          "contentHeight": 240
+        },
+        {
+          "id": "problem",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 296,
+          "heading": "A full week should not leave an empty pipeline."
+        },
+        {
+          "id": "system",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 746,
+          "heading": "The handoff is where outbound breaks.We own it."
+        },
+        {
+          "id": "proof-strip",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 309,
+          "heading": "The results.And the work behind them."
+        },
+        {
+          "id": "how-it-works",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 644,
+          "heading": "Your offer.Our job to get it heard."
+        },
+        {
+          "id": "math",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 1270,
+          "heading": "Start with the dealthat pays for it."
+        },
+        {
+          "id": "case-studies",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 2062,
+          "heading": "Read the work.Check the numbers."
+        },
+        {
+          "id": "testimonials",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 946,
+          "heading": "The people behind the results.On camera."
+        },
+        {
+          "id": "pricing",
+          "top": 128,
+          "bottom": 64,
+          "contentHeight": 821,
+          "heading": "Pay for qualified appointments.Know the full cost."
+        },
+        {
+          "id": "team",
+          "top": 64,
+          "bottom": 128,
+          "contentHeight": 735,
+          "heading": "You know who owns the work."
+        },
+        {
+          "id": "faq",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 694,
+          "heading": "Clear answersbefore the call."
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 194,
+          "heading": "Your next customer starts with a conversation."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-index-top",
+          "top": 96,
+          "bottom": 48,
+          "contentHeight": 290,
+          "heading": "Real campaigns. Real clients. Every number from the sending account."
+        },
+        {
+          "id": "all-cases",
+          "top": 32,
+          "bottom": 128,
+          "contentHeight": 1826,
+          "heading": "Six campaigns"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 194,
+          "heading": "Your next customer starts with a conversation."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/graiai",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 556,
+          "heading": "12 qualified meetings in GraiAI's first 3 weeks of outbound"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1060,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 3083,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 231,
+          "heading": "Want to see what your first 3 weeks could look like? Book a call."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Why we're showing a 3-week result",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/networked-fundraise",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 562,
+          "heading": "$1.2M raised from 18 investors in 90 days, with cold email as the only channel"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1129,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 3406,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 194,
+          "heading": "Raising a round without the warm intros? Let's talk."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/networked-sales-meetings",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 596,
+          "heading": "81 sales meetings in a single month for Networked, with a record 34 in one day"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1111,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 3186,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 231,
+          "heading": "Want a calendar your sales team has to reorganize around? Let's talk."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/parking-compliance-systems",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 630,
+          "heading": "26 qualified leads a day from parking lot owners, a market most agencies won't t"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1032,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 3886,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 231,
+          "heading": "Selling into a small or hard-to-reach market? Let's map yours."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/sales-recruitment",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 522,
+          "heading": "475 senior sales professionals raised their hand in 30 days"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1082,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 3014,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 231,
+          "heading": "Recruiting people who never answer recruiters? Let's talk."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/spotlight-skyhigh-creatives",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 616,
+          "heading": "159 qualified opportunities in 90 days for Spotlight, by giving the work away fi"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1112,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 3886,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 268,
+          "heading": "Selling into inboxes everyone else is pitching? Let's build you an offer they ca"
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Why the meetings were different",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "blog-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 270,
+          "heading": "The outbound blog."
+        },
+        {
+          "id": "guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 2621,
+          "heading": "Field guides"
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/b2b-cold-email-templates",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 422,
+          "heading": "7 B2B cold email templates for your next campaign"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 345
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 8640,
+          "heading": "1. A hiring signal tied to a problem you solve"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 767,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "1. A hiring signal tied to a problem you solve",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "2. A narrow observation with a useful next step",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "3. A relevant result, with its limits intact",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "4. A useful resource for a visible project",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "5. A referral request when ownership is unclear",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "6. A follow-up that adds evidence",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "7. A final message that leaves the choice with them",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Make the template yours before sending",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 275,
+        "bodyLeft": 275,
+        "coverRight": 733,
+        "bodyRight": 733
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/clay-vs-instantly-vs-smartlead",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 422,
+          "heading": "Clay vs Instantly vs Smartlead: build the right stack"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 369
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 6648,
+          "heading": "The short answer: start with the missing job"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 767,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The short answer: start with the missing job",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Clay: turn account research into usable fields",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Instantly: evaluate the campaign and reply workflow",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Smartlead: evaluate sending and shared reply operations",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Use one trial scorecard for the shortlist",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Price the workflow, not a headline subscription",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Keep the work outside the tool visible",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 275,
+        "bodyLeft": 275,
+        "coverRight": 733,
+        "bodyRight": 733
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/cold-email-agency-pricing",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 422,
+          "heading": "Cold email agency pricing: the full bill"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 345
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 6398,
+          "heading": "Start with the full monthly bill"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 731,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "Start with the full monthly bill",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Compare quotes using the same scope",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Agree on what the appointment fee buys",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Check the economics against your own sales process",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Ask for the terms behind the guarantee",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Bring one comparable number to the call",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 275,
+        "bodyLeft": 275,
+        "coverRight": 733,
+        "bodyRight": 733
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/cold-email-deliverability-checklist",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 422,
+          "heading": "Cold email deliverability: 7 checks before you send"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 345
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 7013,
+          "heading": "1. Verify the domain on a message that was actually sent"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 731,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "1. Verify the domain on a message that was actually sent",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "2. Confirm the sender identity and message match",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "3. Check recipient fit before checking volume",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "4. Make opting out work across the campaign",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "5. Choose a monitored rollout, not a magic daily limit",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "6. Look for failure signals beyond opens",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "7. Test the reply-to-booking handoff",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Keep a launch record you can use later",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 275,
+        "bodyLeft": 275,
+        "coverRight": 733,
+        "bodyRight": 733
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/cold-email-metrics",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 422,
+          "heading": "Cold email metrics: the rates worth tracking"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 369
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 6748,
+          "heading": "Choose the unit before calculating the rate"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 731,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "Choose the unit before calculating the rate",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "A scorecard with explicit formulas",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "A real example: 188 booked is not 188 held",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "A denominator can change the apparent benchmark",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Keep time windows aligned",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Use the scorecard to choose the next investigation",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "End the weekly review with a decision",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 275,
+        "bodyLeft": 275,
+        "coverRight": 733,
+        "bodyRight": 733
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/pay-per-appointment-vs-retainer",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 422,
+          "heading": "Pay per appointment vs a monthly retainer"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 345
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 5475,
+          "heading": "Compare what triggers the invoice"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 695,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "Compare what triggers the invoice",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Put the payment models side by side",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Calculate the same volume before comparing price",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Keep replies, bookings and held meetings separate",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Match the commitment to the way you buy",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Choose the proposal you can inspect",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 275,
+        "bodyLeft": 275,
+        "coverRight": 733,
+        "bodyRight": 733
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/authors/pandush",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "author-top",
+          "top": 40,
+          "bottom": 128,
+          "contentHeight": 392,
+          "heading": "Pandush"
+        },
+        {
+          "id": "author-guides",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 2124,
+          "heading": "Guides from Pandush."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/authors/umair",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "author-top",
+          "top": 40,
+          "bottom": 128,
+          "contentHeight": 414,
+          "heading": "Umair"
+        },
+        {
+          "id": "author-campaigns",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 141,
+          "heading": "See the work behind the advice."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/404",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "not-found",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 192,
+          "heading": "This page is off the list."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [
+        {
+          "heading": "The handoff is where outbound breaks.We own it.",
+          "subtitleGap": 24,
+          "bodyGap": 64,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 96
+        },
+        {
+          "heading": "The results.And the work behind them.",
+          "subtitleGap": null,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 96
+        },
+        {
+          "heading": "Your offer.Our job to get it heard.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 96
+        },
+        {
+          "heading": "Start with the dealthat pays for it.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 96
+        },
+        {
+          "heading": "Read the work.Check the numbers.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 96
+        },
+        {
+          "heading": "The people behind the results.On camera.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 96
+        },
+        {
+          "heading": "Pay for qualified appointments.Know the full cost.",
+          "subtitleGap": null,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 96
+        },
+        {
+          "heading": "You know who owns the work.",
+          "subtitleGap": 24,
+          "bodyGap": 56,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 96
+        },
+        {
+          "heading": "Clear answersbefore the call.",
+          "subtitleGap": null,
+          "bodyGap": null,
+          "bottomMargin": 56,
+          "alignment": "start",
+          "x": 96
+        }
+      ],
+      "sections": [
+        {
+          "id": "top",
+          "top": 64,
+          "bottom": 64,
+          "contentHeight": 861,
+          "heading": "20 qualifiedmeetings. 30 days.Or we work for free."
+        },
+        {
+          "id": "trusted-by",
+          "top": 32,
+          "bottom": 64,
+          "contentHeight": 80
+        },
+        {
+          "id": "problem",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 176,
+          "heading": "A full week should not leave an empty pipeline."
+        },
+        {
+          "id": "system",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 718,
+          "heading": "The handoff is where outbound breaks.We own it."
+        },
+        {
+          "id": "proof-strip",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 330,
+          "heading": "The results.And the work behind them."
+        },
+        {
+          "id": "how-it-works",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 589,
+          "heading": "Your offer.Our job to get it heard."
+        },
+        {
+          "id": "math",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 1352,
+          "heading": "Start with the dealthat pays for it."
+        },
+        {
+          "id": "case-studies",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 2069,
+          "heading": "Read the work.Check the numbers."
+        },
+        {
+          "id": "testimonials",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 1278,
+          "heading": "The people behind the results.On camera."
+        },
+        {
+          "id": "pricing",
+          "top": 128,
+          "bottom": 64,
+          "contentHeight": 812,
+          "heading": "Pay for qualified appointments.Know the full cost."
+        },
+        {
+          "id": "team",
+          "top": 64,
+          "bottom": 128,
+          "contentHeight": 491,
+          "heading": "You know who owns the work."
+        },
+        {
+          "id": "faq",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 694,
+          "heading": "Clear answersbefore the call."
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 240,
+          "heading": "Your next customer starts with a conversation."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-index-top",
+          "top": 96,
+          "bottom": 48,
+          "contentHeight": 350,
+          "heading": "Real campaigns. Real clients. Every number from the sending account."
+        },
+        {
+          "id": "all-cases",
+          "top": 32,
+          "bottom": 128,
+          "contentHeight": 1786,
+          "heading": "Six campaigns"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 240,
+          "heading": "Your next customer starts with a conversation."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/graiai",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 585,
+          "heading": "12 qualified meetings in GraiAI's first 3 weeks of outbound"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1149,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 2533,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 300,
+          "heading": "Want to see what your first 3 weeks could look like? Book a call."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Why we're showing a 3-week result",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/networked-fundraise",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 622,
+          "heading": "$1.2M raised from 18 investors in 90 days, with cold email as the only channel"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1245,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 2849,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 240,
+          "heading": "Raising a round without the warm intros? Let's talk."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/networked-sales-meetings",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 656,
+          "heading": "81 sales meetings in a single month for Networked, with a record 34 in one day"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1112,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 2477,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 300,
+          "heading": "Want a calendar your sales team has to reorganize around? Let's talk."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/parking-compliance-systems",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 656,
+          "heading": "26 qualified leads a day from parking lot owners, a market most agencies won't t"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1168,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 3044,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 240,
+          "heading": "Selling into a small or hard-to-reach market? Let's map yours."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/sales-recruitment",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 551,
+          "heading": "475 senior sales professionals raised their hand in 30 days"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1218,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 2460,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 240,
+          "heading": "Recruiting people who never answer recruiters? Let's talk."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/spotlight-skyhigh-creatives",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "case-top",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 675,
+          "heading": "159 qualified opportunities in 90 days for Spotlight, by giving the work away fi"
+        },
+        {
+          "id": "campaign-dashboard",
+          "top": 0,
+          "bottom": 32,
+          "contentHeight": 1248,
+          "heading": "Campaign dashboard"
+        },
+        {
+          "id": "case-detail",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 3053,
+          "heading": "Snapshot"
+        },
+        {
+          "id": "contact",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 300,
+          "heading": "Selling into inboxes everyone else is pitching? Let's build you an offer they ca"
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The situation",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "The hard part",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What we did",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "One email from the campaign",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Results",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Why the meetings were different",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "What it meant",
+          "top": 0,
+          "bottom": 24
+        },
+        {
+          "text": "Built with",
+          "top": 0,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "blog-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 311,
+          "heading": "The outbound blog."
+        },
+        {
+          "id": "guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 2838,
+          "heading": "Field guides"
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/b2b-cold-email-templates",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 450,
+          "heading": "7 B2B cold email templates for your next campaign"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 626
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 6687,
+          "heading": "1. A hiring signal tied to a problem you solve"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 844,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "1. A hiring signal tied to a problem you solve",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "2. A narrow observation with a useful next step",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "3. A relevant result, with its limits intact",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "4. A useful resource for a visible project",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "5. A referral request when ownership is unclear",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "6. A follow-up that adds evidence",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "7. A final message that leaves the choice with them",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Make the template yours before sending",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 464,
+        "bodyLeft": 584,
+        "coverRight": 1344,
+        "bodyRight": 1344
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/clay-vs-instantly-vs-smartlead",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 450,
+          "heading": "Clay vs Instantly vs Smartlead: build the right stack"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 626
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 5009,
+          "heading": "The short answer: start with the missing job"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 844,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "The short answer: start with the missing job",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Clay: turn account research into usable fields",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Instantly: evaluate the campaign and reply workflow",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Smartlead: evaluate sending and shared reply operations",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Use one trial scorecard for the shortlist",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Price the workflow, not a headline subscription",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Keep the work outside the tool visible",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 464,
+        "bodyLeft": 584,
+        "coverRight": 1344,
+        "bodyRight": 1344
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/cold-email-agency-pricing",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 450,
+          "heading": "Cold email agency pricing: the full bill"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 626
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 4688,
+          "heading": "Start with the full monthly bill"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 844,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "Start with the full monthly bill",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Compare quotes using the same scope",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Agree on what the appointment fee buys",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Check the economics against your own sales process",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Ask for the terms behind the guarantee",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Bring one comparable number to the call",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 464,
+        "bodyLeft": 584,
+        "coverRight": 1344,
+        "bodyRight": 1344
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/cold-email-deliverability-checklist",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 450,
+          "heading": "Cold email deliverability: 7 checks before you send"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 626
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 5277,
+          "heading": "1. Verify the domain on a message that was actually sent"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 844,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "1. Verify the domain on a message that was actually sent",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "2. Confirm the sender identity and message match",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "3. Check recipient fit before checking volume",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "4. Make opting out work across the campaign",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "5. Choose a monitored rollout, not a magic daily limit",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "6. Look for failure signals beyond opens",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "7. Test the reply-to-booking handoff",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Keep a launch record you can use later",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 464,
+        "bodyLeft": 584,
+        "coverRight": 1344,
+        "bodyRight": 1344
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/cold-email-metrics",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 450,
+          "heading": "Cold email metrics: the rates worth tracking"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 626
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 4982,
+          "heading": "Choose the unit before calculating the rate"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 844,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "Choose the unit before calculating the rate",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "A scorecard with explicit formulas",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "A real example: 188 booked is not 188 held",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "A denominator can change the apparent benchmark",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Keep time windows aligned",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Use the scorecard to choose the next investigation",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "End the weekly review with a decision",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 464,
+        "bodyLeft": 584,
+        "coverRight": 1344,
+        "bodyRight": 1344
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/pay-per-appointment-vs-retainer",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "article-top",
+          "top": 40,
+          "bottom": 64,
+          "contentHeight": 450,
+          "heading": "Pay per appointment vs a monthly retainer"
+        },
+        {
+          "id": "article-visual",
+          "top": 0,
+          "bottom": 64,
+          "contentHeight": 626
+        },
+        {
+          "id": "article-body",
+          "top": 16,
+          "bottom": 128,
+          "contentHeight": 4058,
+          "heading": "Compare what triggers the invoice"
+        },
+        {
+          "id": "related-guides",
+          "top": 0,
+          "bottom": 128,
+          "contentHeight": 808,
+          "heading": "Keep reading."
+        }
+      ],
+      "proseHeadings": [
+        {
+          "text": "Compare what triggers the invoice",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Put the payment models side by side",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Calculate the same volume before comparing price",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Keep replies, bookings and held meetings separate",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Match the commitment to the way you buy",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Choose the proposal you can inspect",
+          "top": 64,
+          "bottom": 24
+        },
+        {
+          "text": "Sources and working",
+          "top": 24,
+          "bottom": 24
+        }
+      ],
+      "articleAlignment": {
+        "coverLeft": 464,
+        "bodyLeft": 584,
+        "coverRight": 1344,
+        "bodyRight": 1344
+      },
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/authors/pandush",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "author-top",
+          "top": 40,
+          "bottom": 128,
+          "contentHeight": 392,
+          "heading": "Pandush"
+        },
+        {
+          "id": "author-guides",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 2380,
+          "heading": "Guides from Pandush."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/authors/umair",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "author-top",
+          "top": 40,
+          "bottom": 128,
+          "contentHeight": 392,
+          "heading": "Umair"
+        },
+        {
+          "id": "author-campaigns",
+          "top": 128,
+          "bottom": 128,
+          "contentHeight": 164,
+          "heading": "See the work behind the advice."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/404",
+      "overflow": false,
+      "missingImages": [],
+      "headingPairs": [],
+      "sections": [
+        {
+          "id": "not-found",
+          "top": 40,
+          "bottom": 72,
+          "contentHeight": 223,
+          "heading": "This page is off the list."
+        }
+      ],
+      "proseHeadings": [],
+      "articleAlignment": null,
+      "badAnchors": [],
+      "errors": []
+    }
+  ],
+  "accessibility": []
+}

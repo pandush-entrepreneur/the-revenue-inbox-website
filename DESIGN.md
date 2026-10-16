@@ -35,7 +35,7 @@ The original palette remains authoritative. No new hue is permitted. CSS custom 
 
 Manrope 600 is the display face. DM Sans 400/500 is the body face. Both are existing self-hosted WOFF2 assets. UI labels use the system monospace stack. All numeric results use tabular figures. Body is 17px, small copy 14px, data labels 9 to 12px inside dense dashboard UI. Heading size uses clamp(32px,3.7vw,52px). Hero text uses clamp(42px,4.9vw,70px); mobile scales to the available width. Source case headlines may wrap naturally.
 
-Spacing follows 4, 8, 12, 16, 24, 32, 48, 64, 96, 128px. Desktop sections use 128px with smaller mobile intervals. Container is 1248px, increasing to 1320px on wide screens. Gutters are clamp(24px,4.5vw,72px). Radii are 8px for controls, 12px for email cards, 16px for standard panels, 20px for calculators. Shadows stay soft and dark.
+Spacing follows the existing 4px scale. Section insets are 80px desktop and 56px mobile. Adjacent sections on the same plain surface split one interval between them rather than doubling it. Container is 1248px, increasing to 1320px on wide screens. Gutters are clamp(24px,4.5vw,72px). Radii are 8px for controls, 12px for email cards, 16px for standard panels, 20px for calculators. Shadows stay soft and dark.
 
 ## Brand assets
 
@@ -85,4 +85,24 @@ Template examples use native blockquotes with progressive Copy template buttons,
 
 The article calculator uses the same $100 appointment fee and $1,500 infrastructure cost; values are complete in HTML and controls are enabled only after enhancement. Author credit and real publication/update dates come from reviewed source metadata. Review pages never enter the public feed or sitemap. Desktop navigation centers each link in its target area so Blog has consistent optical spacing; mobile links share the same inset.
 
-The homepage has no standalone commitment section. Pricing flows directly into the founders: 64px bottom and top padding on desktop, 40px/48px on mobile. Its supporting link goes to the FAQs. The response-clock label remains two complete words on two lines.
+The homepage has no standalone commitment section. Pricing flows directly into the founders with the same 80px desktop / 56px mobile inset on each side of the surface boundary. Its supporting link goes to the FAQs. The response-clock label remains two complete words on two lines.
+
+## Spacing audit system, 16 October 2026
+
+| Role / CSS token | Desktop | Mobile below 768px |
+|---|---:|---:|
+| Surface edge to content, --section | 80px | 56px |
+| Half of an uninterrupted section transition, --section-join | 40px | 28px |
+| Heading group to content, --intro-gap | 48px | 32px |
+| Heading to subtitle, --heading-gap | 24px | 16px |
+| Eyebrow to heading, --label-gap | 16px | 12px |
+| Major text divider inset, --divider-space | 32px | 24px |
+| Reading subsection separation, --reading-section-gap | 64px | 48px |
+
+Section-heading owns its paragraph margins; children do not contribute an accidental second bottom margin. The process pipeline has no competing top margin. FAQ heading-to-list spacing uses the same intro token on mobile. Headings remain on the established left edge; only content that was already intended to be centered is centered. Do not center all text in pursuit of symmetry.
+
+On the homepage, math, case studies and testimonials share plain-surface transitions, as do the founders and FAQ. Bordered surface transitions keep equal insets either side. Hero and trust strip retain their intentional compact presentation. Page-intro top padding remains 40px desktop/24px mobile; dense dashboard/table spacing remains appropriate to its smaller UI scale.
+
+Blog reading layout: 240px contents rail, 64px gap and 760px reading column, centered as a 1064px group. Below 1100px, use a 200px rail and 40px gap; mobile stacks. Covers use the exact reading-column width and edges, not a separate wider measure. Author biographies and their article collections share one section interval; collection headings receive the shared intro gap. Source-divider padding is explicit rather than padding plus a heading margin.
+
+Founder biography links and nonfeatured article-card reading links align at the bottom of their paired content areas without constraining copy length. Footer legal-divider spacing is equal above and below. Screenshots and before/after computed measurements are in evidence/spacing.
