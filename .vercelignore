@@ -9,3 +9,11 @@ reference/
 .agents/
 node_modules/
 skills-lock.json
+
+.preview/
+content/
+project-skills.json
+
+.blog-generated.json
+requirements-build.txt
+.github/

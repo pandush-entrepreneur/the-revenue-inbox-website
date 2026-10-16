@@ -2,8 +2,9 @@
 from http.server import ThreadingHTTPServer,BaseHTTPRequestHandler
 from pathlib import Path
 from urllib.parse import unquote,urlsplit
-import json,mimetypes,gzip
-ROOT=Path(__file__).resolve().parents[1]
+import json,mimetypes,gzip,argparse
+parser=argparse.ArgumentParser();parser.add_argument('--directory',default=str(Path(__file__).resolve().parents[1]));parser.add_argument('--port',type=int,default=4174);args=parser.parse_args()
+ROOT=Path(args.directory).resolve()
 class Handler(BaseHTTPRequestHandler):
  def do_HEAD(self):self.serve(True)
  def do_GET(self):self.serve(False)
@@ -28,5 +29,5 @@ class Handler(BaseHTTPRequestHandler):
   self.end_headers()
   if not head:self.wfile.write(raw)
  def log_message(self,*args):pass
-print('Preview http://127.0.0.1:4174',flush=True)
-ThreadingHTTPServer(('127.0.0.1',4174),Handler).serve_forever()
+print(f'Preview http://127.0.0.1:{args.port}',flush=True)
+ThreadingHTTPServer(('127.0.0.1',args.port),Handler).serve_forever()

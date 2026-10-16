@@ -87,6 +87,21 @@
       "source": "/case-studies.html",
       "destination": "/case-studies",
       "statusCode": 301
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "statusCode": 301
+    },
+    {
+      "source": "/authors/pandush.html",
+      "destination": "/authors/pandush",
+      "statusCode": 301
+    },
+    {
+      "source": "/authors/umair.html",
+      "destination": "/authors/umair",
+      "statusCode": 301
     }
   ],
   "rewrites": [
@@ -101,6 +116,18 @@
     {
       "source": "/404",
       "destination": "/404.html"
+    },
+    {
+      "source": "/blog",
+      "destination": "/blog.html"
+    },
+    {
+      "source": "/blog/:slug([a-z0-9-]+)",
+      "destination": "/blog/:slug.html"
+    },
+    {
+      "source": "/authors/:slug([a-z0-9-]+)",
+      "destination": "/authors/:slug.html"
     }
   ],
   "headers": [

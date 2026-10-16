@@ -1,0 +1,11 @@
+{
+  "reviewPagesBeforeWithdrawal": [
+    true,
+    true
+  ],
+  "reviewPagesAfterWithdrawal": [
+    false,
+    false
+  ],
+  "passed": true
+}

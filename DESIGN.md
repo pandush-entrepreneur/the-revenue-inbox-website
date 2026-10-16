@@ -72,3 +72,11 @@ One H1 per page. Native landmarks, links, buttons, range inputs and details cont
 The user's explicit dark-first purple direction authorizes soft brand glows, restrained gradient borders, dashboard grids and small mono labels. These are narrow exceptions to generic anti-template taste warnings. Repeated decoration, fake analytics, stock images, holographic objects and unrelated colors remain excluded. The source case narratives override generic copy patterns; the user-approved GraiAI guarantee correction is the sole factual source-copy exception.
 
 Client strip assets use SVG-native luminance-to-alpha normalization of the supplied logos. The white rectangular image backgrounds disappear, with original contours retained in monochrome. Display these prepared assets without invert or blend-mode filters; animate opacity/transform only.
+
+## Blog and editorial pages
+
+Mode: Read. The blog inherits the dark palette, wordmark, fonts, spacing and booking action. The index uses a larger leading guide with a native receipt graphic, followed by quieter article rows. Search appears once five guides exist; this is a UI choice. Avoid empty category archives.
+
+Article measure is760px, body18px desktop/16px mobile, H2 32px/27px. A240px desktop contents rail is sticky; mobile contents start collapsed. Comparison tables preserve columns within a labeled scroll region, with a visible mobile cue. Sources and individual-campaign caveats sit after the article. No stock covers, AI artwork, forced chart count or continuous reading-page animation.
+
+The receipt visual states actual pricing and labels its billing example. The article calculator uses the same $100 appointment fee and $1,500 infrastructure cost; values are complete in HTML and controls are enabled only after enhancement. Author credit and real publication/update dates come from reviewed source metadata. Review pages are marked as previews and never enter the public feed or sitemap.

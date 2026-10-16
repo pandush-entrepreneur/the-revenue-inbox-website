@@ -1,3 +1,15 @@
+## Blog foundation and review drafts, 16 October 2026
+
+Built on the blog feature branch from alive. Production is unchanged. Added a matching static blog index, article template, author profiles, RSS, per-article social cards, native cost calculator and publication checks. Two buyer-intent articles are review drafts, not approved publications. Public builds exclude them; a separate noindex preview allows review.
+
+Installed 16 selected project-local SEO, strategy and writing skills alongside the existing OpenSEO skills. project-skills.json records source commits and content hashes. Claude-specific packages are reference workflows here, not native working plugin commands. Third-party helper scripts were not executed.
+
+Added SEO-RESEARCH-PLAN.md, SEO-START-HERE.md, EDITORIAL.md and article briefs. US English is the initial market. Search volumes, difficulty and rankings remain unmeasured until keyword data is connected. Search Console and Analytics are not configured. No tracking provider, scheduled writer or automatic publisher was added. Booking clicks must not be reported as completed calls.
+
+Validation: 8 publication tests; 50 responsive layouts across Chromium, Firefox and WebKit; no detected overflow, runtime errors, missing images, undersized controls or axe violations. Mobile Lighthouse preview: Performance 100, Accessibility 100, Best Practices 100. SEO scoring intentionally excluded because draft previews are noindex. See evidence/blog/REVIEW.md. These are local/emulated results, not production field measurements.
+
+Needs Pandush's decision: review the two drafts before publication; supply the Google Search Console verification TXT record; provide a GA4 Measurement ID when ready; select keyword-data access/budget. The exact free-work remedy scope and duration remain unspecified, so drafts do not invent terms.
+
 Header logo reduced slightly: 96px desktop and 80px mobile. Footer logo size retained.
 
 ## Background-free original lettering and proof headline

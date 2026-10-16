@@ -11,3 +11,7 @@ reference/
 .agents/
 node_modules/
 evidence/rebuild/frames-*/
+
+.preview/
+content/inputs/
+.env*

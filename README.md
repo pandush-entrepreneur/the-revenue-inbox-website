@@ -30,3 +30,7 @@ The gitignored reference directory contains Copy Master, downloaded font sources
 COPY.md contains the homepage copy deck. case-studies-copy.md is the supplied source. DESIGN.md is the current token/component/motion system. AUDIT.md records baseline and verification. CHANGELOG.md and CHANGES.md record current changes and open facts. Current screenshots, recordings and reports live in evidence/rebuild, excluded from deployment.
 
 Tracking uses data-event/data-location attributes and the revenue-inbox:event DOM CustomEvent. There is no analytics provider or tracking network request. Calendly/Vimeo are loaded on visitor action.
+
+## Blog development
+
+Start with SEO-START-HERE.md for Google connections and EDITORIAL.md for the weekly workflow. Project skills and compatibility are documented in SKILLS.md. Reproduce the selected skill files with `python tools/install-project-skills.py`. The blog build is `python tools/build-site.py --preview`; serve `.preview/blog` on port4180. The public build excludes draft/review articles, RSS and sitemap entries until actual founder approval is recorded. Run `python tools/test-blog-publication.py` and `python tools/check-blog-output.py` before release. GitHub Actions runs those checks, without automatic publishing.

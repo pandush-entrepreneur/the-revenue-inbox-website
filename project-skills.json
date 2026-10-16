@@ -1,0 +1,119 @@
+{
+  "installedAt": "2026-10-16",
+  "scope": "project",
+  "directory": ".agents/skills",
+  "skills": [
+    {
+      "name": "content-strategy",
+      "repo": "coreyhaines31/marketingskills",
+      "observedCommit": "365b412152b9542499ca1439426f7fc3cc92bb65",
+      "path": "skills/content-strategy",
+      "skillSha256": "dce9f4027ae129691e92623541a360bee9356137a7eecf68afa95674af118e68"
+    },
+    {
+      "name": "customer-research",
+      "repo": "coreyhaines31/marketingskills",
+      "observedCommit": "365b412152b9542499ca1439426f7fc3cc92bb65",
+      "path": "skills/customer-research",
+      "skillSha256": "905e65e67268448d88b3b96cf045c6b3615cdd87c1060e129b148a31aa627669"
+    },
+    {
+      "name": "product-marketing",
+      "repo": "coreyhaines31/marketingskills",
+      "observedCommit": "365b412152b9542499ca1439426f7fc3cc92bb65",
+      "path": "skills/product-marketing",
+      "skillSha256": "19ece0fa75c72a5a8b6e90db80f506586f54cc93bae6bffbb1bd2ef4ae7d603c"
+    },
+    {
+      "name": "site-architecture",
+      "repo": "coreyhaines31/marketingskills",
+      "observedCommit": "365b412152b9542499ca1439426f7fc3cc92bb65",
+      "path": "skills/site-architecture",
+      "skillSha256": "55c0128ac29f628944444f8850b97913517f57131673824ebcad4d5ffb26ddd2"
+    },
+    {
+      "name": "copy-editing",
+      "repo": "coreyhaines31/marketingskills",
+      "observedCommit": "365b412152b9542499ca1439426f7fc3cc92bb65",
+      "path": "skills/copy-editing",
+      "skillSha256": "2a072606d9d5662509ea6ef62c65719487dcb68876acab9286bde4d1af5c030f"
+    },
+    {
+      "name": "competitors",
+      "repo": "coreyhaines31/marketingskills",
+      "observedCommit": "365b412152b9542499ca1439426f7fc3cc92bb65",
+      "path": "skills/competitors",
+      "skillSha256": "ff77b76dfe43158b2fc248bb8c41fe94745d1264abb0a0c665b2c55318287a35"
+    },
+    {
+      "name": "analytics",
+      "repo": "coreyhaines31/marketingskills",
+      "observedCommit": "365b412152b9542499ca1439426f7fc3cc92bb65",
+      "path": "skills/analytics",
+      "skillSha256": "100dc960adeb471bb79275133eaeaf05b5d3c95e96598b3c03cac5a3d8e43d5c"
+    },
+    {
+      "name": "blog",
+      "repo": "AgriciDaniel/claude-blog",
+      "observedCommit": "354442348815a7f0327077ad89af2c43cf4b4ab4",
+      "path": "skills/blog",
+      "skillSha256": "ac016f3708ffd6a22bbccbbc341e43029ffcc5e54fea03923e4a993e9960e629"
+    },
+    {
+      "name": "blog-brief",
+      "repo": "AgriciDaniel/claude-blog",
+      "observedCommit": "354442348815a7f0327077ad89af2c43cf4b4ab4",
+      "path": "skills/blog-brief",
+      "skillSha256": "7d1deb02653ccf5bcc09c64b6a23214d18b837d4279e363c55a2312fc25f0444"
+    },
+    {
+      "name": "blog-write",
+      "repo": "AgriciDaniel/claude-blog",
+      "observedCommit": "354442348815a7f0327077ad89af2c43cf4b4ab4",
+      "path": "skills/blog-write",
+      "skillSha256": "d1d8e754327f3834a4848c30d84b56af8d28c97af51d59df22ee2603311b387f"
+    },
+    {
+      "name": "blog-factcheck",
+      "repo": "AgriciDaniel/claude-blog",
+      "observedCommit": "354442348815a7f0327077ad89af2c43cf4b4ab4",
+      "path": "skills/blog-factcheck",
+      "skillSha256": "1917cd8979fbf025990556adf4142309b2339d34ad69fdae2febe351d3ed4321"
+    },
+    {
+      "name": "blog-seo-check",
+      "repo": "AgriciDaniel/claude-blog",
+      "observedCommit": "354442348815a7f0327077ad89af2c43cf4b4ab4",
+      "path": "skills/blog-seo-check",
+      "skillSha256": "b9153fd87fef1d2a707c3ac2924774760e98e54db8ff04250690a58f80b6ffb4"
+    },
+    {
+      "name": "blog-decay",
+      "repo": "AgriciDaniel/claude-blog",
+      "observedCommit": "354442348815a7f0327077ad89af2c43cf4b4ab4",
+      "path": "skills/blog-decay",
+      "skillSha256": "cb12e69ed833702bdb90a27e140db9a32e118f9b2bbe328be08179b4357e57e6"
+    },
+    {
+      "name": "seo",
+      "repo": "AgriciDaniel/claude-seo",
+      "observedCommit": "4b99de2f7de7e7d5247042e5fb5b4ea9368ef734",
+      "path": "skills/seo",
+      "skillSha256": "8b0248e5cb76b0cfa7d2de7fc52ed41c6b565ebc62d3cc7262810dfa9692ca06"
+    },
+    {
+      "name": "seo-technical",
+      "repo": "AgriciDaniel/claude-seo",
+      "observedCommit": "4b99de2f7de7e7d5247042e5fb5b4ea9368ef734",
+      "path": "skills/seo-technical",
+      "skillSha256": "37ccc4b03e5ad813f337150217fff7568cb3eab15b937ea1e37fa975f825b1cc"
+    },
+    {
+      "name": "seo-schema",
+      "repo": "AgriciDaniel/claude-seo",
+      "observedCommit": "4b99de2f7de7e7d5247042e5fb5b4ea9368ef734",
+      "path": "skills/seo-schema",
+      "skillSha256": "91a5a7b33cd1dca1c1e948556735352696c1e77e63af56f01cd723eac7bd519a"
+    }
+  ]
+}
