@@ -1,0 +1,19 @@
+{
+  "production": true,
+  "tagCount": 1,
+  "config": [
+    "G-7B80MZJWGJ"
+  ],
+  "network": [
+    {
+      "status": 204,
+      "measurementId": "G-7B80MZJWGJ",
+      "event": "page_view",
+      "postEvents": []
+    }
+  ],
+  "errors": [],
+  "calendarLoadsOnClick": true,
+  "bookingCompletionTestedWithRealAppointment": false,
+  "ga4AccountRealtimeInspected": false
+}

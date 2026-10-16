@@ -23,6 +23,8 @@ Every custom event includes page_path and send_to. Slider events are debounced f
 
 Calendly's official JavaScript embed loads only after a booking click. It emits the documented scheduled event. The parent validates origin and iframe source and deduplicates the event identifier in memory. The identifier is not sent to GA4. Script failure falls back to the direct iframe; that fallback and direct external bookings do not have verified completion tracking. A browser-reported booking is not an attended or ICP-qualified meeting. Real completion receipt still needs confirmation from an actual booking in GA4; tests do not create appointments.
 
+Production verification on 16 October 2026: the live page loaded exactly one tag/config for G-7B80MZJWGJ; Google collection returned HTTP 204 for page_view. The official calendar loaded on click, with no runtime errors. This verifies browser transport, not private GA4 Realtime reports or a genuine completed booking. Evidence: evidence/google-setup/production.json.
+
 ## Search Console
 
 Pandush reports that the Domain property `therevenueinbox.com` is already verified under the account described as pandushlice.com. Public DNS was independently checked on 16 October 2026 and contains the exact supplied verification record. No DNS record, ownership or Google account was changed. DNS presence alone does not grant this agent access to private Search Console reports.
