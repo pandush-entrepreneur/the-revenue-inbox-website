@@ -1,3 +1,13 @@
+Quick-fix verification: 96 layout/browser checks passed, zero axe violations, zero small targets. Final header tested again at eight Chrome widths and 390/1440 in Firefox/WebKit; CTA stays above the fold and no horizontal overflow.
+
+## Original logo and trust strip corrections
+
+Restored the exact supplied logo artwork instead of the redrawn wordmark and IN favicon. Optimized lossless WebP for the site; original PNG retained. CSS rounds the corners and crops unused gradient margins for legibility. Touch icons, favicons and OG badges now use the actual logo too.
+
+Replaced all hero campaign-email snippets with original generic demo copy, including its initial HTML and reduced-motion fallback. Case-study emails remain unchanged.
+
+Prepared faithful monochrome SVG versions of the supplied client logos with transparent backgrounds. Removed the global invert/blend behavior that created black rectangular patches. Reviewed desktop/mobile hero and trust-strip screenshots.
+
 # Rebuild, 16 October 2026
 
 Rebuilt the homepage as a dark, native outbound workspace. Rewrote the copy, retained the brand palette and stacked logo identity, and used the approved promise: 20 qualified meetings in 30 days from campaign launch, or we work for free. The footer pricing microcopy remains removed.

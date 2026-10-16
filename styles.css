@@ -266,3 +266,10 @@ input[type=range]{width:100%;height:44px;accent-color:var(--primary);cursor:poin
 @media(max-width:767px){.dashboard .dash-window{flex-direction:column;gap:8px}.dashboard .dash-window>span{max-width:none}.dashboard .dash-window>span:last-child{text-align:left}.dashboard .chart-note{line-height:1.7}.dashboard .kpi dt{min-height:38px}.chart-source{font-size:11px}}
 
 .feed-viewport.is-filtered{height:auto}.feed-viewport.is-filtered ul[aria-hidden=true]{display:none}
+
+/* Original supplied logo, with its own gradient and unchanged lettering. */
+.brand img{width:112px;height:64px;object-fit:cover;border-radius:10px}
+.footer-top>.brand img{width:144px;height:84px;border-radius:14px}
+.logo-strip img{filter:none;mix-blend-mode:normal;opacity:.72}
+.logo-strip img:hover{filter:none;opacity:1}
+@media(max-width:767px){.brand img{width:88px;height:52px;border-radius:8px}}

@@ -1,3 +1,11 @@
+## Original logo and trust strip corrections
+
+Restored the exact supplied logo artwork instead of the redrawn wordmark and IN favicon. Optimized lossless WebP for the site; original PNG retained. CSS rounds the corners and crops unused gradient margins for legibility. Touch icons, favicons and OG badges now use the actual logo too.
+
+Replaced all hero campaign-email snippets with original generic demo copy, including its initial HTML and reduced-motion fallback. Case-study emails remain unchanged.
+
+Prepared faithful monochrome SVG versions of the supplied client logos with transparent backgrounds. Removed the global invert/blend behavior that created black rectangular patches. Reviewed desktop/mobile hero and trust-strip screenshots.
+
 Production follow-up: direct301 routing verified; live mobile Lighthouse97/100/100/100. See CHANGELOG.md and evidence/rebuild/production-final.json.
 
 # Rebuild, 16 October 2026

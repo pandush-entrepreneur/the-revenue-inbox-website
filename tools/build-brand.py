@@ -5,26 +5,20 @@ from fontTools.pens.svgPathPen import SVGPathPen
 from fontTools.pens.transformPen import TransformPen
 from PIL import Image,ImageDraw,ImageFont,ImageFilter
 ROOT=Path(__file__).resolve().parents[1];B=ROOT/'assets'/'brand';B.mkdir(exist_ok=True)
-font=TTFont(ROOT/'reference'/'Anton-Regular.ttf');glyphs=font.getGlyphSet();cmap=font.getBestCmap();upm=font['head'].unitsPerEm
-def word(text,x,y,size):
-    pen=SVGPathPen(glyphs);cursor=0
-    for ch in text:
-        name=cmap.get(ord(ch));g=glyphs[name]
-        g.draw(TransformPen(pen,(size/upm,0,0,-size/upm,x+cursor,y)))
-        cursor+=g.width*size/upm
-    return pen.getCommands()
-paths=[word('THE',3,58,28),word('REVENUE',55,58,62),word('INBOX',0,165,124)]
-for mode,fill in [('dark','#ffffff'),('light','#161122')]:
-    body=''.join(f'<path d="{d}" fill="{fill}"/>' for d in paths)
-    svg=f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 176" role="img" aria-label="The Revenue Inbox"><title>The Revenue Inbox</title>{body}</svg>'
-    (B/f'logo-{mode}.svg').write_text(svg,encoding='utf8')
-body=''.join(f'<path d="{d}" fill="#ffffff"/>' for d in paths)
-(B/'logo-glow.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -20 370 216"><title>The Revenue Inbox</title><defs><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="7"/></filter></defs><g opacity=".2" filter="url(#glow)" fill="#8a40ea">{body}</g>{body}</svg>',encoding='utf8')
-mark=word('IN',36,196,190)
-(B/'favicon.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><title>The Revenue Inbox</title><rect width="256" height="256" rx="44" fill="#8a40ea"/><path d="{mark}" fill="#fff"/></svg>',encoding='utf8')
-anton=ImageFont.truetype(str(ROOT/'reference'/'Anton-Regular.ttf'),190)
+# Preserve the supplied artwork exactly. Format conversion and CSS rounding only.
+import base64,shutil
+original=ROOT/'The Revenue - 1.png'
+shutil.copyfile(original,B/'logo-original.png')
+logo=Image.open(original).convert('RGBA')
+logo.save(B/'logo-original.webp',lossless=True,method=6)
+encoded=base64.b64encode(original.read_bytes()).decode()
+for mode in ['dark','light','glow']:
+    (B/f'logo-{mode}.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500"><title>The Revenue Inbox</title><defs><clipPath id="round"><rect width="500" height="500" rx="72"/></clipPath></defs><image width="500" height="500" clip-path="url(#round)" href="data:image/png;base64,{encoded}"/></svg>',encoding='utf8')
 for size,name in [(32,'favicon-32.png'),(180,'apple-touch-icon.png'),(192,'icon-192.png'),(512,'icon-512.png')]:
-    im=Image.new('RGBA',(512,512),(0,0,0,0));d=ImageDraw.Draw(im);d.rounded_rectangle((0,0,511,511),radius=88,fill='#8a40ea');f=ImageFont.truetype(str(ROOT/'reference'/'Anton-Regular.ttf'),380);d.text((74,40),'IN',font=f,fill='white');im.resize((size,size),Image.Resampling.LANCZOS).save(B/name)
+    im=logo.resize((size,size),Image.Resampling.LANCZOS)
+    mask=Image.new('L',(size,size));ImageDraw.Draw(mask).rounded_rectangle((0,0,size-1,size-1),radius=round(size*.14),fill=255)
+    im.putalpha(mask);im.save(B/name)
+(B/'favicon.svg').write_bytes((B/'logo-dark.svg').read_bytes())
 Image.open(B/'icon-192.png').save(ROOT/'favicon.ico',sizes=[(16,16),(32,32),(48,48)])
 for index in [0,6]:
     f=TTFont(ROOT/'assets'/f'font-{index}.woff2');f.flavor=None;f.save(ROOT/'reference'/f'font-{index}.ttf')
@@ -37,8 +31,8 @@ for key,big,title,label in cards:
     for x in range(0,1200,60):d.line((x,0,x,630),fill='#21182f')
     for y in range(0,630,60):d.line((0,y,1200,y),fill='#21182f')
     glow=Image.new('RGBA',im.size);g=ImageDraw.Draw(glow);g.ellipse((650,-280,1400,470),fill=(138,64,234,36));glow=glow.filter(ImageFilter.GaussianBlur(110));im=Image.alpha_composite(im.convert('RGBA'),glow).convert('RGB');d=ImageDraw.Draw(im)
-    d.rounded_rectangle((64,64,105,105),radius=9,fill='#8a40ea');d.text((74,67),'IN',font=ImageFont.truetype(str(ROOT/'reference'/'Anton-Regular.ttf'),28),fill='white')
-    d.text((122,64),'The Revenue Inbox',font=ImageFont.truetype(face,28),fill='#ffffff');d.text((64,167),label,font=ImageFont.truetype(bodyface,24),fill='#d6d0de')
+    badge=Image.open(B/'icon-192.png').resize((64,64),Image.Resampling.LANCZOS);im.paste(badge,(64,54),badge);d=ImageDraw.Draw(im)
+    d.text((146,64),'The Revenue Inbox',font=ImageFont.truetype(face,28),fill='#ffffff');d.text((64,167),label,font=ImageFont.truetype(bodyface,24),fill='#d6d0de')
     fs=82 if len(big)>12 else 114
     while d.textbbox((0,0),big,font=ImageFont.truetype(face,fs))[2]>1070:fs-=2
     d.text((58,217),big,font=ImageFont.truetype(face,fs),fill='#ffffff')
@@ -51,4 +45,4 @@ for key,big,title,label in cards:
     d.text((64,548),'therevenueinbox.com',font=ImageFont.truetype(bodyface,22),fill='#d6d0de')
     d.line((64,518,1136,518),fill='#4b1d8f',width=2)
     im.save(og/f'{key}.png',optimize=True)
-print('Built outlined logo variants, favicon family and eight 1200x630 OG cards.')
+print('Preserved original logo artwork in optimized formats, favicon family and eight OG cards.')

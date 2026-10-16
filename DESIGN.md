@@ -39,11 +39,11 @@ Spacing follows 4, 8, 12, 16, 24, 32, 48, 64, 96, 128px. Desktop sections use 12
 
 ## Brand assets
 
-The condensed, stacked THE REVENUE INBOX wordmark retains the original identity. Anton outlines remove font dependencies from the SVG. Light, dark and restrained glow variants live in assets/brand. The monogram supplies SVG/PNG/ICO favicons and touch icons. The licensed font source is recorded in anton-OFL.txt. Client logos come from existing assets or the clients' own websites. Never redraw their names into invented marks.
+Use the actual supplied The Revenue - 1.png artwork. Its lettering and purple gradient are unchanged. Lossless WebP is the website format; PNG preserves the source. The header/footer use an optical crop of gradient-only margins with CSS object-fit:cover and soft 8?14px corners. SVG compatibility variants embed the original artwork instead of redrawing it. Favicons, touch icons and OG badges use the same original logo, never the substituted IN monogram. Client logos come from existing assets or the clients' own websites. Never redraw their names into invented marks.
 
 ## Components
 
-- **Revenue scene:** native compose card, inbox row, interested reply, calendar slot and the real Networked 81-meeting result. No fake person or company identity. First lines rotate from the supplied campaigns. The CTA precedes the graphic on mobile.
+- **Revenue scene:** native compose card, inbox row, interested reply, calendar slot and the real Networked 81-meeting result. No fake person or company identity. First lines rotate through original generic demo copy. Never use case-study email lines in the hero. The CTA precedes the graphic on mobile.
 - **System pipeline:** five readable steps connected by one scroll-linked rule. Dedicated infrastructure and the five-minute response handoff are visible mechanisms. Mobile stacks the same complete content.
 - **Case card:** client identity, large source result, mini dashboard, source metric chips and one whole-card link. Source order remains fixed. Index filters expose All, SaaS, Hard markets, Fundraising and Recruitment.
 - **Dashboard:** campaign-window label, static source KPIs, chart, explicitly labeled funnel conversions, representative role-based activity and Running/Completed status. Charts reconstruct aggregate totals and the supplied ramp profile. SVG descriptions disclose this. Relative day/week labels avoid invented dates. Funnel widths use a stated square-root scale, with exact counts and rates beside each stage. No invented vertical splits. Spotlight controls filter representative activity while retaining aggregate totals.
@@ -70,3 +70,5 @@ One H1 per page. Native landmarks, links, buttons, range inputs and details cont
 ## Brief-specific taste decisions
 
 The user's explicit dark-first purple direction authorizes soft brand glows, restrained gradient borders, dashboard grids and small mono labels. These are narrow exceptions to generic anti-template taste warnings. Repeated decoration, fake analytics, stock images, holographic objects and unrelated colors remain excluded. The source case narratives override generic copy patterns; the user-approved GraiAI guarantee correction is the sole factual source-copy exception.
+
+Client strip assets use SVG-native luminance-to-alpha normalization of the supplied logos. The white rectangular image backgrounds disappear, with original contours retained in monochrome. Display these prepared assets without invert or blend-mode filters; animate opacity/transform only.

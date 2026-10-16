@@ -1,7 +1,8 @@
 {
-  "wordmark": "Original stacked logo identity redrawn with Anton glyph outlines. Font source: Google Fonts ofl/anton, SIL Open Font License in anton-OFL.txt.",
+  "wordmark": "Actual supplied The Revenue - 1.png artwork, unchanged lettering and gradient. Lossless WebP, original PNG, embedded-image SVG compatibility variants. CSS crops gradient margins only and rounds corners.",
   "og": "Native Pillow composition using existing Manrope and DM Sans font assets. No generated raster art.",
   "parking": "https://cpa-smartparking.b-cdn.net/newLogo.png linked by parkingcompliancesystems.com",
   "skyhigh": "https://www.skyhighcreatives.com/assets/home/sh-logo-white.svg",
-  "graiai": "Existing client-grail.svg from grailai.io. Source narrative spells the client GraiAI; no unapproved rename was made."
+  "graiai": "Existing client-grail.svg from grailai.io. Source narrative spells the client GraiAI; no unapproved rename was made.",
+  "client-display": "Original logo contours rendered as white via SVG-native luminance-to-alpha. White rectangular backgrounds removed without a global invert/blend effect."
 }

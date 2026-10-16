@@ -105,7 +105,7 @@
   if(hero){
    gsap.fromTo('.hero-copy h1>span',{y:12},{y:0,duration:.4,stagger:.07,ease:'power3.out'});
    const scene=$('.revenue-scene'),typing=$('[data-typing]'),counter=$('[data-scene-count]');let cycle=0;
-   const firstLines=['Would a finished piece on {company} be of use?','Quick one - do you own the lot on {address}?','Interested in an AI research agent?'];
+   const firstLines=['Your next customer should already be on the calendar.','You built the product. We can put buyers in the room.','The right person. A reason to reply. Your next call.'];
    const replies=['Interested. What does your calendar look like Thursday?','That sounds relevant. Can we speak Thursday?','Happy to hear more. Are you free Friday?'];
    const slots=['Thu 10:00','Thu 14:00','Fri 11:00'];
    const chars={n:0},count={n:80};
@@ -144,7 +144,7 @@
   return()=>{
    owned.forEach(row=>{row.animation.kill();const index=loops.indexOf(row);if(index>=0)loops.splice(index,1);});
    if(counter)counter.textContent='1,000+';if($('[data-scene-count]'))$('[data-scene-count]').textContent='81';
-   if($('[data-typing]'))$('[data-typing]').textContent='Would a finished piece on {company} be of use?';
+   if($('[data-typing]'))$('[data-typing]').textContent='Your next customer should already be on the calendar.';
    $$('.kpi dd[data-final]').forEach(el=>el.textContent=el.dataset.final);
    $$('.feed-motion').forEach(wrapper=>{const feed=wrapper.parentElement,list=$('ul',wrapper);wrapper.replaceWith(list);feed.classList.remove('is-running');});
    gsap.set('.scene-compose,.flying-mail,.inbox-target,.inbox-open,.reply-bubble,.booked-slot,.chart-draw,.dash-track i,.pipeline-connector i',{clearProps:'all'});

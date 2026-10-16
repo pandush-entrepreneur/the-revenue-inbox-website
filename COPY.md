@@ -32,7 +32,7 @@ The 30-day clock starts when campaigns go live.
 
 Trusted by teams including [existing real client wordmarks].
 
-The hero graphic uses snippets from the supplied campaign emails, the requested interested-reply and Thursday-calendar sequence, and the reported 81-meeting Networked month. It has no invented person or company identity, no live badge and no zero-valued initial metric.
+The hero graphic uses original generic demo lines, the interested-reply and Thursday-calendar sequence, and the reported 81-meeting Networked month. Demo lines: Your next customer should already be on the calendar. / You built the product. We can put buyers in the room. / The right person. A reason to reply. Your next call. It has no invented person or company identity, no live badge and no zero-valued initial metric.
 
 ## 2. Problem
 
