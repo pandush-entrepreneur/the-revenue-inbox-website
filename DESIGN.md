@@ -39,7 +39,7 @@ Spacing follows 4, 8, 12, 16, 24, 32, 48, 64, 96, 128px. Desktop sections use 12
 
 ## Brand assets
 
-The website wordmark is a clean vector trace of the actual lettering in The Revenue - 1.png. Its glyph shapes, THE placement, kerning, line proportions and overall composition follow the source artwork directly. The purple gradient is removed. Use wordmark-white.svg on dark surfaces and logo-light.svg on light surfaces. The source image and lossless conversion remain archived. Header width is 108px desktop and 88px mobile; object-fit:contain preserves the full lettering. No cropping or gradient tile surrounds the displayed wordmark. Favicons and OG cards use the same source lettering; favicon exports use a neutral solid ground for legibility. No replacement typeface or invented monogram. Client logos come from existing assets or the clients' own websites. Never redraw their names into invented marks.
+The website wordmark is a clean vector trace of the actual lettering in The Revenue - 1.png. Its glyph shapes, THE placement, kerning, line proportions and overall composition follow the source artwork directly. The purple gradient is removed. Use wordmark-white.svg on dark surfaces and logo-light.svg on light surfaces. The source image and lossless conversion remain archived. Header width is 96px desktop and 80px mobile; object-fit:contain preserves the full lettering. No cropping or gradient tile surrounds the displayed wordmark. Favicons and OG cards use the same source lettering; favicon exports use a neutral solid ground for legibility. No replacement typeface or invented monogram. Client logos come from existing assets or the clients' own websites. Never redraw their names into invented marks.
 
 ## Components
 

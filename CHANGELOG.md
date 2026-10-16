@@ -1,3 +1,5 @@
+Header logo reduced slightly: 96px desktop and 80px mobile. Footer logo size retained.
+
 ## Background-free original lettering and proof headline
 
 Replaced the gradient logo tile with a clean SVG wordmark traced directly from the original artwork. Letter shapes, spacing and stacked composition now follow the source rather than a guessed typeface. Header, footer, favicon and social cards use the matching lettering. New asset URLs refresh the browser's cached logo.
