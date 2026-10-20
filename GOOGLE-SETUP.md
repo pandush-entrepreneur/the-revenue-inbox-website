@@ -2,7 +2,7 @@
 
 ## Website implementation
 
-Measurement ID: `G-7B80MZJWGJ`, supplied by Pandush. The shared page builder includes analytics.js on the homepage, case pages, blog and author pages. The runtime activates only on therevenueinbox.com/www.therevenueinbox.com and skips noindex documents. Local and review traffic is excluded. A single GA4 config command supplies the automatic page view; there is no second manual page_view.
+Measurement ID: `G-JFJG3QGC6L` (live property "The Revenue Inbox", corrected 2026-10-17 after the site was pointed at an empty duplicate property). The shared page builder includes analytics.js on the homepage, case pages, blog and author pages. The runtime activates only on therevenueinbox.com/www.therevenueinbox.com and skips noindex documents. Local and review traffic is excluded. A single GA4 config command supplies the automatic page view; there is no second manual page_view.
 
 Custom events use the site's existing event bus:
 
@@ -39,7 +39,7 @@ In the owning Google account, complete these steps, or give the same checklist t
 
 1. Search Console: select the existing Domain property. In Sitemaps, inspect the existing submission first. If absent, submit `https://www.therevenueinbox.com/sitemap.xml`; if already successful, leave it. Record the submitted/last-read status and any errors.
 2. Inspect the homepage, /blog and a published article with URL Inspection. Record index status, Google-selected canonical and crawl status. Request indexing for a small number of newly published URLs if needed; do not repeatedly submit every URL.
-3. GA4: open the property whose Web stream Measurement ID is `G-7B80MZJWGJ`. Verify a real visit in Realtime/DebugView. Do not treat successful browser transport alone as proof of the correct property's report contents.
+3. GA4: open the property whose Web stream Measurement ID is `G-JFJG3QGC6L`. Verify a real visit in Realtime/DebugView. Do not treat successful browser transport alone as proof of the correct property's report contents.
 4. In GA4 Admin > Product links > Search Console Links, link the verified Domain property to the matching Web stream. An existing correct link should be retained. This needs the appropriate GA4 Editor/verified-owner permissions.
 5. In GA4's event/key-event administration, configure `strategy_call_booked` as a key event. Keep cta_click as a secondary action; do not label it an appointment. Confirm a genuine booking later, without creating fake appointments for analytics tests.
 6. If desired, publish GA4's Search Console report collection from Reports > Library. Linking does not automatically make that collection visible.

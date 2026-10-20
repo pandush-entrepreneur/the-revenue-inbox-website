@@ -15,7 +15,7 @@ try{
  await page.route('https://calendly.com/**',route=>route.fulfill({contentType:'text/html',body:'<!doctype html><html><body>Calendar test frame</body></html>'}));
  await page.goto('https://www.therevenueinbox.com/?email=private@example.com&utm_source=qa');await page.waitForFunction(()=>window.googleTagLoaded);
  assert.equal(widgets,0);assert.equal(tags,1);
- const config=await page.evaluate(()=>Array.from(dataLayer.find(x=>x[0]==='config')));assert.equal(config[1],'G-7B80MZJWGJ');assert(!config[2].page_location.includes('email='));assert(config[2].page_location.includes('utm_source=qa'));
+ const config=await page.evaluate(()=>Array.from(dataLayer.find(x=>x[0]==='config')));assert.equal(config[1],'G-JFJG3QGC6L');assert(!config[2].page_location.includes('email='));assert(config[2].page_location.includes('utm_source=qa'));
  await page.locator('.hero-copy a[data-event="cta_click"]').click();await page.waitForSelector('.booking-embed iframe');assert.equal(widgets,1);
  const handle=await page.locator('.booking-embed iframe').elementHandle();const frame=await handle.contentFrame();await frame.waitForURL('https://calendly.com/mock');assert(frame);
  const message={event:'calendly.event_scheduled',payload:{event:{uri:'https://api.calendly.com/scheduled_events/test-only'},invitee:{email:'private@example.com'}}};
