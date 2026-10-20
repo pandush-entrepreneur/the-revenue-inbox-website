@@ -101,8 +101,14 @@ The homepage has no standalone commitment section. Pricing flows directly into t
 
 Section-heading owns its paragraph margins; children do not contribute an accidental second bottom margin. The process pipeline has no competing top margin. FAQ heading-to-list spacing uses the same intro token on mobile. Headings remain on the established left edge; only content that was already intended to be centered is centered. Do not center all text in pursuit of symmetry.
 
-On the homepage, math, case studies and testimonials share plain-surface transitions, as do the founders and FAQ. Bordered surface transitions keep equal insets either side. Hero and trust strip retain their intentional compact presentation. Page-intro top padding remains 40px desktop/24px mobile; dense dashboard/table spacing remains appropriate to its smaller UI scale.
+On the homepage, math, case studies and testimonials share plain-surface transitions. The founders and FAQ are separated by a fine rule, with a full section inset on each side. Bordered surface transitions keep equal insets either side. Hero and trust strip retain their intentional compact presentation. Page-intro top padding remains 40px desktop/24px mobile; dense dashboard/table spacing remains appropriate to its smaller UI scale.
 
 Blog reading layout: 240px contents rail, 64px gap and 760px reading column, centered as a 1064px group. Below 1100px, use a 200px rail and 40px gap; mobile stacks. Covers use the exact reading-column width and edges, not a separate wider measure. Author biographies and their article collections share one section interval; collection headings receive the shared intro gap. Source-divider padding is explicit rather than padding plus a heading margin.
 
 Founder biography links and nonfeatured article-card reading links align at the bottom of their paired content areas without constraining copy length. Footer legal-divider spacing is equal above and below. Screenshots and before/after computed measurements are in evidence/spacing.
+
+## Team and FAQ revision, 20 October 2026
+
+Team profiles use two equal panels with 24px between them. Each panel places a portrait beside the name and role, then a full-width biography and LinkedIn link below. Panel padding is 32px desktop, 28px tablet and 24px mobile. Portraits retain their 4:5 ratio at 128px desktop, 104px tablet and 88px mobile. Profiles stack below 768px. Bios are 16px desktop and 15px mobile.
+
+The FAQ is one left-aligned reading column within a centered 960px group. The heading sits above the questions with the shared intro gap and wraps naturally. Native details controls retain all nine answers; question rows have fine separators and a circular plus control. Answer text uses 16px desktop and 15px mobile. Screenshots and responsive/accessibility checks are in evidence/team-faq-v2.
