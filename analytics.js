@@ -2,7 +2,7 @@
 (() => {
  'use strict';
  if(!['therevenueinbox.com','www.therevenueinbox.com'].includes(location.hostname)||document.querySelector('meta[name="robots"]')?.content.includes('noindex'))return;
- const id='G-7B80MZJWGJ';
+ const id='G-JFJG3QGC6L';
  if(window.revenueInboxAnalyticsReady)return;
  window.revenueInboxAnalyticsReady=true;
  window.dataLayer=window.dataLayer||[];
