@@ -132,7 +132,7 @@ def build_cold_email_agency():
     requirements = section(
         'requirements',
         '<div class="svc-requirements"><div>'
-        + f'<p class="eyebrow">What we need from you</p><h2>{e(req["title"])}</h2><p class="lead">{e(req["intro"])}</p>'
+        + f'<p class="eyebrow">Working together</p><h2>{e(req["title"])}</h2><p class="lead">{e(req["intro"])}</p>'
         + '</div><div><ul class="svc-req-list">'
         + ''.join(f'<li><strong>{e(item["title"])}</strong><p>{e(item["body"])}</p></li>' for item in req['items'])
         + '</ul><div class="svc-notfit"><h3>Not a fit</h3><ul>'
@@ -150,7 +150,7 @@ def build_cold_email_agency():
         + f'<div class="svc-rate-grid"><div class="svc-rate"><span class="mono">Base fee</span><strong>{e(price["infra_amount"])}</strong><span>{e(price["infra_unit"])}</span><small>{e(price["infra_note"])}</small></div><div class="svc-rate"><span class="mono">Performance fee</span><strong>{e(price["appt_amount"])}</strong><span>{e(price["appt_unit"])}</span><small>{e(price["appt_note"])}</small></div></div>'
         + f'<p class="micro">{e(price["terms"])}</p>'
         + '</div><div>'
-        + f'<p class="svc-price-example">{e(price["example"])}</p>'
+        + f'<p class="svc-price-example">{e(price["example"]).replace("$3,500", "<strong>$3,500</strong>")}</p>'
         + '<div class="svc-price-actions">'
         + cta('cold-email-agency-pricing')
         + f'<a class="text-link" href="{e(price["link"])}">{e(price["link_label"])} {icon()}</a>'

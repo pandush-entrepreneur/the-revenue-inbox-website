@@ -42,12 +42,12 @@
     },
     {
       "work": "Outreach and replies",
-      "us": "Run email and LinkedIn outreach and answer replies within five minutes, including follow-up until the lead books or says no.",
+      "us": "Run email and LinkedIn outreach and respond to replies within five minutes, including follow-up until the lead books or says no.",
       "you": "Join the calls we book."
     },
     {
       "work": "Meeting booking",
-      "us": "Qualify the interest and put a decision-maker inside the agreed ICP on your calendar.",
+      "us": "Qualify the interest and put a decision-maker within the agreed ICP on your calendar.",
       "you": "Take the sales call."
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "title": "Book the meeting",
-      "body": "A decision-maker inside the agreed ICP, on your calendar, with the context you need for the call."
+      "body": "A decision-maker within the agreed ICP, on your calendar, with the context you need for the call."
     }
   ],
   "requirements": {
@@ -141,7 +141,7 @@
     "infra_note": "Domains, mailboxes, data and sending tools.",
     "appt_amount": "$100",
     "appt_unit": "per qualified booked appointment",
-    "appt_note": "A decision-maker inside the agreed ICP who has agreed to hear the offer.",
+    "appt_note": "A decision-maker within the agreed ICP who has agreed to hear the offer.",
     "terms": "Rolling monthly. No long contract.",
     "example": "At 20 qualified booked appointments in a month: $1,500 base + $2,000 performance = $3,500.",
     "link": "/blog/cold-email-agency-pricing",
@@ -166,7 +166,7 @@
     },
     {
       "q": "What counts as a qualified meeting?",
-      "a": "A booked call with a decision-maker inside the agreed ICP who has agreed to hear the offer. A positive reply is not a qualified meeting. That definition is agreed before the campaign starts and is the one used for the appointment fee and the 30-day promise."
+      "a": "A booked call with a decision-maker within the agreed ICP who has agreed to hear the offer. A positive reply is not a qualified meeting. That definition is agreed before the campaign starts and is the one used for the appointment fee and the 30-day promise."
     },
     {
       "q": "What happens when someone replies?",
