@@ -56,18 +56,30 @@
       "you": "Run the sales process and close."
     }
   ],
-  "campaign": {
-    "label": "Campaign snapshot",
-    "title": "GraiAI, first 21 days",
-    "body": "A cold start. These are the counts from the case study, not a projection.",
+  "reply_flow": {
+    "label": "After the reply",
+    "title": "The reply is where most agencies stop.",
+    "intro": "A positive reply is not a meeting. The work between the two is where this service earns its fee.",
     "steps": [
-      { "value": "45,000", "label": "emails sent" },
-      { "value": "504", "label": "replies, approx." },
-      { "value": "25", "label": "opportunities" },
-      { "value": "12", "label": "qualified meetings" }
+      {
+        "title": "A human replies",
+        "body": "Within five minutes, a person answers the question, handles the objection and checks the fit."
+      },
+      {
+        "title": "We qualify the meeting",
+        "body": "Decision-maker, agreed ICP, and a clear yes to hearing the offer. If it does not meet the definition, it does not count."
+      },
+      {
+        "title": "We book the call",
+        "body": "We propose specific times and confirm the booking with the lead."
+      },
+      {
+        "title": "You get the context",
+        "body": "Before the call, you know who the buyer is, what they asked and why they agreed to talk."
+      }
     ],
-    "link": "/case-studies/graiai",
-    "link_label": "Read the GraiAI case"
+    "link": "/case-studies",
+    "link_label": "Read the campaign case studies"
   },
   "steps": [
     {

@@ -92,27 +92,25 @@ def build_cold_email_agency():
         + '</div>',
     )
 
-    campaign = d['campaign']
-    campaign_body = (
-        f'<div class="svc-campaign"><div class="svc-campaign-head"><h3>{e(campaign["title"])}</h3><p>{e(campaign["body"])}</p></div>'
-        + '<div class="svc-flow">'
-        + ''.join(f'<div><strong>{e(step["value"])}</strong><span>{e(step["label"])}</span></div>' for step in campaign['steps'])
-        + '</div><div class="svc-campaign-foot"><a class="text-link" href="'
-        + e(campaign['link'])
+    reply = d['reply_flow']
+    reply_section = section(
+        'after-reply',
+        '<div class="svc-reply"><div class="svc-reply-head">'
+        + f'<p class="eyebrow">{e(reply["label"])}</p>'
+        + f'<h2>{e(reply["title"])}</h2>'
+        + f'<p class="lead">{e(reply["intro"])}</p>'
+        + '</div><div><ol class="svc-reply-list">'
+        + ''.join(
+            f'<li><span class="mono">{i:02}</span><div><h3>{e(step["title"])}</h3><p>{e(step["body"])}</p></div></li>'
+            for i, step in enumerate(reply['steps'], 1)
+        )
+        + '</ol><a class="text-link svc-reply-link" href="'
+        + e(reply['link'])
         + '">'
-        + e(campaign['link_label'])
+        + e(reply['link_label'])
         + ' '
         + icon()
-        + '</a></div></div>'
-    )
-    campaign_section = section(
-        'campaign',
-        intro(
-            'What the work looks like.',
-            'One campaign, from the first send to the booked meeting. The counts come from the case study, not a projection.',
-            'Campaign snapshot',
-        )
-        + campaign_body,
+        + '</a></div></div>',
     )
 
     steps = section(
@@ -207,7 +205,7 @@ def build_cold_email_agency():
         '/cold-email-agency',
         d['title'],
         d['description'],
-        hero + scope + campaign_section + steps + requirements + pricing + faq + closing(),
+        hero + scope + steps + reply_section + requirements + pricing + faq + closing(),
         og='cold-email-agency',
         schemas=[service, faq_schema, crumbs_schema],
     )
