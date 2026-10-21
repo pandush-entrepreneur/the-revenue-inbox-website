@@ -306,3 +306,78 @@ details[open]>summary svg{transform:rotate(45deg)}
 .case-story>.story-section:last-of-type{margin-bottom:var(--intro-gap)}
 .how-grid>li{display:flex;flex-direction:column;align-items:flex-start}
 .ownership{margin-top:auto}
+
+/* Service page: cold email agency */
+.svc-hero{padding-top:40px}
+.svc-hero-grid{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(320px,.75fr);gap:clamp(32px,5vw,72px);align-items:start}
+.svc-hero-copy .case-subhead{max-width:60ch}
+.svc-hero-actions{display:flex;align-items:center;gap:28px;flex-wrap:wrap;margin-top:32px}
+.svc-scope-card{border:1px solid var(--rule-strong);border-radius:20px;background:linear-gradient(145deg,var(--panel-raised),var(--panel));padding:clamp(24px,3vw,36px);box-shadow:var(--shadow)}
+.svc-scope-card .eyebrow{color:var(--accent);margin:0 0 10px}
+.svc-scope-card h2{font-size:clamp(24px,2.4vw,32px);line-height:1.2;margin:0 0 18px}
+.svc-scope-list{list-style:none;margin:0;padding:0}
+.svc-scope-list li{display:flex;align-items:center;gap:12px;padding:11px 0;border-top:1px solid var(--rule);font-size:15px;line-height:1.45}
+.svc-scope-list svg{width:18px;height:18px;flex:0 0 18px;color:var(--accent)}
+.svc-scope-list svg path{stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+.svc-scope-price{display:flex;flex-direction:column;align-items:flex-start;gap:4px;margin-top:24px;padding-top:20px;border-top:1px solid var(--rule-strong)}
+.svc-scope-price strong{font:600 40px/1 var(--display);letter-spacing:-.04em}
+.svc-scope-price span{font-size:13px;color:var(--muted)}
+.svc-scope-infra{margin:8px 0 0;font-size:15px;color:var(--text)}
+.svc-scope-example{margin:6px 0 0;font-size:13px;color:var(--muted)}
+.svc-scope-promise{margin:18px 0 0;font-size:13px;line-height:1.6;color:var(--accent)}
+.svc-table{border-top:1px solid var(--rule-strong);margin-top:8px}
+.svc-row{display:grid;grid-template-columns:230px minmax(0,1fr) minmax(0,1fr);gap:clamp(16px,3vw,40px);padding:20px 0;border-bottom:1px solid var(--rule);align-items:start}
+.svc-row.svc-head{padding:12px 0;border-bottom:1px solid var(--rule-strong);font:10px/1.6 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.svc-row strong{font:600 16px/1.5 var(--display);letter-spacing:-.01em}
+.svc-row span{font-size:15px;line-height:1.65;color:var(--muted)}
+.svc-campaign{border:1px solid var(--rule-strong);border-radius:20px;background:linear-gradient(145deg,var(--panel-raised),var(--panel));padding:clamp(24px,3.5vw,40px)}
+.svc-campaign-head{display:flex;justify-content:space-between;gap:24px;align-items:end;flex-wrap:wrap;margin-bottom:28px}
+.svc-campaign-head h3{font-size:clamp(22px,2.4vw,32px);line-height:1.2}
+.svc-campaign-head p{font-size:14px;line-height:1.7;color:var(--muted);max-width:54ch;margin:0}
+.svc-flow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.svc-flow>div{padding:16px;border:1px solid var(--rule);border-radius:12px;background:var(--panel)}
+.svc-flow strong{display:block;font:600 clamp(26px,3vw,40px)/1.1 var(--display);letter-spacing:-.04em;font-variant-numeric:tabular-nums}
+.svc-flow span{display:block;margin-top:6px;font-size:12px;line-height:1.5;color:var(--muted)}
+.svc-campaign-foot{display:flex;justify-content:flex-end;gap:24px;align-items:center;flex-wrap:wrap;margin-top:24px;padding-top:20px;border-top:1px solid var(--rule)}
+.svc-steps{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:0 clamp(32px,4vw,64px)}
+.svc-step{padding:24px 0;border-top:1px solid var(--rule)}
+.svc-step .mono{color:var(--accent);font-size:11px}
+.svc-step h3{font-size:20px;margin:8px 0}
+.svc-step p{font-size:15px;line-height:1.7;color:var(--muted);margin:0}
+.svc-requirements{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:clamp(32px,5vw,80px);align-items:start}
+.svc-requirements .lead{font-size:18px;color:var(--muted);line-height:1.7;max-width:46ch}
+.svc-req-list{list-style:none;margin:0;padding:0}
+.svc-req-list li{padding:18px 0;border-top:1px solid var(--rule)}
+.svc-req-list strong{display:block;font:600 17px/1.4 var(--display);margin-bottom:4px}
+.svc-req-list p{font-size:14px;line-height:1.65;color:var(--muted);margin:0}
+.svc-notfit{border-left:2px solid var(--rule-strong);padding-left:24px;margin-top:24px}
+.svc-notfit h3{font-size:14px;margin-bottom:8px}
+.svc-notfit ul{list-style:none;margin:0;padding:0;display:grid;gap:8px;font-size:13px;line-height:1.6;color:var(--muted)}
+.svc-price-band{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:clamp(32px,5vw,72px);border:1px solid var(--rule-strong);border-radius:20px;background:linear-gradient(145deg,var(--panel-raised),var(--panel));padding:clamp(24px,4vw,48px)}
+.svc-price-line{display:none}
+.svc-rate-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:24px 0 20px}
+.svc-rate{border-top:1px solid var(--rule-strong);padding-top:16px}
+.svc-rate .mono{display:block;margin:0 0 10px;font-size:10px;color:var(--accent);letter-spacing:.06em;text-transform:uppercase}
+.svc-rate strong{display:block;font:600 clamp(36px,4vw,52px)/1 var(--display);letter-spacing:-.04em;font-variant-numeric:tabular-nums}
+.svc-rate span{display:block;margin-top:8px;font-size:13px;line-height:1.5;color:var(--muted)}
+.svc-rate small{display:block;margin-top:8px;font-size:13px;line-height:1.6;color:var(--muted);max-width:34ch}
+.svc-price-example{border:1px solid var(--rule-strong);background:color-mix(in srgb,var(--primary) 8%,transparent);padding:14px 18px;border-radius:8px;font-size:14px;line-height:1.7;margin:0 0 24px}
+.svc-price-actions{display:flex;flex-direction:column;align-items:flex-start;gap:14px}
+@media(max-width:960px){
+ .svc-hero-grid,.svc-requirements,.svc-price-band{grid-template-columns:1fr}
+ .svc-scope-card{max-width:620px}
+ .svc-row{grid-template-columns:1fr;gap:8px;padding:18px 0}
+ .svc-row.svc-head{display:none}
+ .svc-row span::before{content:attr(data-label);display:block;font:10px/1.6 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--accent);margin:6px 0 2px}
+ .svc-row strong+span::before{margin-top:0}
+ .svc-steps{grid-template-columns:1fr}
+ .svc-flow{grid-template-columns:1fr 1fr}
+}
+@media(max-width:640px){
+ .svc-hero{padding-top:24px}
+ .svc-hero-actions{gap:18px}
+ .svc-flow{grid-template-columns:1fr}
+ .svc-campaign-head{align-items:flex-start}
+ .svc-rate-grid{grid-template-columns:1fr}
+}
+

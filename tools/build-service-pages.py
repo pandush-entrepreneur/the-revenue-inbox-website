@@ -34,10 +34,8 @@ def build_cold_email_agency():
         mark = Image.open(ROOT / 'assets' / 'brand' / 'logo-lettering.png').resize((150, 80), Image.Resampling.LANCZOS)
         im.paste(mark, (64, 48), mark)
         draw.text((64, 176), 'COLD EMAIL AGENCY', font=ImageFont.truetype(str(font_path), 24), fill='#d6d0de')
-        title = 'Cold email that ends in booked calls.'
         font = ImageFont.truetype(str(font_path), 64)
-        lines = ['Cold email that ends in', 'booked calls.']
-        for i, line in enumerate(lines):
+        for i, line in enumerate(['Cold email that ends in', 'booked calls.']):
             draw.text((60, 244 + i * 82), line, font=font, fill='#f7f5fa')
         draw.line((64, 530, 1136, 530), fill='#8a40ea', width=2)
         draw.text((64, 556), 'therevenueinbox.com', font=ImageFont.truetype(str(font_path), 22), fill='#d6d0de')
@@ -46,105 +44,126 @@ def build_cold_email_agency():
 
     make_og()
 
+    card = d['scope_card']
+    scope_card = (
+        '<aside class="svc-scope-card" aria-labelledby="scope-card-title">'
+        + f'<p class="eyebrow">{e(card["label"])}</p>'
+        + '<h2 id="scope-card-title">One team for the whole outbound job.</h2>'
+        + '<ul class="svc-scope-list">'
+        + ''.join(f'<li>{icon("check")}<span>{e(x)}</span></li>' for x in card['items'])
+        + '</ul>'
+        + f'<div class="svc-scope-price"><strong>{e(card["price"].split(" ")[0])}</strong><span>{" ".join(card["price"].split(" ")[1:])}</span></div>'
+        + f'<p class="svc-scope-infra">{e(card["infra"])}</p>'
+        + f'<p class="svc-scope-example">{e(card["example"])}</p>'
+        + f'<p class="svc-scope-promise">{e(card["promise"])}</p>'
+        + '</aside>'
+    )
+
     hero = section(
         'top',
-        breadcrumb([('Home', '/'), ('Cold email agency', None)])
+        '<div class="svc-hero-grid"><div class="svc-hero-copy">'
+        + breadcrumb([('Home', '/'), ('Cold email agency', None)])
         + f'<p class="eyebrow">{e(d["eyebrow"])}</p>'
         + f'<h1>{e(d["h1"])}</h1>'
         + f'<p class="case-subhead">{e(d["subhead"])}</p>'
-        + '<div class="case-hero-action">'
+        + '<div class="svc-hero-actions">'
         + cta('cold-email-agency-hero')
-        + f'<a class="text-link" href="#what-we-own">See what we own {icon()}</a>'
-        + '</div>'
-        + f'<p class="micro hero-price">{e(d["hero_micro"])}</p>',
-        'case-hero',
+        + f'<a class="text-link" href="#scope">See the scope {icon()}</a>'
+        + '</div></div>'
+        + scope_card
+        + '</div>',
+        'svc-hero',
     )
 
-    ownership = section(
-        'what-we-own',
+    scope_rows = ''.join(
+        f'<div class="svc-row" role="row"><strong role="cell">{e(row["work"])}</strong><span role="cell" data-label="We own">{e(row["us"])}</span><span role="cell" data-label="You own">{e(row["you"])}</span></div>'
+        for row in d['scope_rows']
+    )
+    scope = section(
+        'scope',
         intro(
-            'The work from the list <br>to the booked call.',
-            'A reply is not a meeting. A meeting with the wrong person is not pipeline. These are the four parts we own.',
-            'What we own',
+            'What we do. <br>What stays with you.',
+            'The scope is the offer. This is who owns each part, from the first list to the closed deal.',
+            'Scope',
         )
-        + '<ol class="how-grid">'
+        + '<div class="svc-table" role="table" aria-label="Service scope">'
+        + '<div class="svc-row svc-head" role="row"><span role="columnheader">Workstream</span><span role="columnheader">We own</span><span role="columnheader">You own</span></div>'
+        + scope_rows
+        + '</div>',
+    )
+
+    campaign = d['campaign']
+    campaign_body = (
+        f'<div class="svc-campaign"><div class="svc-campaign-head"><h3>{e(campaign["title"])}</h3><p>{e(campaign["body"])}</p></div>'
+        + '<div class="svc-flow">'
+        + ''.join(f'<div><strong>{e(step["value"])}</strong><span>{e(step["label"])}</span></div>' for step in campaign['steps'])
+        + '</div><div class="svc-campaign-foot"><a class="text-link" href="'
+        + e(campaign['link'])
+        + '">'
+        + e(campaign['link_label'])
+        + ' '
+        + icon()
+        + '</a></div></div>'
+    )
+    campaign_section = section(
+        'campaign',
+        intro(
+            'What the work looks like.',
+            'One campaign, from the first send to the booked meeting. The counts come from the case study, not a projection.',
+            'Campaign snapshot',
+        )
+        + campaign_body,
+    )
+
+    steps = section(
+        'process',
+        intro(
+            'How the work runs.',
+            'Six stages. One owner from the first list to the meeting on your calendar.',
+            'Process',
+        )
+        + '<ol class="svc-steps">'
         + ''.join(
-            f'<li><span class="step-index">{i:02}</span><h3>{e(item["title"])}</h3><p>{e(item["body"])}</p><span class="ownership">{e(item["owner"])}</span></li>'
-            for i, item in enumerate(d['ownership'], 1)
+            f'<li class="svc-step"><span class="mono">{i:02}</span><h3>{e(step["title"])}</h3><p>{e(step["body"])}</p></li>'
+            for i, step in enumerate(d['steps'], 1)
         )
         + '</ol>',
     )
 
-    fit = section(
-        'fit',
-        '<div class="problem-grid"><h2>Who this is for.</h2><div>'
-        '<p class="lead">Outbound works when there is a real buyer, a reason to write and someone ready to take the call. If that is not in place, the campaign will not fix it.</p>'
-        '<h3>A good fit</h3><ul>'
-        + ''.join(f'<li>{e(x)}</li>' for x in d['fit']['for'])
-        + '</ul><h3>Not a good fit</h3><ul>'
-        + ''.join(f'<li>{e(x)}</li>' for x in d['fit']['not_for'])
-        + '</ul></div></div>',
+    req = d['requirements']
+    requirements = section(
+        'requirements',
+        '<div class="svc-requirements"><div>'
+        + f'<p class="eyebrow">What we need from you</p><h2>{e(req["title"])}</h2><p class="lead">{e(req["intro"])}</p>'
+        + '</div><div><ul class="svc-req-list">'
+        + ''.join(f'<li><strong>{e(item["title"])}</strong><p>{e(item["body"])}</p></li>' for item in req['items'])
+        + '</ul><div class="svc-notfit"><h3>Not a fit</h3><ul>'
+        + ''.join(f'<li>{e(x)}</li>' for x in req['not_fit'])
+        + '</ul></div></div></div>',
         'tonal-section',
     )
 
-    proof = section(
-        'proof',
-        intro(
-            'The work, in numbers.',
-            'Every result below comes from a campaign we ran. Open the study to see the email, the funnel and what counted as a result.',
-            'Proof',
-        )
-        + '<div class="proof-strip">'
-        + ''.join(
-            f'<a href="{e(item["href"])}"><strong>{e(item["value"])}</strong><span>{e(item["label"])}</span><small>{e(item["name"])} {icon()}</small></a>'
-            for item in d['proof']
-        )
-        + '</div>',
-    )
-
-    symbols = ['people', 'mail', 'check', 'calendar', 'people']
-    system = section(
-        'system',
-        intro(
-            'One system. <br>Four handoffs we own. You close.',
-            'From the first prospect record to the call on your calendar, the work stays with us. You show up and close.',
-            'How it works',
-        )
-        + '<div class="system-pipeline"><div class="pipeline-connector" aria-hidden="true"><i></i></div>'
-        + ''.join(
-            f'<article class="pipeline-step"><div class="step-symbol">{icon(symbols[i])}</div><h3>{e(step["title"])}</h3><p>{e(step["body"])}</p></article>'
-            for i, step in enumerate(d['system'])
-        )
-        + '</div>',
-        'tonal-section',
-    )
-
-    inclusions = [
-        'A buyer list built around who can actually buy.',
-        'Copy that gives those buyers a reason to reply.',
-        'Sending infrastructure managed on your behalf.',
-        'Email and LinkedIn outreach with replies handled.',
-        'Qualified appointments booked onto your calendar.',
-    ]
+    price = d['pricing']
     pricing = section(
         'pricing',
-        intro(
-            'Pay for qualified appointments. <br>Know the full cost.',
-            d['pricing_intro'],
-            'Pricing',
-        )
-        + f'''<div class="pricing-card"><div class="price-main"><p class="price-line"><strong>$100</strong><span>per booked appointment</span></p><p class="infrastructure-price">+ $1,500/month infrastructure</p><p class="price-terms">Domains, mailboxes, data and sending tools.<br>Rolling monthly. No long contract.</p><div class="price-example">At 20 booked appointments in a month: $2,000 + $1,500 = $3,500.</div><div class="price-slider"><label for="appointment-count">Appointments per month <output for="appointment-count" id="appointments-output">20</output></label><input id="appointment-count" type="range" min="10" max="60" value="20" step="1"><div class="price-calculation" aria-live="polite"><span>Monthly total <b id="monthly-total">$3,500</b></span><span>Effective cost per appointment <b id="effective-cost">$175</b></span></div></div>{cta('cold-email-agency-pricing')}<p class="micro"><a href="/blog/cold-email-agency-pricing">See how the full bill works</a></p></div><div class="price-inclusions"><h3>The outbound job, included.</h3><ul>'''
-        + ''.join(f'<li>{icon("check")}<span>{e(x)}</span></li>' for x in inclusions)
-        + '</ul><a class="text-link" href="#faq">Read the FAQs '
-        + icon()
-        + '</a></div></div>',
+        '<div class="svc-price-band"><div>'
+        + '<p class="eyebrow">Pricing</p>'
+        + f'<h2>{e(price["title"])}</h2>'
+        + f'<div class="svc-rate-grid"><div class="svc-rate"><span class="mono">Base fee</span><strong>{e(price["infra_amount"])}</strong><span>{e(price["infra_unit"])}</span><small>{e(price["infra_note"])}</small></div><div class="svc-rate"><span class="mono">Performance fee</span><strong>{e(price["appt_amount"])}</strong><span>{e(price["appt_unit"])}</span><small>{e(price["appt_note"])}</small></div></div>'
+        + f'<p class="micro">{e(price["terms"])}</p>'
+        + '</div><div>'
+        + f'<p class="svc-price-example">{e(price["example"])}</p>'
+        + '<div class="svc-price-actions">'
+        + cta('cold-email-agency-pricing')
+        + f'<a class="text-link" href="{e(price["link"])}">{e(price["link_label"])} {icon()}</a>'
+        + '</div></div></div>',
         'tonal-section',
     )
 
     faq = section(
         'faq',
         '<div class="faq-layout">'
-        + intro('Questions before the call.')
+        + intro('Questions about the service.')
         + '<div class="faq-list">'
         + ''.join(
             f'<details data-event="faq_open"><summary>{e(item["q"])}{icon("plus")}</summary><div class="faq-answer"><p>{e(item["a"])}</p></div></details>'
@@ -188,7 +207,7 @@ def build_cold_email_agency():
         '/cold-email-agency',
         d['title'],
         d['description'],
-        hero + ownership + fit + proof + system + pricing + faq + closing(),
+        hero + scope + campaign_section + steps + requirements + pricing + faq + closing(),
         og='cold-email-agency',
         schemas=[service, faq_schema, crumbs_schema],
     )

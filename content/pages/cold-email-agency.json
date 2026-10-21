@@ -1,124 +1,172 @@
 {
   "title": "Cold Email Agency for B2B Teams | The Revenue Inbox",
   "description": "Done-for-you cold email and appointment setting. $100 per qualified booked appointment plus $1,500/month infrastructure. Rolling monthly.",
-  "eyebrow": "Cold email and appointment setting",
+  "eyebrow": "Done-for-you B2B outbound",
   "h1": "A cold email agency that owns the work from list to booked call.",
-  "subhead": "The Revenue Inbox runs your outbound, from strategy and prospect data through email, LinkedIn, replies, and booking. You take the sales calls and close. The promise is 20 qualified meetings in 30 days from campaign launch, or we work for free.",
-  "hero_micro": "$100 per qualified booked appointment + $1,500/month infrastructure. Rolling monthly.",
-  "ownership": [
+  "subhead": "The Revenue Inbox runs the outbound work: strategy, data, copy, sending infrastructure, replies, and booking. You take the sales call and close.",
+  "scope_card": {
+    "label": "What you are buying",
+    "items": [
+      "Strategy and ICP",
+      "Data and list building",
+      "Copy and sequences",
+      "Dedicated sending infrastructure",
+      "Replies and follow-up",
+      "Qualified meetings booked"
+    ],
+    "price": "$100 per qualified booked appointment",
+    "infra": "+ $1,500/month infrastructure",
+    "example": "At 20 qualified booked appointments a month: $3,500 total.",
+    "promise": "20 qualified meetings in 30 days from campaign launch, or we work for free."
+  },
+  "scope_rows": [
     {
-      "title": "Strategy and ICP",
-      "body": "We own the outbound strategy and the ICP. The agreed ICP defines who enters the campaign and who can count toward a qualified meeting. You own the sales conversation.",
-      "owner": "Us: strategy"
+      "work": "Strategy and ICP",
+      "us": "Define the ideal customer profile (ICP), the offer angle and what counts as a qualified meeting.",
+      "you": "Explain the offer and the buyer, and approve the target."
     },
     {
-      "title": "Data and infrastructure",
-      "body": "We own prospect data and sending infrastructure: dedicated domains, mailboxes, data, and sending tools. Outreach runs on those domains, not your main domain.",
-      "owner": "Us: data and sending"
+      "work": "Data and list building",
+      "us": "Research and verify contacts against the agreed ICP, with exclusions set before the build.",
+      "you": "Confirm accounts you already know and any you want excluded."
     },
     {
-      "title": "Copy and outreach",
-      "body": "We write the copy and run email and LinkedIn outreach. Strategy, data, reply handling, and booking stay with us. You take the sales calls.",
-      "owner": "Us: copy and outreach"
+      "work": "Copy and sequences",
+      "us": "Write the first touch, the follow-ups and the reply angles for that buyer, not a generic template.",
+      "you": "Approve the voice and any claims about the product."
     },
     {
-      "title": "Replies and booking",
-      "body": "We answer replies within five minutes and book the meeting. A positive reply is not enough. The meeting must be with a decision-maker inside the agreed ICP who has agreed to hear the offer.",
-      "owner": "Us: replies and booking"
+      "work": "Sending infrastructure",
+      "us": "Set up and manage dedicated domains, mailboxes and warm-up. Your main domain does not carry the risk.",
+      "you": "You do not manage the sending setup."
+    },
+    {
+      "work": "Outreach and replies",
+      "us": "Run email and LinkedIn outreach and answer replies within five minutes, including follow-up until the lead books or says no.",
+      "you": "Join the calls we book."
+    },
+    {
+      "work": "Meeting booking",
+      "us": "Qualify the interest and put a decision-maker inside the agreed ICP on your calendar.",
+      "you": "Take the sales call."
+    },
+    {
+      "work": "Sales and close",
+      "us": "Hand over the context you need before the call.",
+      "you": "Run the sales process and close."
     }
   ],
-  "fit": {
-    "for": [
-      "Founders who want one team to own outbound from strategy through meeting booking.",
-      "Teams that need decision-makers inside an agreed ICP, not a folder of positive replies.",
-      "Businesses ready to take the sales calls and own the close."
+  "campaign": {
+    "label": "Campaign snapshot",
+    "title": "GraiAI, first 21 days",
+    "body": "A cold start. These are the counts from the case study, not a projection.",
+    "steps": [
+      { "value": "45,000", "label": "emails sent" },
+      { "value": "504", "label": "replies, approx." },
+      { "value": "25", "label": "opportunities" },
+      { "value": "12", "label": "qualified meetings" }
     ],
-    "not_for": [
-      "Teams looking for an agency to take sales calls and close deals.",
-      "Buyers who want positive replies counted as qualified meetings."
+    "link": "/case-studies/graiai",
+    "link_label": "Read the GraiAI case"
+  },
+  "steps": [
+    {
+      "title": "Define the buyer",
+      "body": "We agree the ICP, the offer angle and what counts as a qualified meeting before any list is built."
+    },
+    {
+      "title": "Build the list",
+      "body": "Contacts are researched and checked against the ICP, with the exclusions agreed up front."
+    },
+    {
+      "title": "Write the sequence",
+      "body": "First touch, follow-ups and reply angles written for that buyer, not a generic template."
+    },
+    {
+      "title": "Set up sending",
+      "body": "Dedicated domains, mailboxes and warm-up managed on your behalf, separate from your main domain."
+    },
+    {
+      "title": "Run the conversations",
+      "body": "Email and LinkedIn outreach, replies within five minutes, and follow-up until the lead books or says no."
+    },
+    {
+      "title": "Book the meeting",
+      "body": "A decision-maker inside the agreed ICP, on your calendar, with the context you need for the call."
+    }
+  ],
+  "requirements": {
+    "title": "What we need from you.",
+    "intro": "The work runs better when one person on your side can make the call. This is the part we cannot do for you.",
+    "items": [
+      {
+        "title": "A clear offer and a buyer you can name",
+        "body": "If you cannot describe who buys and why, we can help shape it, but we cannot invent it."
+      },
+      {
+        "title": "Someone who can approve the ICP and the copy",
+        "body": "One decision-maker on your side keeps the build moving and the targeting honest."
+      },
+      {
+        "title": "Sales capacity to take the calls",
+        "body": "We book the meetings. You run the sales conversation and own the close."
+      },
+      {
+        "title": "A 30-day window after launch",
+        "body": "The 20-meeting promise is measured from campaign launch, not from the first planning call."
+      }
+    ],
+    "not_fit": [
+      "You need an agency to take the sales calls and close deals.",
+      "You want positive replies counted as qualified meetings.",
+      "You are looking for a list vendor rather than a managed campaign."
     ]
   },
-  "proof": [
-    {
-      "value": "81",
-      "label": "sales meetings in one month",
-      "name": "Networked",
-      "href": "/case-studies/networked-sales-meetings"
-    },
-    {
-      "value": "26",
-      "label": "qualified leads a day",
-      "name": "Parking Compliance Systems",
-      "href": "/case-studies/parking-compliance-systems"
-    },
-    {
-      "value": "159",
-      "label": "qualified opportunities in 90 days",
-      "name": "Spotlight by SkyHigh Creatives",
-      "href": "/case-studies/spotlight-skyhigh-creatives"
-    },
-    {
-      "value": "$1.2M",
-      "label": "raised from 18 investors in 90 days",
-      "name": "Networked",
-      "href": "/case-studies/networked-fundraise"
-    }
-  ],
-  "system": [
-    {
-      "title": "List built",
-      "body": "We own the prospect data and build the outreach list around the agreed ICP. That ICP also defines meeting qualification."
-    },
-    {
-      "title": "Email sent",
-      "body": "We write and send the cold email using dedicated sending domains and mailboxes. LinkedIn outreach is included."
-    },
-    {
-      "title": "Reply handled",
-      "body": "We handle replies within five minutes. A positive reply alone is not a qualified meeting or a booked appointment."
-    },
-    {
-      "title": "Meeting booked",
-      "body": "We book a decision-maker inside the agreed ICP who has agreed to hear the offer. That is the qualification standard."
-    },
-    {
-      "title": "You close",
-      "body": "You take the sales call and own the close. We own the outbound work through meeting booking."
-    }
-  ],
-  "pricing_intro": "Pay $100 per qualified booked appointment, plus $1,500 per month for infrastructure covering domains, mailboxes, data, and sending tools. The agreement rolls monthly, with no long contract.",
+  "pricing": {
+    "title": "The commercial terms.",
+    "infra_amount": "$1,500",
+    "infra_unit": "per month for infrastructure",
+    "infra_note": "Domains, mailboxes, data and sending tools.",
+    "appt_amount": "$100",
+    "appt_unit": "per qualified booked appointment",
+    "appt_note": "A decision-maker inside the agreed ICP who has agreed to hear the offer.",
+    "terms": "Rolling monthly. No long contract.",
+    "example": "At 20 qualified booked appointments in a month: $1,500 base + $2,000 performance = $3,500.",
+    "link": "/blog/cold-email-agency-pricing",
+    "link_label": "See how the full bill works"
+  },
   "faqs": [
     {
-      "q": "What does a cold email agency do?",
-      "a": "A cold email agency runs outbound email to reach prospective buyers and book sales conversations. The Revenue Inbox owns strategy, ICP, data, copy, sending infrastructure, email and LinkedIn outreach, reply handling, and meeting booking. You take the sales calls and close the deals."
+      "q": "What is included in the service?",
+      "a": "Strategy, ICP, prospect data, copy, dedicated sending infrastructure, email and LinkedIn outreach, reply handling and qualified meeting booking. You take the sales calls and close. Pricing is $100 per qualified booked appointment plus $1,500 per month for infrastructure."
     },
     {
-      "q": "What makes The Revenue Inbox different?",
-      "a": "We have booked 1,000+ meetings from cold email in the last two years. Replies are handled within five minutes. Pricing is $100 per qualified booked appointment plus monthly infrastructure. The promise is 20 qualified meetings in 30 days from campaign launch, or we work for free."
+      "q": "What do you need from us before launch?",
+      "a": "Your offer, the buyer you want to reach, one person who can approve the ICP and the copy, and sales capacity to take the calls. The 30-day promise starts when campaigns go live, so the build is not counted against it."
     },
     {
-      "q": "Will you send cold email from our main domain?",
-      "a": "No. We use dedicated sending domains and mailboxes, not your main domain. Those domains and mailboxes are part of the sending infrastructure we own for the campaign. The $1,500 monthly infrastructure fee covers domains, mailboxes, data, and sending tools."
+      "q": "Do you write the copy, or do we?",
+      "a": "We write the first touch, follow-ups and reply angles. You approve the voice and any claims about the product. The copy has to sound like you and survive a real buyer reading it, so your review is part of the build."
+    },
+    {
+      "q": "Will you send from our main domain?",
+      "a": "No. We use dedicated sending domains and mailboxes, not your main domain. The $1,500 monthly infrastructure fee covers domains, mailboxes, data and sending tools. Your main domain does not carry the sending risk."
     },
     {
       "q": "What counts as a qualified meeting?",
-      "a": "A qualified meeting is with a decision-maker inside the agreed ICP who has agreed to hear the offer. A positive reply alone is not a qualified meeting. That distinction matters: the appointment fee is for a qualified booked appointment, not simply for someone responding to outreach."
+      "a": "A booked call with a decision-maker inside the agreed ICP who has agreed to hear the offer. A positive reply is not a qualified meeting. That definition is agreed before the campaign starts and is the one used for the appointment fee and the 30-day promise."
     },
     {
-      "q": "How much does the service cost, and how long is the contract?",
-      "a": "The service costs $100 per qualified booked appointment plus $1,500 per month for infrastructure. Infrastructure includes domains, mailboxes, data, and sending tools. The agreement is rolling monthly, with no long contract."
-    },
-    {
-      "q": "How does the 20-meeting promise work?",
-      "a": "The promise is 20 qualified meetings in 30 days from campaign launch, or we work for free. The clock starts at campaign launch. A qualified meeting requires a decision-maker inside the agreed ICP who has agreed to hear the offer. Positive replies alone do not count toward the promise."
-    },
-    {
-      "q": "Is LinkedIn outreach included?",
-      "a": "Yes. LinkedIn outreach is included alongside cold email. We own the copy and outreach, as well as strategy, ICP, data, sending infrastructure, reply handling, and meeting booking. You do not take over at the first positive reply. You take the sales calls and own the close."
+      "q": "What happens when someone replies?",
+      "a": "A human answers within five minutes. We handle the question or objection, qualify the fit and propose specific times. If the lead is ready to talk, we make the booking easy. If not, we follow up until there is a clear yes or no."
     },
     {
       "q": "Can cold email work in a small market?",
-      "a": "A small market needs a closer look, not a blanket yes. Parking Compliance Systems reaches parking lot owners with a list built from physical locations, and that campaign produces 26 qualified leads a day. Small markets need careful targeting and follow-up, not the same list everyone else buys."
+      "a": "A small market needs a closer look, not a blanket yes. Parking Compliance Systems reaches parking lot owners with a list built from physical locations, and that campaign produces 26 qualified leads a day. The question is whether the ICP contains enough decision-makers for your offer."
+    },
+    {
+      "q": "What does the 30-day promise cover?",
+      "a": "20 qualified meetings in 30 days from campaign launch, or we work for free. The clock starts when campaigns go live. Meetings must meet the agreed ICP and qualification definition. Positive replies alone do not count toward the promise."
     }
   ]
 }
