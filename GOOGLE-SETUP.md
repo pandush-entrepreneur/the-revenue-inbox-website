@@ -23,7 +23,7 @@ Every custom event includes page_path and send_to. Slider events are debounced f
 
 Calendly's official JavaScript embed loads only after a booking click. It emits the documented scheduled event. The parent validates origin and iframe source and deduplicates the event identifier in memory. The identifier is not sent to GA4. Script failure falls back to the direct iframe; that fallback and direct external bookings do not have verified completion tracking. A browser-reported booking is not an attended or ICP-qualified meeting. Real completion receipt still needs confirmation from an actual booking in GA4; tests do not create appointments.
 
-Production verification on 16 October 2026: the live page loaded exactly one tag/config for G-7B80MZJWGJ; Google collection returned HTTP 204 for page_view. The official calendar loaded on click, with no runtime errors. This verifies browser transport, not private GA4 Realtime reports or a genuine completed booking. Evidence: evidence/google-setup/production.json.
+Production verification on 16 October 2026: the live page loaded exactly one tag/config for G-7B80MZJWGJ; Google collection returned HTTP 204 for page_view. The official calendar loaded on click, with no runtime errors. This verifies browser transport, not private GA4 Realtime reports or a genuine completed booking. Evidence: evidence/google-setup/production.json. Superseded on 21 October 2026: the site now reports to G-JFJG3QGC6L.
 
 ## Search Console
 
@@ -33,7 +33,7 @@ The public sitemap is https://www.therevenueinbox.com/sitemap.xml and currently 
 
 ## Account connection and remaining actions
 
-This environment has no available signed-in Google browser or connected Google reporting account. Windsor.ai was found as an optional reporting connection, not installed or connected on the user's behalf. Connect it with the owning Google account, then choose this Search Console property and the GA4 property containing G-7B80MZJWGJ. This enables report access where supported; do not assume it grants sitemap submission or Analytics-admin write operations.
+This environment has no available signed-in Google browser or connected Google reporting account. Windsor.ai was found as an optional reporting connection, not installed or connected on the user's behalf. Connect it with the owning Google account, then choose this Search Console property and the GA4 property containing G-JFJG3QGC6L. This enables report access where supported; do not assume it grants sitemap submission or Analytics-admin write operations.
 
 In the owning Google account, complete these steps, or give the same checklist to an agent with actual authenticated access:
 

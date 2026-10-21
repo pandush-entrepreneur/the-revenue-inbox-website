@@ -1,4 +1,4 @@
-Current update: Pandush supplied GA4 G-7B80MZJWGJ and confirmed the existing verified Search Console Domain property. Do not create another property or change DNS. See GOOGLE-SETUP.md for current implementation and the remaining account-side checklist; setup instructions below are retained for reference.
+Current update: Pandush supplied GA4 G-JFJG3QGC6L (corrected 21 October 2026; the earlier G-7B80MZJWGJ property was an empty duplicate) and confirmed the existing verified Search Console Domain property. Do not create another property or change DNS. See GOOGLE-SETUP.md for current implementation and the remaining account-side checklist; setup instructions below are retained for reference.
 
 # Your next steps
 
