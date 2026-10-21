@@ -89,6 +89,11 @@
       "statusCode": 301
     },
     {
+      "source": "/cold-email-agency.html",
+      "destination": "/cold-email-agency",
+      "statusCode": 301
+    },
+    {
       "source": "/blog.html",
       "destination": "/blog",
       "statusCode": 301
@@ -146,6 +151,10 @@
     {
       "source": "/404",
       "destination": "/404.html"
+    },
+    {
+      "source": "/cold-email-agency",
+      "destination": "/cold-email-agency.html"
     },
     {
       "source": "/blog",
