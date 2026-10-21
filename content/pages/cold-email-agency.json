@@ -143,7 +143,9 @@
     "appt_unit": "per qualified booked appointment",
     "appt_note": "A decision-maker within the agreed ICP who has agreed to hear the offer.",
     "terms": "Rolling monthly. No long contract.",
-    "example": "At 20 qualified booked appointments in a month: $1,500 base + $2,000 performance = $3,500.",
+    "example_lead": "At 20 qualified booked appointments in a month:",
+    "example_math": "$1,500 base + $2,000 performance",
+    "example_total": "$3,500",
     "link": "/blog/cold-email-agency-pricing",
     "link_label": "See how the full bill works"
   },

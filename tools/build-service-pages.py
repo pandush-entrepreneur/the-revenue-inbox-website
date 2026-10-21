@@ -150,7 +150,7 @@ def build_cold_email_agency():
         + f'<div class="svc-rate-grid"><div class="svc-rate"><span class="mono">Base fee</span><strong>{e(price["infra_amount"])}</strong><span>{e(price["infra_unit"])}</span><small>{e(price["infra_note"])}</small></div><div class="svc-rate"><span class="mono">Performance fee</span><strong>{e(price["appt_amount"])}</strong><span>{e(price["appt_unit"])}</span><small>{e(price["appt_note"])}</small></div></div>'
         + f'<p class="micro">{e(price["terms"])}</p>'
         + '</div><div>'
-        + f'<p class="svc-price-example">{e(price["example"]).replace("$3,500", "<strong>$3,500</strong>")}</p>'
+        + f'<p class="svc-price-example"><span class="example-lead">{e(price["example_lead"])}</span><span class="example-math">{e(price["example_math"])}</span><span class="example-math example-total">= <strong>{e(price["example_total"])}</strong></span></p>'
         + '<div class="svc-price-actions">'
         + cta('cold-email-agency-pricing')
         + f'<a class="text-link" href="{e(price["link"])}">{e(price["link_label"])} {icon()}</a>'
