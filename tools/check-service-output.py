@@ -9,7 +9,7 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parents[1]
 BASE = 'https://www.therevenueinbox.com'
 records = json.loads((ROOT / 'tools/rebuild-data.json').read_text(encoding='utf8'))
-routes = ['/', '/cold-email-agency', '/case-studies', '/blog', '/authors/pandush', '/authors/umair']
+routes = ['/', '/pricing', '/cold-email-agency', '/case-studies', '/blog', '/authors/pandush', '/authors/umair']
 routes += ['/case-studies/' + r['id'] for r in records]
 routes += ['/blog/' + p.stem for p in (ROOT / 'blog').glob('*.html')]
 config = json.loads((ROOT / 'vercel.json').read_text())
@@ -60,9 +60,11 @@ assert len(faq['mainEntity']) == len(questions)
 for entity, details in zip(faq['mainEntity'], questions):
     assert entity['name'] == details.summary.get_text(strip=True)
     assert entity['acceptedAnswer']['text'] == details.select_one('.faq-answer').get_text(strip=True)
-offer = next(x for x in graph if x['@type'] == 'Service')['offers'][0]
-assert offer['price'] == '100' and offer['priceCurrency'] == 'USD'
-assert '$1,500/month' in offer['description']
+offers = next(x for x in graph if x['@type'] == 'Service')['offers']
+assert [o['name'] for o in offers] == ['Basic', 'Standard', 'Express']
+assert [o['priceSpecification'][0]['price'] for o in offers] == ['0', '1500', '2500']
+assert all(o['priceSpecification'][1]['price'] == '100' for o in offers)
+assert all(o['priceSpecification'][1]['priceCurrency'] == 'USD' for o in offers)
 for source in ['/case-studies/graiai', '/case-studies/graiai.html', '/case-studies/grail.html']:
     assert redirects[source]['destination'] == '/case-studies/grail'
     assert redirects[source]['statusCode'] == 301

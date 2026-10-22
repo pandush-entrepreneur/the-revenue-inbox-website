@@ -1,0 +1,963 @@
+{
+  "layouts": [
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing"
+      ],
+      "errors": []
+    }
+  ],
+  "accessibility": [
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "violations": []
+    }
+  ],
+  "interactions": [
+    {
+      "engine": "Chrome",
+      "desktopHover": true,
+      "pointerIntoPanel": true,
+      "mouseLeave": true,
+      "keyboardOpen": true,
+      "escapeFocus": true,
+      "outsideClick": true
+    },
+    {
+      "engine": "Chrome",
+      "zeroMeetings": true,
+      "twentyMeetings": true,
+      "sixtyMeetings": true,
+      "vendorCents": true,
+      "invalidBudget": true,
+      "clearedBudget": true
+    },
+    {
+      "engine": "Chrome",
+      "mobileMoreTap": true,
+      "mobilePricingNavigation": true,
+      "threeBookingButtons": true,
+      "bookingFocusRestored": true,
+      "faq": true
+    },
+    {
+      "engine": "Firefox",
+      "desktopHover": true,
+      "pointerIntoPanel": true,
+      "mouseLeave": true,
+      "keyboardOpen": true,
+      "escapeFocus": true,
+      "outsideClick": true
+    },
+    {
+      "engine": "Firefox",
+      "zeroMeetings": true,
+      "twentyMeetings": true,
+      "sixtyMeetings": true,
+      "vendorCents": true,
+      "invalidBudget": true,
+      "clearedBudget": true
+    },
+    {
+      "engine": "WebKit",
+      "desktopHover": true,
+      "pointerIntoPanel": true,
+      "mouseLeave": true,
+      "keyboardOpen": true,
+      "escapeFocus": true,
+      "outsideClick": true
+    },
+    {
+      "engine": "WebKit",
+      "zeroMeetings": true,
+      "twentyMeetings": true,
+      "sixtyMeetings": true,
+      "vendorCents": true,
+      "invalidBudget": true,
+      "clearedBudget": true
+    },
+    {
+      "engine": "WebKit",
+      "mobileMoreTap": true,
+      "mobilePricingNavigation": true,
+      "threeBookingButtons": true,
+      "bookingFocusRestored": true,
+      "faq": true
+    }
+  ],
+  "noJavaScript": [
+    {
+      "threePlans": true,
+      "staticCosts": true,
+      "nativeMoreNavigation": true
+    },
+    {
+      "threePlans": true,
+      "staticCosts": true,
+      "nativeMoreNavigation": true
+    }
+  ],
+  "summary": {
+    "layouts": 55,
+    "failures": [],
+    "accessibility": [],
+    "interactionGroups": 8,
+    "noJavaScript": [
+      {
+        "threePlans": true,
+        "staticCosts": true,
+        "nativeMoreNavigation": true
+      },
+      {
+        "threePlans": true,
+        "staticCosts": true,
+        "nativeMoreNavigation": true
+      }
+    ]
+  }
+}

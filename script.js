@@ -8,9 +8,54 @@
  const track=(event,detail={})=>document.dispatchEvent(new CustomEvent('revenue-inbox:event',{detail:{event,...detail}}));
  const menu=$('.mobile-menu');
  if(menu){
-  $$('a',menu).forEach(a=>a.addEventListener('click',()=>{menu.open=false;}));
+  // Let the anchor's native navigation run before hiding its touch target.
+  $$('a',menu).forEach(a=>a.addEventListener('click',()=>setTimeout(()=>{menu.open=false;},0)));
   document.addEventListener('click',e=>{if(!menu.contains(e.target))menu.open=false;});
   document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu.open){menu.open=false;$('summary',menu).focus();}});
+ }
+ $$('.nav-more').forEach(disclosure=>{
+  const summary=$('summary',disclosure);
+  const fine=matchMedia('(hover:hover) and (pointer:fine)');
+  disclosure.addEventListener('mouseenter',()=>{if(fine.matches)disclosure.open=true;});
+  disclosure.addEventListener('mouseleave',()=>{if(fine.matches&&!disclosure.contains(document.activeElement))disclosure.open=false;});
+  disclosure.addEventListener('focusout',event=>{
+   // Touch may blur the summary before the link receives its click. A real
+   // destination outside the disclosure is what marks keyboard focus leaving.
+   if(event.relatedTarget&&!disclosure.contains(event.relatedTarget))disclosure.open=false;
+  });
+  summary.addEventListener('keydown',event=>{
+   if(event.key==='ArrowDown'){event.preventDefault();disclosure.open=true;$('a',disclosure)?.focus();}
+  });
+  disclosure.addEventListener('keydown',event=>{
+   if(event.key==='Escape'&&disclosure.open){event.preventDefault();event.stopPropagation();disclosure.open=false;summary.focus();}
+  });
+  document.addEventListener('click',event=>{if(!disclosure.contains(event.target))disclosure.open=false;});
+  $$('a',disclosure).forEach(a=>a.addEventListener('click',()=>setTimeout(()=>{disclosure.open=false;},0)));
+ });
+ const pricingMeetings=$('#pricing-meetings'),vendorBudget=$('#basic-vendor-budget');
+ if(pricingMeetings&&vendorBudget){
+  const fees=$('.plan-calculator').dataset;
+  const meetingFee=Number(fees.meetingFee),standardBase=Number(fees.standardBase),expressBase=Number(fees.expressBase);
+  pricingMeetings.disabled=false;vendorBudget.disabled=false;
+  const updateComparison=()=>{
+   const count=Number(pricingMeetings.value),fee=count*meetingFee;
+   $('#pricing-meetings-label').textContent=number(count);
+   const entered=vendorBudget.value.trim()!=='';
+   const budget=Number(vendorBudget.value);
+   const valid=entered&&vendorBudget.validity.valid&&Number.isFinite(budget)&&budget>=0;
+   const invalid=vendorBudget.validity.badInput||(entered&&!valid);
+   vendorBudget.setAttribute('aria-invalid',String(invalid));
+   $('#vendor-budget-error').hidden=!invalid;
+   const total=fee+(valid?budget:0);
+   const basic=$('#basic-monthly-total');basic.replaceChildren(document.createTextNode(new Intl.NumberFormat('en-US',{style:'currency',currency:'USD',minimumFractionDigits:total%1?2:0,maximumFractionDigits:2}).format(total)));
+   if(!valid){const label=document.createElement('span');label.textContent=' + vendor costs';basic.append(label);}
+   $('#basic-cost-note').textContent=valid?'Meeting fees + your entered vendor budget.':'Meeting fees only; vendor bills are additional.';
+   $('#standard-monthly-total').textContent=money(standardBase+fee);
+   $('#express-monthly-total').textContent=money(expressBase+fee);
+  };
+  pricingMeetings.addEventListener('input',()=>{updateComparison();track('pricing_toggle',{appointments:Number(pricingMeetings.value),total:standardBase+Number(pricingMeetings.value)*meetingFee});});
+  vendorBudget.addEventListener('input',updateComparison);
+  updateComparison();
  }
  $$('details').forEach(d=>d.addEventListener('toggle',()=>{if(d.open&&d.dataset.event)track(d.dataset.event,{question:$('summary',d).textContent.trim()});}));
  const dialog=$('.booking-dialog');let trigger=null,bookingLocation='unknown',calendlyLoader=null;

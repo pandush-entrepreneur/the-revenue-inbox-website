@@ -6,7 +6,7 @@ from social_card import ROOT, render_social_card
 
 def build_core_previews():
     render_social_card(ROOT, 'home', '20 qualified meetings. 30 days.',
-                       'Done-for-you B2B outbound', 'Or we work for free. From campaign launch.')
+                       'Done-for-you B2B outbound', 'Standard and Express. From campaign launch, or we work for free.')
     render_social_card(ROOT, 'case-studies', 'The work. The numbers.',
                        'B2B outbound case studies', 'Six campaigns. Read the emails. Inspect the results.')
     records = json.loads((ROOT / 'tools/rebuild-data.json').read_text(encoding='utf8'))

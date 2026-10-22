@@ -1,0 +1,39 @@
+{
+  "title": "Cold Email Agency Pricing | The Revenue Inbox",
+  "description": "Compare Basic, Standard and Express: $0, $1,500 or $2,500 monthly base fees, plus $100 per qualified booked meeting. Basic vendor costs are extra.",
+  "meeting_fee": 100,
+  "guarantee": "20 qualified meetings in 30 days from campaign launch, or we work for free.",
+  "express_clock": "Three calendar days after payment, required inputs and approvals are complete.",
+  "plans": [
+    {
+      "id": "basic",
+      "name": "Basic",
+      "base_fee": 0,
+      "audience": "For B2B teams keeping the agency base fee at zero.",
+      "infrastructure": "You buy domains, mailboxes and tools directly from vendors, then share access with us.",
+      "features": ["$0 monthly agency base fee", "You pay vendors directly", "You share access to the sending setup", "We run the campaign and book qualified meetings"],
+      "launch": "Once your sending setup is ready for launch.",
+      "guarantee": false
+    },
+    {
+      "id": "standard",
+      "name": "Standard",
+      "base_fee": 1500,
+      "audience": "For teams that want the infrastructure handled for them.",
+      "infrastructure": "We buy and manage the domains, mailboxes, data and sending tools.",
+      "features": ["Infrastructure bought and managed by us", "Dedicated sending domains and mailboxes", "Data, tooling and campaign management", "The 20-meeting, 30-day guarantee"],
+      "launch": "After setup, warm-up and approvals are complete.",
+      "guarantee": true
+    },
+    {
+      "id": "express",
+      "name": "Express",
+      "base_fee": 2500,
+      "audience": "For teams ready to launch without the usual infrastructure warm-up wait.",
+      "infrastructure": "Everything in Standard, with prewarmed domains and mailboxes for a day-3 launch.",
+      "features": ["Everything in Standard", "Prewarmed domains and mailboxes", "Campaigns live on day 3", "The 20-meeting, 30-day guarantee"],
+      "launch": "Day 3: three calendar days after payment, required inputs and approvals are complete.",
+      "guarantee": true
+    }
+  ]
+}

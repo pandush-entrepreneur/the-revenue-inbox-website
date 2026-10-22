@@ -76,7 +76,7 @@ for (const [name, engine] of [['Chrome',chromium], ['Firefox',firefox], ['WebKit
       report.interactions.focusRestored=await page.locator('.svc-hero-actions .button').evaluate(e=>e===document.activeElement);
       await page.locator('#faq summary').first().click();
       report.interactions.faqOpens=await page.locator('#faq details').first().evaluate(e=>e.open);
-      await page.locator('.mobile-menu summary').click();
+      await page.locator('.mobile-menu > summary').click();
       report.interactions.navigationOpens=await page.locator('.mobile-menu').evaluate(e=>e.open);
       for (const route of ['/case-studies/graiai','/case-studies/graiai.html','/case-studies/grail.html']) {
         const r=await page.request.get(base+route,{maxRedirects:0});

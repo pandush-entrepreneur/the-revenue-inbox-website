@@ -1,6 +1,7 @@
 """Generate commercial service pages from approved copy decks."""
 from site_common import *
 from social_card import render_social_card
+from pricing_data import plan_offers
 import json
 
 COPY = json.loads((ROOT / 'content/pages/cold-email-agency.json').read_text(encoding='utf8'))
@@ -23,7 +24,7 @@ def build_cold_email_agency():
 
     def make_og():
         render_social_card(ROOT, 'cold-email-agency', d['h1'],
-                           'Cold email agency', '$100 per qualified appointment + $1,500/month infrastructure')
+                           'Cold email agency', 'Basic, Standard and Express. $100 per qualified booked meeting.')
 
     make_og()
 
@@ -49,7 +50,7 @@ def build_cold_email_agency():
         + f'<p class="eyebrow">{e(d["eyebrow"])}</p>'
         + f'<h1>{e(d["h1"])}</h1>'
         + f'<p class="case-subhead">{e(d["subhead"])}</p>'
-        + '<p class="svc-hero-promise">20 qualified meetings. 30 days. Or we work for free.</p>'
+        + '<p class="svc-hero-promise">Standard and Express: 20 qualified meetings. 30 days. Or we work for free.</p>'
         + '<div class="svc-hero-actions">'
         + cta('cold-email-agency-hero')
         + f'<a class="text-link" href="#scope">See the scope {icon()}</a>'
@@ -177,13 +178,7 @@ def build_cold_email_agency():
         'provider': {'@id': ORG['@id']},
         'description': 'Strategy, ICP, data, copy, dedicated sending infrastructure, email and LinkedIn outreach, reply handling and qualified meeting booking.',
         'audience': {'@type': 'BusinessAudience', 'audienceType': 'B2B SaaS and service companies'},
-        'offers': [{
-            '@type': 'Offer',
-            'name': 'Qualified booked appointment',
-            'price': '100',
-            'priceCurrency': 'USD',
-            'description': 'Per qualified booked appointment, plus $1,500/month infrastructure. Rolling monthly.',
-        }],
+        'offers': plan_offers(BASE),
     }
     faq_schema = {
         '@type': 'FAQPage',

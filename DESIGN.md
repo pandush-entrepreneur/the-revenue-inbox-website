@@ -49,7 +49,7 @@ The website wordmark is a clean vector trace of the actual lettering in The Reve
 - **Dashboard:** campaign-window label, static source KPIs, chart, explicitly labeled funnel conversions, representative role-based activity and Running/Completed status. Charts reconstruct aggregate totals and the supplied ramp profile. SVG descriptions disclose this. Relative day/week labels avoid invented dates. Funnel widths use a stated square-root scale, with exact counts and rates beside each stage. No invented vertical splits. Spotlight controls filter representative activity while retaining aggregate totals.
 - **Email card:** original first-touch text and original line breaks. Merge fields are keyboard/tap accessible buttons with viewport-clamped tooltips. A native details panel preserves the supplied merge-field notes without JavaScript. Sender is visually redacted. No invented subject or sender identity.
 - **ROI lab:** contract-value slider and presets, close-rate slider, conservative break-even first, six-stage flow, three scenarios and explicit fees. Attendance is 80%, deals round down to whole contracts. Revenue follows the reader's sales cycle. Controls update one model, without fabricated client results.
-- **Pricing:** one offer, exact worked example, appointments slider, total and effective cost. $100 per qualified booked appointment plus $1,500/month infrastructure, rolling monthly.
+- **Pricing:** /pricing compares Basic ($0 monthly base; vendors billed directly), Standard ($1,500/month) and Express ($2,500/month), each plus $100 per qualified booked meeting. The homepage and existing article calculators show a clearly labeled Standard-plan example. The 20-meeting guarantee applies to Standard and Express only.
 - **Video facade:** real thumbnail and click-to-load Vimeo player. No initial third-party player requests. Missing attribution is never filled with an invented name.
 - **Booking:** native dialog, Calendly loaded only on click, Escape/backdrop close, focus restoration and direct-link fallback. Modified clicks retain browser behavior.
 - **FAQ / definitions:** native details elements. FAQ answers match JSON-LD and current offer terms. How we count appears on every study.
@@ -127,3 +127,28 @@ DM Sans labels, dark page ground and the approved purple/neutrals. Homepage,
 service, case and blog cards share this renderer; retired grid/glow artwork is
 not regenerated. The client name is GRAIL and its canonical route is
 /case-studies/grail, with permanent redirects from the previous spelling.
+
+## Pricing page and More navigation, 22 October 2026
+
+The header keeps The system, Case studies, Blog and The math as direct links.
+More contains Cold email agency and Pricing. It is a native details disclosure,
+with hover enhancement on fine pointers, click/tap, Arrow Down, Escape, outside
+click and focus handling. Mobile uses the same links inside its native menu;
+More remains usable without JavaScript.
+
+The pricing page uses three flat panels in the existing dark surfaces, a shared
+price baseline on desktop, and a single column below 900px. Body and plan copy
+use DM Sans; headings and monetary totals use Manrope with tabular numerals.
+The cost table remains a semantic table in a labeled, keyboard-focusable mobile
+scroll region, with an explicit swipe cue. The monthly calculator shows Basic
+as meeting fees plus unknown vendor costs until the visitor supplies a budget.
+Standard and Express show complete base-plus-meeting fees. Native disabled
+controls and complete 20-meeting examples remain available without JavaScript.
+No assumed vendor pricing or competitor retainers are used.
+
+Express launch language states day 3 means three calendar days after payment,
+required inputs and approvals are complete. Only Standard and Express include
+the 20-meeting, 30-day guarantee. The clock for that guarantee starts at campaign
+launch, separately from the Express setup clock. These are founder-confirmed
+commercial facts. Social previews use the existing shared renderer and disclose
+that quoted monthly base fees exclude meeting fees and Basic vendor costs.

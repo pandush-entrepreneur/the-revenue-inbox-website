@@ -1,11 +1,11 @@
 {
   "title": "Cold Email Agency for B2B Teams | The Revenue Inbox",
-  "description": "Done-for-you cold email and appointment setting. $100 per qualified booked appointment plus $1,500/month infrastructure. Rolling monthly.",
+  "description": "Done-for-you B2B cold email. Basic, Standard and Express plans, all at $100 per qualified booked meeting. Compare infrastructure costs and launch speeds.",
   "eyebrow": "Done-for-you B2B outbound",
   "h1": "Cold email agency. From list to booked call.",
   "subhead": "The Revenue Inbox runs the outbound work: strategy, data, copy, sending infrastructure, replies, and booking. You take the sales call and close.",
   "scope_card": {
-    "label": "What you are buying",
+    "label": "Standard plan",
     "items": [
       "Strategy and ICP",
       "Data and list building",
@@ -17,7 +17,7 @@
     "price": "$100 per qualified booked appointment",
     "infra": "+ $1,500/month infrastructure",
     "example": "At 20 qualified booked appointments a month: $3,500 total.",
-    "promise": "20 qualified meetings in 30 days from campaign launch, or we work for free."
+    "promise": "On Standard and Express: 20 qualified meetings in 30 days from campaign launch, or we work for free."
   },
   "scope_rows": [
     {
@@ -125,7 +125,7 @@
       },
       {
         "title": "A 30-day window after launch",
-        "body": "The 20-meeting promise is measured from campaign launch, not from the first planning call."
+        "body": "On Standard and Express, the 20-meeting promise is measured from campaign launch, not the first planning call."
       }
     ],
     "not_fit": [
@@ -135,7 +135,7 @@
     ]
   },
   "pricing": {
-    "title": "The commercial terms.",
+    "title": "Standard, with infrastructure handled.",
     "infra_amount": "$1,500",
     "infra_unit": "per month for infrastructure",
     "infra_note": "Domains, mailboxes, data and sending tools.",
@@ -146,17 +146,17 @@
     "example_lead": "At 20 qualified booked appointments in a month:",
     "example_math": "$1,500 base + $2,000 performance",
     "example_total": "$3,500",
-    "link": "/blog/cold-email-agency-pricing",
-    "link_label": "See how the full bill works"
+    "link": "/pricing",
+    "link_label": "Compare Basic, Standard and Express"
   },
   "faqs": [
     {
       "q": "What is included in the service?",
-      "a": "Strategy, ICP, prospect data, copy, dedicated sending infrastructure, email and LinkedIn outreach, reply handling and qualified meeting booking. You take the sales calls and close. Pricing is $100 per qualified booked appointment plus $1,500 per month for infrastructure."
+      "a": "Strategy, ICP, prospect data, copy, email and LinkedIn outreach, reply handling and qualified meeting booking. Every plan charges $100 per qualified booked meeting. Basic has no monthly base fee; you buy vendor services and share access. Standard is $1,500/month with managed infrastructure. Express is $2,500/month with prewarmed domains and mailboxes and a day-3 launch."
     },
     {
       "q": "What do you need from us before launch?",
-      "a": "Your offer, the buyer you want to reach, one person who can approve the ICP and the copy, and sales capacity to take the calls. The 30-day promise starts when campaigns go live, so the build is not counted against it."
+      "a": "Your offer, the buyer you want to reach, one person who can approve the ICP and copy, and sales capacity to take the calls. On Basic, we also need access to your sending setup. Express goes live on day 3: three calendar days after payment, required inputs and approvals are complete."
     },
     {
       "q": "Do you write the copy, or do we?",
@@ -164,7 +164,7 @@
     },
     {
       "q": "Will you send from our main domain?",
-      "a": "No. We use dedicated sending domains and mailboxes, not your main domain. The $1,500 monthly infrastructure fee covers domains, mailboxes, data and sending tools. Your main domain does not carry the sending risk."
+      "a": "We use dedicated sending domains and mailboxes. On Standard and Express, we buy and manage them. On Basic, you pay vendors directly and share access with us. We do not use your main domain for campaign sending."
     },
     {
       "q": "What counts as a qualified meeting?",
@@ -180,7 +180,7 @@
     },
     {
       "q": "What does the 30-day promise cover?",
-      "a": "20 qualified meetings in 30 days from campaign launch, or we work for free. The clock starts when campaigns go live. Meetings must meet the agreed ICP and qualification definition. Positive replies alone do not count toward the promise."
+      "a": "On Standard and Express: 20 qualified meetings in 30 days from campaign launch, or we work for free. Meetings must meet the agreed ICP and qualification definition. Basic does not include the 20-meeting guarantee. Positive replies alone do not count."
     }
   ]
 }

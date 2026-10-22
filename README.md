@@ -5,6 +5,8 @@ Static HTML, CSS and vanilla JavaScript on Vercel. No production build step. GSA
 ## Pages
 
 - /: homepage
+- /pricing: Basic, Standard and Express plans, cost comparison and monthly calculator
+- /cold-email-agency: commercial service page
 - /case-studies: filterable index
 - /case-studies/parking-compliance-systems
 - /case-studies/spotlight-skyhigh-creatives

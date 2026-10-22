@@ -7,5 +7,6 @@ parser=argparse.ArgumentParser();parser.add_argument('--preview',action='store_t
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-blog-covers.py')],check=True,cwd=ROOT)
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-rebuild.py')],check=True,cwd=ROOT)
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-service-pages.py')],check=True,cwd=ROOT)
+subprocess.run([sys.executable,str(ROOT/'tools'/'build-pricing.py')],check=True,cwd=ROOT)
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-social-previews.py')],check=True,cwd=ROOT)
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-blog.py')]+(['--preview'] if args.preview else []),check=True,cwd=ROOT)

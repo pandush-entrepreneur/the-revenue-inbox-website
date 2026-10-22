@@ -104,6 +104,11 @@
       "statusCode": 301
     },
     {
+      "source": "/pricing.html",
+      "destination": "/pricing",
+      "statusCode": 301
+    },
+    {
       "source": "/blog.html",
       "destination": "/blog",
       "statusCode": 301
@@ -165,6 +170,10 @@
     {
       "source": "/cold-email-agency",
       "destination": "/cold-email-agency.html"
+    },
+    {
+      "source": "/pricing",
+      "destination": "/pricing.html"
     },
     {
       "source": "/blog",
