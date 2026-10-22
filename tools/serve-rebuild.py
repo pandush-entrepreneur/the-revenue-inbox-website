@@ -29,5 +29,11 @@ class Handler(BaseHTTPRequestHandler):
   self.end_headers()
   if not head:self.wfile.write(raw)
  def log_message(self,*args):pass
+class PreviewServer(ThreadingHTTPServer):
+ # A page loads fonts, scripts and images concurrently. The small default accept
+ # queue can refuse valid asset requests on Windows, leaving an unstyled preview.
+ request_queue_size=128
+ daemon_threads=True
+
 print(f'Preview http://127.0.0.1:{args.port}',flush=True)
-ThreadingHTTPServer(('127.0.0.1',args.port),Handler).serve_forever()
+PreviewServer(('127.0.0.1',args.port),Handler).serve_forever()

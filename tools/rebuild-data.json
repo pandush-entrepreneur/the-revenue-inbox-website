@@ -339,8 +339,8 @@
     "email": "Hey {firstname}, noticed the awesome work you're doing at {company} in the {industry} space, so I wanted to ask… would you like to create a space where your clients can connect, share knowledge, and improve their learning experience together?\n\nOur platform lets you build a 'custom community app' where clients can collaborate on {personalized value prop}. You can try it out for a full 14-day period until {date}.\n\nThink you can benefit from this?\n\n{signature}"
   },
   {
-    "id": "graiai",
-    "name": "GraiAI",
+    "id": "grail",
+    "name": "GRAIL",
     "title": "12 qualified meetings in the first 3 weeks",
     "primary": "12",
     "period": "First 21 days",

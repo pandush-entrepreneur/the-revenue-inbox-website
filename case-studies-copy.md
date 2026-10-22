@@ -33,7 +33,7 @@ For the coding agent: this file is the single source of truth for copy and numbe
 | 1 | Parking Compliance Systems | Hard markets | 26 qualified leads a day from parking lot owners | 26 qualified leads / day | 1 in ~100 emails |
 | 2 | Spotlight by SkyHigh Creatives | SaaS | 159 qualified opportunities in 90 days | 159 opportunities | 221,400 emails |
 | 3 | Networked | SaaS | 81 sales meetings in one month | 81 meetings / month | 34 in one day |
-| 4 | GraiAI | SaaS | 12 qualified meetings in the first 3 weeks | 12 meetings | 21 days live |
+| 4 | GRAIL | SaaS | 12 qualified meetings in the first 3 weeks | 12 meetings | 21 days live |
 | 5 | Networked | Fundraising | $1.2M raised from 18 investors in 90 days | $1.2M raised | 132 investor meetings held |
 | 6 | Specialist sales recruitment firm | Recruitment | 475 senior sales professionals raised their hand in 30 days | 475 interested | 1 in 115 emails |
 
@@ -66,7 +66,7 @@ Each case study gets a native, animated dashboard that replaces the old Instantl
 - **Funnel:** horizontal bars, sent → replies → positive → qualified → meetings (use only stages the study has). Bars animate left to right. Show conversion % between stages.
 - **Volume chart:** daily sends as an area chart, positive replies as a line on a second axis. Draws in on load.
 - **Activity feed:** a slow scrolling feed of event rows ("Positive reply · Owner · Private lot operator", "Meeting booked · VP Marketing · Hotel group"). Use role + company type only, never invented company or person names. A small label on the feed reads "Representative events".
-- **Status pill:** "Campaign window: [dates]". Do not show a "LIVE" badge on finished campaigns. Only Parking Compliance Systems and GraiAI may show "Running".
+- **Status pill:** "Campaign window: [dates]". Do not show a "LIVE" badge on finished campaigns. Only Parking Compliance Systems and GRAIL may show "Running".
 
 **Data rule:** KPI tiles and funnel must equal the totals in this file exactly. If real daily data is not available, the volume chart may be smoothed from the totals, but it must sum to them and follow the ramp described in each study.
 
@@ -374,17 +374,17 @@ feed roles: Founder · Professional association | Community Director · Industry
 
 ---
 
-## 6. Case study 4 · GraiAI
+## 6. Case study 4 · GRAIL
 
-**Slug:** `/case-studies/graiai`
-**Eyebrow:** GraiAI · AI research software · First 3 weeks
-**Logo:** GraiAI (graiai.io)
+**Slug:** `/case-studies/grail`
+**Eyebrow:** GRAIL · AI research software · First 3 weeks
+**Logo:** GRAIL (supplied client artwork: assets/client-grail.svg)
 
 ### H1
-12 qualified meetings in GraiAI's first 3 weeks of outbound
+12 qualified meetings in GRAIL's first 3 weeks of outbound
 
 ### Subhead
-GraiAI is an AI research agent. Researchers affiliated with 80+ institutions, including Georgia Tech, Carnegie Mellon and Cornell, have run more than 1,500 projects on it. This is what the first 21 days of a Revenue Inbox engagement look like, from a cold start.
+GRAIL is an AI research agent. Researchers affiliated with 80+ institutions, including Georgia Tech, Carnegie Mellon and Cornell, have run more than 1,500 projects on it. This is what the first 21 days of a Revenue Inbox engagement look like, from a cold start.
 
 ### KPI tiles
 - **12** qualified meetings booked
@@ -393,14 +393,14 @@ GraiAI is an AI research agent. Researchers affiliated with 80+ institutions, in
 - **21** days live
 
 ### Snapshot
-- **Client:** GraiAI
+- **Client:** GRAIL
 - **Sells:** An AI research agent for academic and applied research
 - **Buyer:** Researchers, faculty and research teams at universities and research-led organizations
 - **Channel:** Cold email
 - **Status:** Running
 
 ### The situation
-GraiAI came to us with no outbound running. No sending infrastructure, no lists, no tested copy. Everything was built from zero.
+GRAIL came to us with no outbound running. No sending infrastructure, no lists, no tested copy. Everything was built from zero.
 
 ### Why we're showing a 3-week result
 Most case studies show a best month after a year of tuning. This one shows the start. If you're deciding whether to work with us, the first three weeks are what you'll actually experience.
@@ -408,10 +408,10 @@ Most case studies show a best month after a year of tuning. This one shows the s
 ### What we did
 
 **1. We built and warmed the infrastructure for them.**
-Domains, mailboxes and warm-up were set up and managed on GraiAI's behalf. They didn't touch a single DNS record.
+Domains, mailboxes and warm-up were set up and managed on GRAIL's behalf. They didn't touch a single DNS record.
 
 **2. We built a list around their real buyer.**
-Targeting was modelled on the researchers already using GraiAI, then enriched and verified so every email reached an active researcher in a relevant field.
+Targeting was modelled on the researchers already using GRAIL, then enriched and verified so every email reached an active researcher in a relevant field.
 
 **3. We let the product sell itself.**
 Researchers are skeptical of AI claims. So the email leads with proof they respect, the institutions whose researchers already use it, and removes the cost of trying: $100 in credits to test it on their own work.
@@ -447,7 +447,7 @@ P.S. I'll add $100 in credits so you can test it for yourself.
 | Opportunity to meeting | 48% |
 
 ### What it meant
-Our standard promise is 10 qualified meetings in 30 days. GraiAI passed it in 21. And the campaign is still ramping.
+Our standard promise is 10 qualified meetings in 30 days. GRAIL passed it in 21. And the campaign is still ramping.
 
 ### Quote slot
 [Only a real quote. Hide if empty.]

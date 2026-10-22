@@ -71,25 +71,10 @@ def cover(post, card=False):
 def article_cta(post):
     return '<aside class="article-next-step"><p class="eyebrow">Put it into practice</p><h3>'+e(post.get('cta_title','Build an outbound plan around your market.'))+'</h3><p>'+e(post.get('cta_text','Bring your ICP and current approach. We can map what the campaign needs before you commit.'))+'</p>'+site.cta('blog-'+post['slug'])+'<p class="micro">A conversation about your market, offer and next step.</p></aside>'
 
-def og(output, key, title, label='The Revenue Inbox · Field guides'):
-    from fontTools.ttLib import TTFont
-    font_path = ROOT/'reference'/'font-6.ttf'
-    font_path.parent.mkdir(parents=True,exist_ok=True)
-    if not font_path.exists():
-        font = TTFont(ROOT/'assets'/'font-6.woff2'); font.flavor = None; font.save(font_path)
-    im = Image.new('RGB', (1200,630), '#161122'); draw = ImageDraw.Draw(im)
-    mark = Image.open(ROOT/'assets'/'brand'/'logo-lettering.png').resize((150,80), Image.Resampling.LANCZOS)
-    im.paste(mark,(64,48),mark)
-    draw.text((64,176),label,font=ImageFont.truetype(str(font_path),24),fill='#d6d0de')
-    font = ImageFont.truetype(str(font_path),64); lines=[]; line=''
-    for word in title.split():
-        if draw.textlength((line+' '+word).strip(),font=font)>1050:lines.append(line);line=word
-        else:line=(line+' '+word).strip()
-    lines.append(line)
-    for i,line in enumerate(lines):draw.text((60,244+i*82),line,font=font,fill='#f7f5fa')
-    draw.line((64,530,1136,530),fill='#8a40ea',width=2)
-    draw.text((64,556),'therevenueinbox.com',font=ImageFont.truetype(str(font_path),22),fill='#d6d0de')
-    (output/'assets'/'og').mkdir(parents=True,exist_ok=True);im.save(output/'assets'/'og'/f'{key}.png',optimize=True)
+def og(output, key, title, label='The outbound blog'):
+    from social_card import render_social_card
+    render_social_card(output, key, title, label)
+
 
 def build(output, include_review=False):
     output = output.resolve(); output.mkdir(parents=True,exist_ok=True)

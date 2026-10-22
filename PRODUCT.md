@@ -17,7 +17,7 @@ Static HTML, CSS and vanilla JavaScript, hosted on Vercel. The rebuild branch is
 Primary #8A40EA with existing purple shades, tints and neutrals only. Original stacked logo identity rebuilt in SVG. Dark-first product UI, real faces, real client marks and restrained motion. The user's explicit brief authorizes this dark purple visual world.
 
 ## Offer and Proof
-$100 per qualified booked appointment plus $1,500/month infrastructure. Rolling monthly. 20 qualified meetings in 30 days from campaign launch, or we work for free. Qualified means a decision-maker inside the agreed ICP who agreed to hear the offer. case-studies-copy.md supplies the six authoritative results. User approved Networked naming, Parking 500+ monthly and 20 throughout, including GraiAI. No revenue guarantee.
+$100 per qualified booked appointment plus $1,500/month infrastructure. Rolling monthly. 20 qualified meetings in 30 days from campaign launch, or we work for free. Qualified means a decision-maker inside the agreed ICP who agreed to hear the offer. case-studies-copy.md supplies the six authoritative results. User approved Networked naming, Parking 500+ monthly and 20 throughout, including GRAIL. No revenue guarantee.
 
 ## Open Details
 The free-work remedy's operational scope/duration and testimonial names/roles/companies have not been supplied. Preserve the approved public promise without inventing extra terms. No attribution placeholders ship.

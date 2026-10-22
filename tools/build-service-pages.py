@@ -1,5 +1,6 @@
 """Generate commercial service pages from approved copy decks."""
 from site_common import *
+from social_card import render_social_card
 import json
 
 COPY = json.loads((ROOT / 'content/pages/cold-email-agency.json').read_text(encoding='utf8'))
@@ -21,26 +22,8 @@ def build_cold_email_agency():
     d = COPY
 
     def make_og():
-        from fontTools.ttLib import TTFont
-        from PIL import Image, ImageDraw, ImageFont
-        font_path = ROOT / 'reference' / 'font-6.ttf'
-        font_path.parent.mkdir(parents=True, exist_ok=True)
-        if not font_path.exists():
-            font = TTFont(ROOT / 'assets' / 'font-6.woff2')
-            font.flavor = None
-            font.save(font_path)
-        im = Image.new('RGB', (1200, 630), '#161122')
-        draw = ImageDraw.Draw(im)
-        mark = Image.open(ROOT / 'assets' / 'brand' / 'logo-lettering.png').resize((150, 80), Image.Resampling.LANCZOS)
-        im.paste(mark, (64, 48), mark)
-        draw.text((64, 176), 'COLD EMAIL AGENCY', font=ImageFont.truetype(str(font_path), 24), fill='#d6d0de')
-        font = ImageFont.truetype(str(font_path), 64)
-        for i, line in enumerate(['Cold email that ends in', 'booked calls.']):
-            draw.text((60, 244 + i * 82), line, font=font, fill='#f7f5fa')
-        draw.line((64, 530, 1136, 530), fill='#8a40ea', width=2)
-        draw.text((64, 556), 'therevenueinbox.com', font=ImageFont.truetype(str(font_path), 22), fill='#d6d0de')
-        (ROOT / 'assets' / 'og').mkdir(parents=True, exist_ok=True)
-        im.save(ROOT / 'assets' / 'og' / 'cold-email-agency.png', optimize=True)
+        render_social_card(ROOT, 'cold-email-agency', d['h1'],
+                           'Cold email agency', '$100 per qualified appointment + $1,500/month infrastructure')
 
     make_og()
 
@@ -66,6 +49,7 @@ def build_cold_email_agency():
         + f'<p class="eyebrow">{e(d["eyebrow"])}</p>'
         + f'<h1>{e(d["h1"])}</h1>'
         + f'<p class="case-subhead">{e(d["subhead"])}</p>'
+        + '<p class="svc-hero-promise">20 qualified meetings. 30 days. Or we work for free.</p>'
         + '<div class="svc-hero-actions">'
         + cta('cold-email-agency-hero')
         + f'<a class="text-link" href="#scope">See the scope {icon()}</a>'
@@ -78,6 +62,21 @@ def build_cold_email_agency():
     scope_rows = ''.join(
         f'<div class="svc-row" role="row"><strong role="cell">{e(row["work"])}</strong><span role="cell" data-label="We own">{e(row["us"])}</span><span role="cell" data-label="You own">{e(row["you"])}</span></div>'
         for row in d['scope_rows']
+    )
+    proof_items = [
+        ('Networked', '81', 'sales meetings in one month', '/case-studies/networked-sales-meetings'),
+        ('GRAIL', '12', 'qualified meetings in the first 21 days', '/case-studies/grail'),
+        ('Parking Compliance Systems', '26', 'qualified leads a day', '/case-studies/parking-compliance-systems'),
+    ]
+    proof = section(
+        'service-proof',
+        intro('The work behind the promise.',
+              'Open a campaign to inspect the targeting, email and results. Each case explains what was counted.')
+        + '<div class="svc-proof-grid">'
+        + ''.join(f'<a class="svc-proof-item" href="{url}"><span class="svc-proof-client">{e(name)}</span>'
+                  f'<strong>{number}</strong><span>{e(result)}</span><span class="text-link">Read the case study {icon()}</span></a>'
+                  for name, number, result, url in proof_items)
+        + '</div>',
     )
     scope = section(
         'scope',
@@ -205,7 +204,8 @@ def build_cold_email_agency():
         '/cold-email-agency',
         d['title'],
         d['description'],
-        hero + scope + steps + reply_section + requirements + pricing + faq + closing(),
+        hero + proof + scope + steps + reply_section + requirements + pricing + faq + closing(),
+        body_class='service-surface',
         og='cold-email-agency',
         schemas=[service, faq_schema, crumbs_schema],
     )

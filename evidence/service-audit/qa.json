@@ -1,0 +1,2588 @@
+{
+  "layouts": [
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/case-studies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/case-studies/parking-compliance-systems",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/case-studies/spotlight-skyhigh-creatives",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/case-studies/networked-sales-meetings",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/case-studies/networked-fundraise",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/case-studies/sales-recruitment",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/blog/b2b-cold-email-templates",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/blog/clay-vs-instantly-vs-smartlead",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/blog/cold-email-deliverability-checklist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/blog/cold-email-metrics",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/blog/pay-per-appointment-vs-retainer",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/authors/pandush",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/authors/umair",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/parking-compliance-systems",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/spotlight-skyhigh-creatives",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/networked-sales-meetings",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/networked-fundraise",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/case-studies/sales-recruitment",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/b2b-cold-email-templates",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/clay-vs-instantly-vs-smartlead",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/cold-email-deliverability-checklist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/cold-email-metrics",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/blog/pay-per-appointment-vs-retainer",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/authors/pandush",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/authors/umair",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/parking-compliance-systems",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/spotlight-skyhigh-creatives",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/networked-sales-meetings",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/networked-fundraise",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/case-studies/sales-recruitment",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/b2b-cold-email-templates",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/clay-vs-instantly-vs-smartlead",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/cold-email-deliverability-checklist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/cold-email-metrics",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/blog/pay-per-appointment-vs-retainer",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/authors/pandush",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/authors/umair",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/case-studies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/case-studies/parking-compliance-systems",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/case-studies/spotlight-skyhigh-creatives",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/case-studies/networked-sales-meetings",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/case-studies/networked-fundraise",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/case-studies/sales-recruitment",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/blog/b2b-cold-email-templates",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/blog/clay-vs-instantly-vs-smartlead",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/blog/cold-email-deliverability-checklist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/blog/cold-email-metrics",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/blog/pay-per-appointment-vs-retainer",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/authors/pandush",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/authors/umair",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/parking-compliance-systems",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/spotlight-skyhigh-creatives",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/networked-sales-meetings",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/networked-fundraise",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/case-studies/sales-recruitment",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/b2b-cold-email-templates",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/clay-vs-instantly-vs-smartlead",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/cold-email-deliverability-checklist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/cold-email-metrics",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/blog/pay-per-appointment-vs-retainer",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/authors/pandush",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/authors/umair",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/case-studies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/case-studies/parking-compliance-systems",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/case-studies/spotlight-skyhigh-creatives",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/case-studies/networked-sales-meetings",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/case-studies/networked-fundraise",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/case-studies/sales-recruitment",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/blog/b2b-cold-email-templates",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/blog/clay-vs-instantly-vs-smartlead",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/blog/cold-email-agency-pricing",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/blog/cold-email-deliverability-checklist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/blog/cold-email-metrics",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/blog/pay-per-appointment-vs-retainer",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif",
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/authors/pandush",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/authors/umair",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "\"Manrope\", sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "\"Manrope\", sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "\"Manrope\", sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "\"Manrope\", sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "\"Manrope\", sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "\"Manrope\", sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "\"Manrope\", sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "\"Manrope\", sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/cold-email-agency",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/case-studies/grail",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "brokenAnchors": [],
+      "oldClientName": false,
+      "oldLinks": [],
+      "fontLoaded": true,
+      "fonts": [
+        "ui-monospace, SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "Manrope, sans-serif",
+        "\"DM Sans\", sans-serif"
+      ],
+      "errors": []
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/",
+      "violations": []
+    },
+    {
+      "route": "/cold-email-agency",
+      "violations": []
+    },
+    {
+      "route": "/case-studies/grail",
+      "violations": []
+    },
+    {
+      "route": "/blog",
+      "violations": []
+    }
+  ],
+  "interactions": {
+    "bookingOpens": true,
+    "calendarConfigured": true,
+    "bookingCloses": true,
+    "focusRestored": true,
+    "faqOpens": true,
+    "navigationOpens": true
+  },
+  "redirects": [
+    {
+      "route": "/case-studies/graiai",
+      "status": 301,
+      "location": "/case-studies/grail"
+    },
+    {
+      "route": "/case-studies/graiai.html",
+      "status": 301,
+      "location": "/case-studies/grail"
+    },
+    {
+      "route": "/case-studies/grail.html",
+      "status": 301,
+      "location": "/case-studies/grail"
+    }
+  ],
+  "previews": [
+    {
+      "route": "/cold-email-agency",
+      "overflow": false,
+      "brand": true,
+      "font": true
+    },
+    {
+      "route": "/case-studies/grail",
+      "overflow": false,
+      "brand": true,
+      "font": true
+    },
+    {
+      "route": "/blog",
+      "overflow": false,
+      "brand": true,
+      "font": true
+    }
+  ],
+  "noJavaScript": [
+    {
+      "route": "/cold-email-agency",
+      "h1": "Cold email agency. From list to booked call.",
+      "content": "Home\n/\nCold email agency\n\nDone-for-you B2B outbound\n\nCold email agency. From list to booked call.\n\nThe Revenue Inbox runs the outbound work: strategy, data, copy, sending infrastructure, replies, and booking. You take the sales call and close.\n\n20 qualified meetings. 30 days. Or we work for free.\n\nBook your strategy call\nSee the scope\n\nWhat you are buying\n\nOne team for the whole outbound job.\nStrategy and ICP\nData and list building\nCopy and sequences\nDedicated sending infrastructure\nReplies and follow-up\nQualified meetings booked\n$100\nper qualified booked appointment\n\n+ $1,500/month infrastructure\n\nAt 20 qualified booked appointments a month: $3,500 total.\n\n20 qualified meetings in 30 days from campaign launch, or we work for free.\n\nThe work behind the promise.\n\nOpen a campaign to inspect the targeting, email and results. Each case explains what was counted.\n\nNetworked\n81\nsales meetings in one month\nRead the case study\nGRAIL\n12\nqualified meetings in the first 21 days\nRead the case study\nParking Compliance Systems\n26\nqualified leads a day\nRead the case study\n\nScope\n\nWhat we do.\nWhat stays with you.\n\nThe scope is the offer. This is who owns each part, from the first list to the closed deal.\n\nStrategy and ICP\nDefine the ideal customer profile (ICP), the offer angle and what counts as a qualified meeting.\nExplain the offer and the buyer, and approve the target.\nData and list building\nResearch and verify contacts against the agreed ICP, with exclusions set before the build.\nConfirm accounts you already know and any you want excluded.\nCopy and sequences\nWrite the first touch, the follow-ups and the reply angles for that buyer, not a generic template.\nApprove the voice and any claims about the product.\nSending infrastructure\nSet up and manage dedicated domains, mailboxes and warm-up. Your main domain does not carry the risk.\nYou do not manage the sending setup.\nOutreach and replies\nRun email and LinkedIn outreach and respond to replies within five minutes, including follow-up until the lead books or says no.\nJoin the calls we book.\nMeeting booking\nQualify the interest and put a decision-maker within the agreed ICP on your calendar.\nTake the sales call.\nSales and close\nHand over the context you need before the call.\nRun the sales process and close.\n\nProcess\n\nHow the work runs.\n\nSix stages. One owner from the first list to the meeting on your calendar.\n\n01\nDefine the buyer\n\nWe agree the ICP, the offer angle and what counts as a qualified meeting before any list is built.\n\n02\nBuild the list\n\nContacts are researched and checked against the ICP, with the exclusions agreed up front.\n\n03\nWrite the sequence\n\nFirst touch, follow-ups and reply angles written for that buyer, not a generic template.\n\n04\nSet up sending\n\nDedicated domains, mailboxes and warm-up managed on your behalf, separate from your main domain.\n\n05\nRun the conversations\n\nEmail and LinkedIn outreach, replies within five minutes, and follow-up until the lead books or says no.\n\n06\nBook the meeting\n\nA decision-maker within the agreed ICP, on your calendar, with the context you need for the call.\n\nAfter the reply\n\nThe reply is where most agencies stop.\n\nA positive reply is not a meeting. The work between the two is where this service earns its fee.\n\n01\nA human replies\n\nWithin five minutes, a person answers the question, handles the objection and checks the fit.\n\n02\nWe qualify the meeting\n\nDecision-maker, agreed ICP, and a clear yes to hearing the offer. If it does not meet the definition, it does not count.\n\n03\nWe book the call\n\nWe propose specific times and confirm the booking with the lead.\n\n04\nYou get the context\n\nBefore the call, you know who the buyer is, what they asked and why they agreed to talk.\n\nRead the campaign case studies\n\nWorking together\n\nWhat we need from you.\n\nThe work runs better when one person on your side can make the call. This is the part we cannot do for you.\n\nA clear offer and a buyer you can name\n\nIf you cannot describe who buys and why, we can help shape it, but we cannot invent it.\n\nSomeone who can approve the ICP and the copy\n\nOne decision-maker on your side keeps the build moving and the targeting honest.\n\nSales capacity to take the calls\n\nWe book the meetings. You run the sales conversation and own the close.\n\nA 30-day window after launch\n\nThe 20-meeting promise is measured from campaign launch, not from the first planning call.\n\nNot a fit\nYou need an agency to take the sales calls and close deals.\nYou want positive replies counted as qualified meetings.\nYou are looking for a list vendor rather than a managed campaign.\n\nPricing\n\nThe commercial terms.\nBase fee\n$1,500\nper month for infrastructure\nDomains, mailboxes, data and sending tools.\nPerformance fee\n$100\nper qualified booked appointment\nA decision-maker within the agreed ICP who has agreed to hear the offer.\n\nRolling monthly. No long contract.\n\nAt 20 qualified booked appointments in a month:\n$1,500 base + $2,000 performance\n= $3,500\n\nBook your strategy call\nSee how the full bill works\nQuestions about the service.\nWhat is included in the service?\nWhat do you need from us before launch?\nDo you write the copy, or do we?\nWill you send from our main domain?\nWhat counts as a qualified meeting?\nWhat happens when someone replies?\nCan cold email work in a small market?\nWhat does the 30-day promise cover?\n\nLet’s talk about your market\n\nYour next customer starts with a conversation.\n\nBring your offer. We will map the buyers, look at the economics and tell you where outbound fits.\n\nBook your strategy call\n\n30 minutes. A useful conversation about your market.",
+      "bookingLink": 6,
+      "email": 0
+    },
+    {
+      "route": "/case-studies/grail",
+      "h1": "12 qualified meetings in GRAIL's first 3 weeks of outbound",
+      "content": "Home\n/\nCase studies\n/\nGRAIL\n\nGRAIL · AI research software · First 3 weeks\n\n12 qualified meetings in GRAIL's first 3 weeks of outbound\n\nGRAIL is an AI research agent. Researchers affiliated with 80+ institutions, including Georgia Tech, Carnegie Mellon and Cornell, have run more than 1,500 projects on it. This is what the first 21 days of a Revenue Inbox engagement look like, from a cold start.\n\nBook a strategy call\nExplore the campaign\nCampaign dashboard\nCampaign overview\nRunning\nGRAIL\nCampaign window: First 21 days\nqualified meetings booked\n12\nopportunities\n25\nemails sent\n45,000\ndays live\n21\nCampaign volume\nFirst 21 days\n20 · 30-day guarantee\nDay 1\nDay 21\nEmails sent\nMeetings booked\n\nCampaign totals are sourced. The daily or weekly profile is reconstructed.\n\nCampaign funnel\nEmails sent\n45,000\nReplies, approximately\n~504\n1.1% from prior stage\nOpportunities\n25\n5.0% from prior stage\nQualified meetings\n12\n48.0% from prior stage\n\nBar widths use a square-root scale. Counts and conversion rates are shown explicitly.\n\nActivity\nRepresentative events\nMeeting booked\nAssociate Professor · Engineering\nMeeting booked\nPhD Researcher · Computational biology\nMeeting booked\nResearch Lead · Applied AI lab\nMeeting booked\nPostdoctoral Fellow · Economics\n\nTotals pulled from the client's Instantly account. Dates shown are the campaign window.\n\nSnapshot\nClient:\nGRAIL\nSells:\nAn AI research agent for academic and applied research\nBuyer:\nResearchers, faculty and research teams at universities and research-led organizations\nChannel:\nCold email\nStatus:\nRunning\nIn this campaign\nThe situation\n\nGRAIL came to us with no outbound running. No sending infrastructure, no lists, no tested copy. Everything was built from zero.\n\nWhy we're showing a 3-week result\n\nMost case studies show a best month after a year of tuning. This one shows the start. If you're deciding whether to work with us, the first three weeks are what you'll actually experience.\n\nWhat we did\n\n1. We built and warmed the infrastructure for them. Domains, mailboxes and warm-up were set up and managed on GRAIL's behalf. They didn't touch a single DNS record.\n\n2. We built a list around their real buyer. Targeting was modelled on the researchers already using GRAIL, then enriched and verified so every email reached an active researcher in a relevant field.\n\n3. We let the product sell itself. Researchers are skeptical of AI claims. So the email leads with proof they respect, the institutions whose researchers already use it, and removes the cost of trying: $100 in credits to test it on their own work.\n\n4. We launched small and scaled on proof. Sending started conservatively and increased only as inbox placement held, reaching 45,000 emails by day 21.\n\nOne email from the campaign\nFrom: \nTo: {firstname}\nSubject: First touch\nHi {first name}, interested in an AI research agent that helps you {value prop}?\n\nResearchers affiliated with 80+ institutions, including Georgia Tech, Carnegie Mellon and Cornell, have carried out more than 1,500 projects on the platform.\n\nP.S. I'll add $100 in credits so you can test it for yourself.\n\n{signature}\n\nThe first email in the sequence, as sent. Merge fields highlighted.\n\nMerge field notes\n\nPeer proof researchers trust, plus a free way to test it on their own work.\n\nResults\nMetric\tValue\nDays live\t21\nEmails sent\t45,000\nReply rate\t1.12%\nReplies\t~500\nOpportunities\t25\nQualified meetings booked\t12\nOpportunity to meeting\t48%\nWhat it meant\n\nOur standard promise is 20 qualified meetings in 30 days. GRAIL booked 12 in its first 21 days. And the campaign is still ramping.\n\nBuilt with\n\nClay · Apollo · Mailtester Ninja · Instantly\n\nHow we count\n\nLet’s talk about your market\n\nWant to see what your first 3 weeks could look like? Book a call.\n\n30 minutes. We'll map your market and tell you honestly if outbound will work for it.\n\nBook a strategy call",
+      "bookingLink": 5,
+      "email": 1
+    }
+  ],
+  "concurrentAssets": [
+    {
+      "route": "/styles.css",
+      "status": 200
+    },
+    {
+      "route": "/script.js",
+      "status": 200
+    },
+    {
+      "route": "/assets/brand/wordmark-white.svg",
+      "status": 200
+    },
+    {
+      "route": "/assets/font-6.woff2",
+      "status": 200
+    },
+    {
+      "route": "/styles.css",
+      "status": 200
+    },
+    {
+      "route": "/script.js",
+      "status": 200
+    },
+    {
+      "route": "/assets/brand/wordmark-white.svg",
+      "status": 200
+    },
+    {
+      "route": "/assets/font-6.woff2",
+      "status": 200
+    },
+    {
+      "route": "/styles.css",
+      "status": 200
+    },
+    {
+      "route": "/script.js",
+      "status": 200
+    },
+    {
+      "route": "/assets/brand/wordmark-white.svg",
+      "status": 200
+    },
+    {
+      "route": "/assets/font-6.woff2",
+      "status": 200
+    },
+    {
+      "route": "/styles.css",
+      "status": 200
+    },
+    {
+      "route": "/script.js",
+      "status": 200
+    },
+    {
+      "route": "/assets/brand/wordmark-white.svg",
+      "status": 200
+    },
+    {
+      "route": "/assets/font-6.woff2",
+      "status": 200
+    },
+    {
+      "route": "/styles.css",
+      "status": 200
+    },
+    {
+      "route": "/script.js",
+      "status": 200
+    },
+    {
+      "route": "/assets/brand/wordmark-white.svg",
+      "status": 200
+    },
+    {
+      "route": "/assets/font-6.woff2",
+      "status": 200
+    },
+    {
+      "route": "/styles.css",
+      "status": 200
+    },
+    {
+      "route": "/script.js",
+      "status": 200
+    },
+    {
+      "route": "/assets/brand/wordmark-white.svg",
+      "status": 200
+    },
+    {
+      "route": "/assets/font-6.woff2",
+      "status": 200
+    },
+    {
+      "route": "/styles.css",
+      "status": 200
+    },
+    {
+      "route": "/script.js",
+      "status": 200
+    },
+    {
+      "route": "/assets/brand/wordmark-white.svg",
+      "status": 200
+    },
+    {
+      "route": "/assets/font-6.woff2",
+      "status": 200
+    },
+    {
+      "route": "/styles.css",
+      "status": 200
+    },
+    {
+      "route": "/script.js",
+      "status": 200
+    },
+    {
+      "route": "/assets/brand/wordmark-white.svg",
+      "status": 200
+    },
+    {
+      "route": "/assets/font-6.woff2",
+      "status": 200
+    }
+  ],
+  "summary": {
+    "layouts": 124,
+    "badLayouts": [],
+    "badAxe": [],
+    "badRedirects": [],
+    "badPreviews": [],
+    "badConcurrentAssets": [],
+    "interactions": {
+      "bookingOpens": true,
+      "calendarConfigured": true,
+      "bookingCloses": true,
+      "focusRestored": true,
+      "faqOpens": true,
+      "navigationOpens": true
+    }
+  },
+  "verificationNotes": [
+    "Layout/accessibility/interaction results are from the preceding complete run. The concurrent-asset check was rerun separately after correcting the test to use native fetch Response.status as a property."
+  ]
+}

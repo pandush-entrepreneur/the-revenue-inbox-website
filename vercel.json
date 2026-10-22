@@ -54,6 +54,16 @@
       "statusCode": 301
     },
     {
+      "source": "/case-studies/graiai",
+      "destination": "/case-studies/grail",
+      "statusCode": 301
+    },
+    {
+      "source": "/case-studies/graiai.html",
+      "destination": "/case-studies/grail",
+      "statusCode": 301
+    },
+    {
       "source": "/case-studies/parking-compliance-systems.html",
       "destination": "/case-studies/parking-compliance-systems",
       "statusCode": 301
@@ -69,8 +79,8 @@
       "statusCode": 301
     },
     {
-      "source": "/case-studies/graiai.html",
-      "destination": "/case-studies/graiai",
+      "source": "/case-studies/grail.html",
+      "destination": "/case-studies/grail",
       "statusCode": 301
     },
     {

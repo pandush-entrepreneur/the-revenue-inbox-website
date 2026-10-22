@@ -69,7 +69,7 @@ One H1 per page. Native landmarks, links, buttons, range inputs and details cont
 
 ## Brief-specific taste decisions
 
-The user's explicit dark-first purple direction authorizes soft brand glows, restrained gradient borders, dashboard grids and small mono labels. These are narrow exceptions to generic anti-template taste warnings. Repeated decoration, fake analytics, stock images, holographic objects and unrelated colors remain excluded. The source case narratives override generic copy patterns; the user-approved GraiAI guarantee correction is the sole factual source-copy exception.
+The user's explicit dark-first purple direction authorizes soft brand glows, restrained gradient borders, dashboard grids and small mono labels. These are narrow exceptions to generic anti-template taste warnings. Repeated decoration, fake analytics, stock images, holographic objects and unrelated colors remain excluded. The source case narratives override generic copy patterns; the user-approved GRAIL guarantee correction is the sole factual source-copy exception.
 
 Client strip assets use SVG-native luminance-to-alpha normalization of the supplied logos. The white rectangular image backgrounds disappear, with original contours retained in monochrome. Display these prepared assets without invert or blend-mode filters; animate opacity/transform only.
 
@@ -112,3 +112,18 @@ Founder biography links and nonfeatured article-card reading links align at the 
 Team profiles use two equal panels with 24px between them. Each panel places a portrait beside the name and role, then a full-width biography and LinkedIn link below. Panel padding is 32px desktop, 28px tablet and 24px mobile. Portraits retain their 4:5 ratio at 128px desktop, 104px tablet and 88px mobile. Profiles stack below 768px. Bios are 16px desktop and 15px mobile.
 
 The FAQ is one left-aligned reading column within a centered 960px group. The heading sits above the questions with the shared intro gap and wraps naturally. Native details controls retain all nine answers; question rows have fine separators and a circular plus control. Answer text uses 16px desktop and 15px mobile. Screenshots and responsive/accessibility checks are in evidence/team-faq-v2.
+
+## Commercial pages and social previews, 22 October 2026
+
+The cold email agency page inherits the same type, grid and section tokens. Its
+hero uses a scoped 38–64px Manrope heading and shows the guarantee beside the CTA.
+Source-backed case links follow the hero. Service panels use the existing flat
+dark surface and 16px radius. Consecutive plain service sections share one section
+interval; tonal boundaries retain full insets. Mobile booking navigation and
+breadcrumbs use 12px type with existing 44px targets.
+
+Social previews use tools/social_card.py: current wordmark, Manrope headlines,
+DM Sans labels, dark page ground and the approved purple/neutrals. Homepage,
+service, case and blog cards share this renderer; retired grid/glow artwork is
+not regenerated. The client name is GRAIL and its canonical route is
+/case-studies/grail, with permanent redirects from the previous spelling.

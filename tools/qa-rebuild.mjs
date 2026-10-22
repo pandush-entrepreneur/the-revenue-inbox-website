@@ -43,7 +43,7 @@ for(const [name,engine] of [['chrome',chromium],['firefox',firefox],['webkit',we
    await page.goto(base+'/case-studies');await page.locator('[data-filter=Fundraising]').click();report.interactions.filterCount=await page.locator('.case-card:visible').count();
    await page.goto(base+'/case-studies/networked-fundraise');const pill=page.locator('.merge-pill').first();await pill.tap();report.interactions.tooltip=await page.locator('.merge-tooltip').evaluate(e=>({visible:!e.hidden,left:e.getBoundingClientRect().left,right:e.getBoundingClientRect().right,width:innerWidth}));
    await context.close();
-   const nojs=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844}});const np=await nojs.newPage();await np.goto(base+'/case-studies/graiai');report.interactions.noJS=await np.evaluate(()=>({kpis:[...document.querySelectorAll('.kpi dd')].map(e=>e.textContent),email:!!document.querySelector('.email-body'),players:document.querySelectorAll('iframe').length}));await nojs.close();
+   const nojs=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844}});const np=await nojs.newPage();await np.goto(base+'/case-studies/grail');report.interactions.noJS=await np.evaluate(()=>({kpis:[...document.querySelectorAll('.kpi dd')].map(e=>e.textContent),email:!!document.querySelector('.email-body'),players:document.querySelectorAll('iframe').length}));await nojs.close();
   }
  }finally{await browser.close();}
 }
