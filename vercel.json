@@ -109,6 +109,36 @@
       "statusCode": 301
     },
     {
+      "source": "/compare.html",
+      "destination": "/compare",
+      "statusCode": 301
+    },
+    {
+      "source": "/compare/belkins.html",
+      "destination": "/compare/belkins",
+      "statusCode": 301
+    },
+    {
+      "source": "/compare/saleshive.html",
+      "destination": "/compare/saleshive",
+      "statusCode": 301
+    },
+    {
+      "source": "/compare/martal.html",
+      "destination": "/compare/martal",
+      "statusCode": 301
+    },
+    {
+      "source": "/compare/cience.html",
+      "destination": "/compare/cience",
+      "statusCode": 301
+    },
+    {
+      "source": "/compare/cleverly.html",
+      "destination": "/compare/cleverly",
+      "statusCode": 301
+    },
+    {
       "source": "/blog.html",
       "destination": "/blog",
       "statusCode": 301
@@ -174,6 +204,30 @@
     {
       "source": "/pricing",
       "destination": "/pricing.html"
+    },
+    {
+      "source": "/compare",
+      "destination": "/compare.html"
+    },
+    {
+      "source": "/compare/belkins",
+      "destination": "/compare/belkins.html"
+    },
+    {
+      "source": "/compare/saleshive",
+      "destination": "/compare/saleshive.html"
+    },
+    {
+      "source": "/compare/martal",
+      "destination": "/compare/martal.html"
+    },
+    {
+      "source": "/compare/cience",
+      "destination": "/compare/cience.html"
+    },
+    {
+      "source": "/compare/cleverly",
+      "destination": "/compare/cleverly.html"
     },
     {
       "source": "/blog",

@@ -1,0 +1,2056 @@
+{
+  "layouts": [
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/belkins",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/saleshive",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/martal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/cience",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/cleverly",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": [],
+      "fonts": true,
+      "moreLinks": [
+        "/cold-email-agency",
+        "/pricing",
+        "/compare"
+      ],
+      "errors": []
+    }
+  ],
+  "accessibility": [
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/belkins",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/saleshive",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/martal",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/cience",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/cleverly",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/belkins",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/saleshive",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/martal",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/cience",
+      "violations": []
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/cleverly",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/belkins",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/saleshive",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/martal",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/cience",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/cleverly",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/belkins",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/saleshive",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/martal",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/cience",
+      "violations": []
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/cleverly",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/belkins",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/saleshive",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/martal",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/cience",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/cleverly",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/belkins",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/saleshive",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/martal",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/cience",
+      "violations": []
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/cleverly",
+      "violations": []
+    }
+  ],
+  "navigation": [
+    {
+      "engine": "Chrome",
+      "desktopMore": true,
+      "hubToGuide": true
+    },
+    {
+      "engine": "Chrome",
+      "touchMore": true,
+      "hubToGuide": true
+    },
+    {
+      "engine": "Firefox",
+      "desktopMore": true,
+      "hubToGuide": true
+    },
+    {
+      "engine": "Firefox",
+      "touchMore": true,
+      "hubToGuide": true
+    },
+    {
+      "engine": "WebKit",
+      "desktopMore": true,
+      "hubToGuide": true
+    },
+    {
+      "engine": "WebKit",
+      "touchMore": true,
+      "hubToGuide": true
+    }
+  ],
+  "noJavaScript": [
+    {
+      "engine": "Chrome",
+      "completeContent": true,
+      "nativeFAQ": true,
+      "moreNavigation": true
+    },
+    {
+      "engine": "WebKit",
+      "completeContent": true,
+      "nativeFAQ": true,
+      "moreNavigation": true
+    }
+  ],
+  "spacing": [
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/belkins",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/saleshive",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/martal",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/cience",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 320,
+      "route": "/compare/cleverly",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/belkins",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/saleshive",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/martal",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/cience",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 360,
+      "route": "/compare/cleverly",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/belkins",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/saleshive",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/martal",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/cience",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 390,
+      "route": "/compare/cleverly",
+      "introMargin": 24,
+      "gap": 63.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/belkins",
+      "introMargin": 32,
+      "gap": 71.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/saleshive",
+      "introMargin": 32,
+      "gap": 71.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/martal",
+      "introMargin": 32,
+      "gap": 71.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/cience",
+      "introMargin": 32,
+      "gap": 71.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 768,
+      "route": "/compare/cleverly",
+      "introMargin": 32,
+      "gap": 71.09375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/belkins",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/saleshive",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/martal",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/cience",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "route": "/compare/cleverly",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/belkins",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/saleshive",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/martal",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/cience",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "route": "/compare/cleverly",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/belkins",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/saleshive",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/martal",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/cience",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "route": "/compare/cleverly",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/belkins",
+      "introMargin": 24,
+      "gap": 63.10009765625,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/saleshive",
+      "introMargin": 24,
+      "gap": 63.10009765625,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/martal",
+      "introMargin": 24,
+      "gap": 63.10009765625,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/cience",
+      "introMargin": 24,
+      "gap": 63.099853515625,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 390,
+      "route": "/compare/cleverly",
+      "introMargin": 24,
+      "gap": 63.10009765625,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/belkins",
+      "introMargin": 32,
+      "gap": 31.999862670898438,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/saleshive",
+      "introMargin": 32,
+      "gap": 31.999862670898438,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/martal",
+      "introMargin": 32,
+      "gap": 32.000091552734375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/cience",
+      "introMargin": 32,
+      "gap": 32.000091552734375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "route": "/compare/cleverly",
+      "introMargin": 32,
+      "gap": 32.000091552734375,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/belkins",
+      "introMargin": 24,
+      "gap": 63,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/saleshive",
+      "introMargin": 24,
+      "gap": 63,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/martal",
+      "introMargin": 24,
+      "gap": 63,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/cience",
+      "introMargin": 24,
+      "gap": 63,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 390,
+      "route": "/compare/cleverly",
+      "introMargin": 24,
+      "gap": 63,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/belkins",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/saleshive",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/martal",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/cience",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "route": "/compare/cleverly",
+      "introMargin": 32,
+      "gap": 32,
+      "leftDifference": 0,
+      "rightDifference": 0
+    }
+  ],
+  "hubAlignments": [
+    {
+      "engine": "Chrome",
+      "width": 1024,
+      "cards": [
+        {
+          "top": 409,
+          "width": 453.90625,
+          "bottom": 688.140625,
+          "linkBottom": 655.140625
+        },
+        {
+          "top": 409,
+          "width": 453.921875,
+          "bottom": 688.140625,
+          "linkBottom": 655.140625
+        },
+        {
+          "top": 712,
+          "width": 453.90625,
+          "bottom": 991.015625,
+          "linkBottom": 958.015625
+        },
+        {
+          "top": 712,
+          "width": 453.921875,
+          "bottom": 991.015625,
+          "linkBottom": 958.015625
+        },
+        {
+          "top": 1015,
+          "width": 453.90625,
+          "bottom": 1293.890625,
+          "linkBottom": 1260.890625
+        }
+      ]
+    },
+    {
+      "engine": "Chrome",
+      "width": 1440,
+      "cards": [
+        {
+          "top": 429,
+          "width": 612,
+          "bottom": 671.46875,
+          "linkBottom": 638.46875
+        },
+        {
+          "top": 429,
+          "width": 612,
+          "bottom": 671.46875,
+          "linkBottom": 638.46875
+        },
+        {
+          "top": 695,
+          "width": 612,
+          "bottom": 937.953125,
+          "linkBottom": 904.953125
+        },
+        {
+          "top": 695,
+          "width": 612,
+          "bottom": 937.953125,
+          "linkBottom": 904.953125
+        },
+        {
+          "top": 962,
+          "width": 612,
+          "bottom": 1204.4375,
+          "linkBottom": 1171.4375
+        }
+      ]
+    },
+    {
+      "engine": "Chrome",
+      "width": 1920,
+      "cards": [
+        {
+          "top": 429,
+          "width": 648,
+          "bottom": 671.46875,
+          "linkBottom": 638.46875
+        },
+        {
+          "top": 429,
+          "width": 648,
+          "bottom": 671.46875,
+          "linkBottom": 638.46875
+        },
+        {
+          "top": 695,
+          "width": 648,
+          "bottom": 937.953125,
+          "linkBottom": 904.953125
+        },
+        {
+          "top": 695,
+          "width": 648,
+          "bottom": 937.953125,
+          "linkBottom": 904.953125
+        },
+        {
+          "top": 962,
+          "width": 648,
+          "bottom": 1204.4375,
+          "linkBottom": 1171.4375
+        }
+      ]
+    },
+    {
+      "engine": "Firefox",
+      "width": 1440,
+      "cards": [
+        {
+          "top": 429,
+          "width": 612,
+          "bottom": 671.5,
+          "linkBottom": 638.5
+        },
+        {
+          "top": 429,
+          "width": 612,
+          "bottom": 671.5,
+          "linkBottom": 638.5
+        },
+        {
+          "top": 696,
+          "width": 612,
+          "bottom": 938,
+          "linkBottom": 905
+        },
+        {
+          "top": 696,
+          "width": 612,
+          "bottom": 938,
+          "linkBottom": 905
+        },
+        {
+          "top": 962,
+          "width": 612,
+          "bottom": 1204.5,
+          "linkBottom": 1171.5
+        }
+      ]
+    },
+    {
+      "engine": "WebKit",
+      "width": 1440,
+      "cards": [
+        {
+          "top": 428,
+          "width": 612,
+          "bottom": 670,
+          "linkBottom": 637
+        },
+        {
+          "top": 428,
+          "width": 612,
+          "bottom": 670,
+          "linkBottom": 637
+        },
+        {
+          "top": 694,
+          "width": 612,
+          "bottom": 936,
+          "linkBottom": 903
+        },
+        {
+          "top": 694,
+          "width": 612,
+          "bottom": 936,
+          "linkBottom": 903
+        },
+        {
+          "top": 960,
+          "width": 612,
+          "bottom": 1202,
+          "linkBottom": 1169
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "layouts": 66,
+    "failures": [],
+    "accessibility": [],
+    "spacingChecks": 55,
+    "hubAlignmentChecks": 5,
+    "navigation": [
+      {
+        "engine": "Chrome",
+        "desktopMore": true,
+        "hubToGuide": true
+      },
+      {
+        "engine": "Chrome",
+        "touchMore": true,
+        "hubToGuide": true
+      },
+      {
+        "engine": "Firefox",
+        "desktopMore": true,
+        "hubToGuide": true
+      },
+      {
+        "engine": "Firefox",
+        "touchMore": true,
+        "hubToGuide": true
+      },
+      {
+        "engine": "WebKit",
+        "desktopMore": true,
+        "hubToGuide": true
+      },
+      {
+        "engine": "WebKit",
+        "touchMore": true,
+        "hubToGuide": true
+      }
+    ],
+    "noJavaScript": [
+      {
+        "engine": "Chrome",
+        "completeContent": true,
+        "nativeFAQ": true,
+        "moreNavigation": true
+      },
+      {
+        "engine": "WebKit",
+        "completeContent": true,
+        "nativeFAQ": true,
+        "moreNavigation": true
+      }
+    ]
+  }
+}

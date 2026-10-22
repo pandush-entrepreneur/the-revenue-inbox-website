@@ -1,0 +1,17 @@
+{
+  "checked":"2026-10-22",
+  "sources":[
+    {"id":"pricing","label":"Belkins plans and pricing","url":"https://belkins.io/pricing"},
+    {"id":"email","label":"Belkins cold email service","url":"https://belkins.io/cold-email-services"},
+    {"id":"appointments","label":"Belkins appointment-setting service","url":"https://belkins.io/appointment-setting"}
+  ],
+  "rows":[
+    {"dimension":"How fees are presented","ours":"Published base fees plus $100 per qualified booked meeting. Basic vendor bills are extra.","theirs":"Custom monthly retainers; dollar amounts are not listed on the pricing page.","source":"pricing"},
+    {"dimension":"Core outreach","ours":"Managed email and LinkedIn, from targeting and copy to reply handling and booking.","theirs":"Cold email and LinkedIn are included across the listed packages.","source":"pricing"},
+    {"dimension":"Wider channel scope","ours":"Email-led appointment setting. We do not sell a full cold-calling team or paid advertising program.","theirs":"Growth Plus lists cold calling, account-based marketing and paid advertising.","source":"pricing"},
+    {"dimension":"Work behind the booking","ours":"ICP definition, prospect research, copy, infrastructure, replies and qualified booking.","theirs":"Manual prospect vetting, tailored messaging, human reply handling and no-show follow-up.","source":"email"},
+    {"dimension":"Meeting qualification","ours":"A decision-maker inside the agreed ICP who has agreed to hear the offer, booked into a call.","theirs":"Describes qualification around client requirements and manual validation. Agree the exact acceptance criteria in your proposal.","source":"appointments"}
+  ],
+  "unknowns":["A dollar quote for the buyer's actual scope", "Minimum term, renewal and cancellation conditions", "What happens to fees for no-shows, duplicates or rejected meetings", "Who owns the domains, mailboxes and campaign data at handover"],
+  "publication_notes":"Publisher is The Revenue Inbox. Official pages are a dated snapshot, not a hands-on service test. No invented Belkins price, contract, guarantee absence, customer complaints, switcher claims or percentage savings. The absence of a public detail is not evidence the service lacks it. Belkins also lists a small-business offering delivered by partner agencies; acknowledge it in the visible page. This is a direct comparison; other providers belong on their own pages."
+}

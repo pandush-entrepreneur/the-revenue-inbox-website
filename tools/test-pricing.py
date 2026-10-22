@@ -56,12 +56,13 @@ class PricingTests(unittest.TestCase):
         paths = [ROOT / 'index.html', ROOT / 'pricing.html', ROOT / 'cold-email-agency.html', ROOT / 'case-studies.html', ROOT / 'blog.html']
         paths += [p for p in (ROOT / 'case-studies').glob('*.html') if p.stem != 'graiai']
         paths += list((ROOT / 'blog').glob('*.html')) + list((ROOT / 'authors').glob('*.html'))
-        self.assertEqual(len(paths), 19)
+        paths += [ROOT / 'compare.html'] + list((ROOT / 'compare').glob('*.html'))
+        self.assertEqual(len(paths), 25)
         for path in paths:
             page = BeautifulSoup(path.read_text(encoding='utf8'), 'html.parser')
             for selector in ['.desktop-nav', '.mobile-menu > nav']:
                 nav = page.select_one(selector)
-                self.assertEqual([a['href'] for a in nav.select('.nav-more-panel a')], ['/cold-email-agency', '/pricing'], path.name)
+                self.assertEqual([a['href'] for a in nav.select('.nav-more-panel a')], ['/cold-email-agency', '/pricing', '/compare'], path.name)
                 self.assertFalse(nav.select(':scope > a[href="/cold-email-agency"], :scope > a[href="/pricing"]'), path.name)
 
     def test_previous_articles_remain_approved_and_contextualized(self):

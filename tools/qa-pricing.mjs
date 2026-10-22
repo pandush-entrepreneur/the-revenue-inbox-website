@@ -71,7 +71,7 @@ for(const [name,engine] of [['Chrome',chromium],['Firefox',firefox],['WebKit',we
    for(const id of ['basic','standard','express']){
     const button=page.locator(`#${id} .button`);await button.tap();
     assert(await page.locator('.booking-dialog').evaluate(e=>e.open));
-    await page.keyboard.press('Escape');assert.equal(await page.locator('.booking-dialog').evaluate(e=>e.open),false);
+    await page.keyboard.press('Escape');await page.waitForFunction(()=>!document.querySelector('.booking-dialog').open);assert.equal(await page.locator('.booking-dialog').evaluate(e=>e.open),false);
     assert(await button.evaluate(e=>e===document.activeElement));
    }
    await page.locator('#faq summary').first().tap();assert(await page.locator('#faq details').first().evaluate(e=>e.open));
@@ -86,7 +86,7 @@ for(const [name,engine] of [['Chrome',chromium],['Firefox',firefox],['WebKit',we
   }
  }finally{await browser.close();}
 }
-const failures=report.layouts.filter(r=>r.overflow||r.h1!==1||r.status!==200||r.brokenImages.length||!r.fonts||r.errors.length||r.moreLinks.join(',')!=='/cold-email-agency,/pricing');
+const failures=report.layouts.filter(r=>r.overflow||r.h1!==1||r.status!==200||r.brokenImages.length||!r.fonts||r.errors.length||r.moreLinks.join(',')!=='/cold-email-agency,/pricing,/compare');
 const accessibility=report.accessibility.filter(r=>r.violations.length);
 report.summary={layouts:report.layouts.length,failures,accessibility,interactionGroups:report.interactions.length,noJavaScript:report.noJavaScript};
 fs.writeFileSync(`${out}/qa.json`,JSON.stringify(report,null,2));console.log(JSON.stringify(report.summary,null,2));

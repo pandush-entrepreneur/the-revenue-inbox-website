@@ -8,5 +8,6 @@ subprocess.run([sys.executable,str(ROOT/'tools'/'build-blog-covers.py')],check=T
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-rebuild.py')],check=True,cwd=ROOT)
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-service-pages.py')],check=True,cwd=ROOT)
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-pricing.py')],check=True,cwd=ROOT)
+subprocess.run([sys.executable,str(ROOT/'tools'/'build-comparisons.py')],check=True,cwd=ROOT)
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-social-previews.py')],check=True,cwd=ROOT)
 subprocess.run([sys.executable,str(ROOT/'tools'/'build-blog.py')]+(['--preview'] if args.preview else []),check=True,cwd=ROOT)

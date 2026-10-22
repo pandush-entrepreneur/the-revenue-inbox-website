@@ -1,0 +1,25 @@
+{
+  "name":"CIENCE",
+  "checked":"2026-10-22",
+  "sources":[
+    {"id":"pricing","label":"CIENCE SDR and appointment-setting pricing","url":"https://www.cience.com/pricing/"},
+    {"id":"email","label":"CIENCE cold email agency service","url":"https://www.cience.com/cold-email-agency/"},
+    {"id":"appointments","label":"CIENCE appointment-setting service","url":"https://www.cience.com/appointment-setting/"}
+  ],
+  "rows":[
+    {"dimension":"Billing structure","ours":"Published base fees plus $100 per qualified booked meeting. Basic vendor bills are additional.","theirs":"Team and platform fees, per-SDR fees, performance bonuses and a one-time setup charge.","source":"pricing"},
+    {"dimension":"Meeting basis","ours":"The variable fee applies to a qualified booked call. Booking is distinct from attendance or a closed sale.","theirs":"The pricing page links SDR bonuses to held-meeting targets.","source":"pricing"},
+    {"dimension":"Outreach channels","ours":"Email-led campaigns with LinkedIn outreach. We do not sell a dedicated cold-calling team.","theirs":"Coordinated email, phone and LinkedIn outreach.","source":"appointments"},
+    {"dimension":"Work behind the booking","ours":"ICP definition, prospect research, messaging, infrastructure, replies and qualified booking.","theirs":"Sending infrastructure, verified lists, copy, human reply handling and meeting handoff.","source":"email"},
+    {"dimension":"Qualification","ours":"A decision-maker inside the agreed ICP who has agreed to hear the offer, booked into a call.","theirs":"Fit, timing and authority criteria agreed with the client's sales team before launch.","source":"appointments"},
+    {"dimension":"Launch timing","ours":"Express: day 3 after payment, required inputs and approvals are complete, using prewarmed infrastructure.","theirs":"Its pricing page advertises launch in less than 14 days. Confirm the clock and readiness requirements in your quote.","source":"pricing"}
+  ],
+  "fee_components":[
+    {"label":"Campaign team","amount":2000,"unit":"per month"},
+    {"label":"graph8 platform","amount":499,"unit":"per month"},
+    {"label":"Offshore SDR","amount":1750,"unit":"per SDR per month, starting rate"},
+    {"label":"US or Europe SDR","amount":3500,"unit":"per SDR per month, starting rate"}
+  ],
+  "research_notes":"Use the current official pricing page, not historical third-party retainers. The homepage calls the variable element a commission per held meeting, but the detailed pricing page specifies a target-based bonus formula. Attribute the detailed model to that pricing page, do not flatten it to a simple per-meeting price. Fee components: campaign team 2000/month, graph8 499/month, offshore SDR from 1750/person/month or US/Europe from 3500. A setup charge is described but no amount is listed. The published five-offshore-SDR example is 11249/month before bonuses; do not compare it as if it promises the same 20 bookings as our scenario. No fixed-meeting guarantee or client-switching history is established. The broader graph8 platform is related to the managed service, not another agency recommendation. The public monthly rates and launch claim are dated snapshots, not a negotiated quote or a verified SLA.",
+  "decision":"Foreground our simple qualified-booking fee and infrastructure choices for lean teams with a sales-call owner. Fairly acknowledge CIENCE's managed work, qualification, held-meeting measurement and multi-channel SDR coverage. Compare deliverables and accepted/held outcomes before any cost-per-result calculation."
+}

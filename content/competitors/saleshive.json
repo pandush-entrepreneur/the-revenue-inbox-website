@@ -1,0 +1,19 @@
+{
+  "name":"SalesHive",
+  "checked":"2026-10-22",
+  "sources":[
+    {"id":"pricing","label":"SalesHive plans and pricing","url":"https://saleshive.com/pricing/"},
+    {"id":"email","label":"SalesHive email outreach service","url":"https://saleshive.com/email-outreach"},
+    {"id":"appointments","label":"SalesHive appointment-setting service","url":"https://saleshive.com/appointment-setting"}
+  ],
+  "rows":[
+    {"dimension":"Billing model","ours":"Published monthly base fees plus $100 per qualified booked meeting. Basic vendor bills are extra.","theirs":"Custom-quoted flat monthly managed-service fee, rather than per-meeting billing.","source":"pricing"},
+    {"dimension":"Outreach channels","ours":"Email and LinkedIn outreach, with targeting, replies and qualified booking handled for you.","theirs":"Starter covers phone; Growth and Crush add email. US-based and offshore SDR options.","source":"pricing"},
+    {"dimension":"What the service covers","ours":"An email-led meeting-booking service. We do not provide a dedicated cold-calling team.","theirs":"Strategist, SDR coverage, platform and data included in the managed program.","source":"pricing"},
+    {"dimension":"Meeting commitment","ours":"Standard and Express: 20 qualified meetings in 30 days from campaign launch, or we work for free. Basic is excluded.","theirs":"States that it does not guarantee a fixed number of meetings.","source":"pricing"},
+    {"dimension":"Launch timing","ours":"Express: day 3 after payment, required inputs and approvals are complete, using prewarmed domains and mailboxes.","theirs":"Describes a typical launch of about three weeks, depending on approvals and campaign readiness.","source":"email"},
+    {"dimension":"Sending setup","ours":"Basic: you buy the domains, mailboxes and tools and share access. Standard and Express: we buy and manage them.","theirs":"Managed sending infrastructure, authentication and separate outreach domains.","source":"email"}
+  ],
+  "research_notes":"Verified official pricing, email outreach and appointment-setting pages. Do not invent a dollar retainer or percentage savings. The pricing page explicitly distinguishes flat billing from per-meeting billing and explicitly disclaims a fixed meeting guarantee. Typical launch timing is not a contractual SLA; Express has a different, conditional starting clock. SalesHive includes managed tooling and data, so do not imply its quoted fee requires buying those again. Its page describes both month-to-month cancellation notice and annual options; do not simplify that to cancel-any-time or a required annual term. No evidence of clients switching between agencies is supplied.",
+  "decision":"For B2B teams with sales-call capacity that want email-led qualified booking and published plan fees, present The Revenue Inbox as the focused choice. A dedicated phone-led SDR team is a different scope. Keep this page a direct comparison with no other vendors."
+}

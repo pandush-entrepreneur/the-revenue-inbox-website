@@ -1,0 +1,19 @@
+{
+  "name":"Cleverly",
+  "checked":"2026-10-22",
+  "sources":[
+    {"id":"email","label":"Cleverly cold email service and plans","url":"https://www.cleverly.co/cold-email-outreach-agency"},
+    {"id":"linkedin","label":"Cleverly LinkedIn lead generation","url":"https://www.cleverly.co/linkedin-lead-generation"},
+    {"id":"appointments","label":"Cleverly appointment-setting service","url":"https://www.cleverly.co/appointment-setting"}
+  ],
+  "rows":[
+    {"dimension":"Billing model","ours":"Published monthly base fees plus $100 per qualified booked meeting. Basic vendor bills are extra.","theirs":"Cold email lists Growth as a flat monthly retainer and Scale as pay per lead; request the rates.","source":"email"},
+    {"dimension":"What the variable fee buys","ours":"A booked call with a decision-maker inside the agreed ICP who has agreed to hear the offer.","theirs":"Scale is labeled pay per lead. Confirm the billable lead definition and booking scope before comparing it with a meeting fee.","source":"email"},
+    {"dimension":"Channels and service scope","ours":"Email-led campaigns with LinkedIn outreach, handled through to qualified booking.","theirs":"Separate LinkedIn, cold email and appointment-setting services; appointment setting can combine LinkedIn, email and calling.","source":"appointments"},
+    {"dimension":"Reply and booking handoff","ours":"We handle replies and qualified booking. Your team takes the sales calls and closes.","theirs":"Its cold email FAQ offers reply handling, qualification and calendar booking with the full-service option.","source":"email"},
+    {"dimension":"Sending infrastructure","ours":"Basic: you buy domains, mailboxes and tools. Standard and Express: we buy and manage the setup.","theirs":"Cold email plans list inbox/domain setup and deliverability management.","source":"email"},
+    {"dimension":"Qualification rules","ours":"The ICP and qualified-booking criteria are agreed before launch. A positive reply alone does not count.","theirs":"Appointment qualification is agreed upfront around title, company size, industry, authority and timing.","source":"appointments"}
+  ],
+  "research_notes":"Verified the official LinkedIn, cold email and appointment-setting pages. LinkedIn FAQ says from 397/month. Cold email Growth is a flat monthly retainer; Scale is pay per lead, with no dollar rates listed in those plan blocks. Its full-service email option can handle replies, qualification and calendar booking. The appointment-setting FAQ lists 697–2997/month and says it does not offer pure pay-per-appointment pricing. These are different service-page claims, not evidence that the cold email Scale plan is absent. Do not apply the LinkedIn entry rate or appointment-setting range to all Cleverly services. Do not call Cleverly retainer-only, LinkedIn-only or incapable of booking meetings. Its cold-email 4–6 week results statement is measured after launch; it is not a setup duration comparable to our conditional Express launch. No meeting-guarantee absence, customer complaints, savings percentage or switcher story is established.",
+  "decision":"For B2B teams buying qualified booked calls, emphasize our explicit booking definition, published fees, choice of infrastructure ownership, Standard/Express guarantee and Express clock. Fairly distinguish a lead fee from a booking fee and ask for a scope-matched quote. Keep other agencies out of this direct comparison."
+}

@@ -9,7 +9,7 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parents[1]
 BASE = 'https://www.therevenueinbox.com'
 records = json.loads((ROOT / 'tools/rebuild-data.json').read_text(encoding='utf8'))
-routes = ['/', '/pricing', '/cold-email-agency', '/case-studies', '/blog', '/authors/pandush', '/authors/umair']
+routes = ['/', '/pricing', '/cold-email-agency', '/compare', '/compare/belkins', '/compare/saleshive', '/compare/martal', '/compare/cience', '/compare/cleverly', '/case-studies', '/blog', '/authors/pandush', '/authors/umair']
 routes += ['/case-studies/' + r['id'] for r in records]
 routes += ['/blog/' + p.stem for p in (ROOT / 'blog').glob('*.html')]
 config = json.loads((ROOT / 'vercel.json').read_text())
@@ -51,6 +51,17 @@ for route in routes:
         assert preview.select_one('h1').get_text() == soup.select_one('h1').get_text(), (route, 'stale preview')
         assert preview.select_one('meta[property="og:image"]')['content'] == og
         assert (ROOT / '.preview/blog' / image.relative_to(ROOT)).read_bytes() == image.read_bytes()
+        if route.startswith('/compare'):
+            assert str(preview.body) == str(soup.body), (route, 'comparison preview body drift')
+            assert preview.select_one('meta[name=robots]')['content'] == 'noindex,nofollow'
+
+for file in (ROOT / 'compare').glob('*.html'):
+    comparison = BeautifulSoup(file.read_text(encoding='utf8'), 'html.parser')
+    comparison_graph = json.loads(comparison.select_one('script[type="application/ld+json"]').string)['@graph']
+    comparison_faq = next(x for x in comparison_graph if x['@type'] == 'FAQPage')
+    for entity, details in zip(comparison_faq['mainEntity'], comparison.select('#faq details'), strict=True):
+        assert entity['name'] == details.summary.get_text(strip=True), file.name
+        assert entity['acceptedAnswer']['text'] == details.select_one('.faq-answer').get_text(strip=True), file.name
 
 service = BeautifulSoup((ROOT / 'cold-email-agency.html').read_text(), 'html.parser')
 graph = json.loads(service.select_one('script[type="application/ld+json"]').string)['@graph']

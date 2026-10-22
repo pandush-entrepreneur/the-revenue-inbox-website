@@ -1,0 +1,18 @@
+{
+  "name":"Martal Group",
+  "checked":"2026-10-22",
+  "sources":[
+    {"id":"pricing","label":"Martal Group pricing and service tiers","url":"https://martal.ca/pricing/"},
+    {"id":"email","label":"Martal Group cold email service","url":"https://martal.ca/cold-email-service/"}
+  ],
+  "rows":[
+    {"dimension":"How you pay","ours":"Published monthly base fees plus $100 per qualified booked meeting. Basic vendor bills are additional.","theirs":"Tier 1A lists a flat monthly fee; Tiers 2 and 3 add sales commission. Dollar rates require a quote.","source":"pricing"},
+    {"dimension":"Service scope","ours":"Managed outbound through to qualified booking. Your team takes the sales calls and closes.","theirs":"Lead generation, with higher tiers extending into sales, customer onboarding and account management.","source":"pricing"},
+    {"dimension":"Outreach channels","ours":"Email-led campaigns with LinkedIn outreach, research, copy, replies and booking.","theirs":"Email, LinkedIn and phone outreach with intent-based targeting and expert-reviewed messaging.","source":"email"},
+    {"dimension":"Campaign preparation","ours":"Basic uses infrastructure you buy directly. Standard and Express include infrastructure we buy and manage.","theirs":"Business profiling, audience research and a custom multi-channel strategy before launch.","source":"email"},
+    {"dimension":"Launch timing","ours":"Express: day 3, using prewarmed domains and mailboxes, after payment, required inputs and approvals are complete.","theirs":"Its cold email page advertises campaign launch within two weeks. Confirm the starting point in your proposal.","source":"email"},
+    {"dimension":"Meeting commitment","ours":"Standard and Express: 20 qualified meetings in 30 days from campaign launch, or we work for free. Basic is excluded.","theirs":"Agree the meeting target, qualification criteria and any performance remedy in your proposal.","source":"pricing"}
+  ],
+  "research_notes":"The official pricing page distinguishes Tier 1A outbound lead generation from Tier 2 sales/customer onboarding and Tier 3 account management. Tier 1A lists a three-month pilot and flat monthly billing; Tiers 2/3 list four-month pilots and monthly fees plus sales commission. Dollar rates are not listed. The pricing page's average-production funnel numbers are not verified guarantees and are not comparable to booked meetings. The cold email page advertises a two-week launch but does not define the same starting clock as our Express promise. No fixed-meeting guarantee was established from these pages: do not assert that Martal lacks one. No evidence of clients switching agencies is provided. Do not imply our service includes closing or that Martal only offers a full sales function.",
+  "decision":"For founders with a sales-call owner, foreground the narrower job of qualified-booking delivery at published plan fees. Identify Tier 1A as the closest Martal scope to compare. Discuss higher tiers as different services, without comparing their total fees as if the deliverables were identical."
+}

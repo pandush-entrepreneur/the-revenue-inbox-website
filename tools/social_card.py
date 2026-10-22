@@ -39,7 +39,7 @@ def render_social_card(output, key, title, label, summary=''):
     size = 72
     while True:
         font = face(6, size)
-        lines = wrap(draw, title, font, 1072)
+        lines = [line for paragraph in title.splitlines() for line in wrap(draw, paragraph, font, 1072)]
         if len(lines) <= 3 and len(lines) * (size + 13) <= 255:
             break
         size -= 2

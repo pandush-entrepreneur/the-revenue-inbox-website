@@ -131,7 +131,7 @@ not regenerated. The client name is GRAIL and its canonical route is
 ## Pricing page and More navigation, 22 October 2026
 
 The header keeps The system, Case studies, Blog and The math as direct links.
-More contains Cold email agency and Pricing. It is a native details disclosure,
+More contains Cold email agency, Pricing and How we compare. It is a native details disclosure,
 with hover enhancement on fine pointers, click/tap, Arrow Down, Escape, outside
 click and focus handling. Mobile uses the same links inside its native menu;
 More remains usable without JavaScript.
@@ -152,3 +152,23 @@ the 20-meeting, 30-day guarantee. The clock for that guarantee starts at campaig
 launch, separately from the Express setup clock. These are founder-confirmed
 commercial facts. Social previews use the existing shared renderer and disclose
 that quoted monthly base fees exclude meeting fees and Basic vendor costs.
+
+## Comparison reading pages, 22 October 2026
+
+The /compare hub is a concise directory of completed comparisons. It uses two
+columns on desktop and one below 900px. Cards share equal row heights across the
+grid, with the comparison links aligned at the bottom. Mobile card titles use
+26px Manrope. There are no empty or unpublished comparison cards.
+
+Individual pages keep the approved reading layout, pricing tables and native
+FAQs. The pricing introduction, table and follow-up prose align within a 760px
+measure. The gap after the introduction is 32px desktop/tablet and 24px mobile.
+Plain sections share the existing half-inset rhythm; tonal sections retain full
+insets. Pricing links keep their arrow alongside the text.
+
+Each comparison includes one semantic HTML figure before its service table.
+The figures explain our infrastructure choices, billing formula, sales handoff,
+meeting stages or qualification flow. They use the existing fonts, panel surface,
+purple accent and authored arrows. They contain approved terms, not simulated
+client data or performance charts. Figures show columns on desktop and stack
+vertically on mobile with readable live text. No new JavaScript is required.

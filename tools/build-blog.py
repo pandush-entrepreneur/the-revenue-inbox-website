@@ -171,7 +171,7 @@ def preview(output):
     if output==ROOT or not output.is_relative_to(ROOT/'.preview'):
         raise ValueError('Review output must be inside the project .preview directory')
     output.mkdir(parents=True,exist_ok=True)
-    for folder in ['assets','case-studies','authors']:
+    for folder in ['assets','case-studies','authors','compare']:
         if (ROOT/folder).exists():shutil.copytree(ROOT/folder,output/folder,dirs_exist_ok=True)
     for file in ROOT.iterdir():
         if file.is_file() and (file.suffix in ['.html','.css','.js','.xml','.ico','.webmanifest'] or file.name in ['vercel.json','robots.txt']):
